@@ -1,0 +1,119 @@
+--- layout: post title: Meet uGet - the multi-threaded downloader for
+Ubuntu + Chrome integration categories: - IT Insight Series - Other
+tags: [] status: publish type: post published: true meta: \_edit\_last:
+'24' seo-title: '' seo-description: '' seo-keywords: '' layout-type: '0'
+sidebar-type: Global Sidebar title-show: '0' title-content: ''
+slide-type: '0' layer-slide-id: '0' rev-slide-id: '0' video-type: '0'
+video-content: '' audio-type: '0' audio-content: '' show-related-post:
+'0' show-related-post-number: '3' \_wpas\_done\_all: '1'
+\_thumbnail\_id: '1456' ---
+
+Ubuntu users have a few internet download clients to choose from, but
+none of them are particularly spectacular, like the tremendous Internet
+Download Manager for Windows. Many of downloaders are not user friendly,
+some are way too simple (I rather use the default clients come with
+browsers).
+
+[caption id="" align="alignright"
+width="382"]![](http://cdn.alternativeto.net/s/711b93bb-7ede-df11-aa71-0200d897d049_1_full.png)
+MultiGet was just so sexy ![/caption] Look around the these Ubuntu
+forums, [Aria2 appears to be the favoured
+one](http://askubuntu.com/questions/180397/what-is-the-best-downloading-program-for-ubuntu),
+with constant updates from developers, even backed by Canonical.
+However, Aria is command-line oriented, and I’m not that tech-saavy. A
+couple of years ago, there
+were [MultiGet](http://multiget.sourceforge.net/), which was
+surprisingly FlashGet look-alike. Sadly, the promising project
+discontinued in 2007. [wxDownload
+Fast](http://dfast.sourceforge.net/) was another potential multi-threded
+download manager, until the developers went on a “hiatus” in 2007 (and
+never come back). Eventually I settled on DownThemAll of Firefox, which
+did the job fine enough. My search for a download accelerator recurred
+just recently, when a non-geek friend of mine ask for a replacement for
+IDM on Ubuntu. I was reluctant at first, knowing I would go nowhere.
+However, situation changed, and now I discovered uGet and flareGet are
+the pretty decent. They all are actively in developement, has friendly
+user interface, and support multi-threaded download. After a few weeks
+of constant usage, speed comparison, connection analysis, HIV blood
+test... I found uGet to suit my need the best.
+
+# uGet
+
+uGet is my personal favourite out of all. Written in GTK+ 3, it can
+handle most things a typical download manager does: pause and resume ,
+classify download , every category has an independent configuration, and
+more …
+
+Click [here](http://uget.visuex.com/features) for the complete list of
+features.
+
+## Where it excels
+
+Multi-threaded downloading, with Aria2. This way, uGet acts as a
+frontend to Aria2, which supports up to 32 connections.
+
+Out of all the tools I tried, uGet has the simpliest, most explicit
+design, matching the philosophy of Unity. The use of GTK is a plus.
+
+It also have the best integration with Ubuntu, there are notifications
+signify when a process begins and completes.
+
+The main dev - Michael Tunnell - seems like a nice dude. Wherever people
+posting about a download method for Ubuntu, he's there popularising
+uGet. Many criticise his over-enthusiasm, I respect his dedication.
+
+## Where it fall shorts
+
+uGet does not display the download process of each segments, instead it
+shows the detail of file being download as a whole. At first, the fact
+that I couldn’t monitor the percentage of each segments was really
+annoying, but soon I became accustomed to it, since I found the download
+speed is considerably faster.
+
+## Installation
+
+Since the version of uGet comes with Software Centre is obsoleted (in
+fact, that version does not support Aria2, hence no acceleration), it’s
+better that you [fetch uGet from the official
+PPA](http://uget.visuex.com/downloads).
+
+Remember to install Aria2 as well.
+
+### Browser integration
+
+If you use Firefox, FlashGot supports uGet (in fact FlashGot supports
+most download managers on Linux, even the command-line ones)
+
+For Chrome/Chromium, you can use Download Assistant, or Simple Get.
+While Download Assistant gives you choice among different clients,
+Simple Get is my personal favourite, as it simply... gets the damn
+thing.
+
+#### **Download Assistant**
+
+I have no idea why this extension is no longer available from the Chrome
+Store. However, I found a download link
+[here](http://www.mediafire.com/download/3m4xl539pz3sz7i/download_assistant_5_0_2.crx).
+
+After you have Download Assistant installed, get it to work with Chrome.
+Read more at [Ubuntu
+Vibes](http://www.ubuntuvibes.com/2011/03/new-chrome-extension-brings-support-for.html)
+for a thorough instruction.
+
+If the command *uget-gtk %u* does not work, replace it with *uget-gtk
+"\$URL"*.
+
+#### **Simple Get**
+
+After installing the extension from [Chrome Extension
+site](http://www.chromeextensions.org/other/simple-get/), configure it
+like the image below:
+
+![Simple
+Get](http://rmitc.org/wp-content/uploads/2013/06/Simple-Get.png)
+
+# Update 09 October 2013
+
+The official uGet extension has been released on 07 October. For a
+complete installation instruction, [click
+here](http://ugetdm.com/blog/6-news/31-uget-extension-for-chromechromium-is-now-available).

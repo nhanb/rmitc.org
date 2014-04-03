@@ -1,0 +1,75 @@
+--- layout: post title: Viettel staff uses Ubuntu - Yes, they do !
+categories: - Business - News - Partnership tags: - geek - ubuntu
+status: publish type: post published: true meta: \_edit\_last: '24'
+seo-title: '' seo-description: '' seo-keywords: '' layout-type: '0'
+sidebar-type: Global Sidebar title-show: '1' title-content: ''
+slide-type: '0' layer-slide-id: '0' rev-slide-id: '0' video-type: '0'
+video-content: '' audio-type: '0' audio-content: '' show-related-post:
+'0' show-related-post-number: '3' \_wpas\_done\_all: '1'
+\_thumbnail\_id: '1152' ---
+
+Ever since I was introduced to Ubuntu 5 years ago, I have sticked with
+it and never go back. I guess I was lucky, as my first impression with
+Ubuntu was flawless, it was so fresh that it blew me away.
+
+However, the experience many had with Ubuntu are not as perfect. Take my
+best friend as an example. His Windows XP set-up was screwed up so bad,
+it was infected with a virus, and every now and then the virus plays a
+short sample of “I Lay My Love on You” (the virus creater must had been
+a Westlife fan). I convinced him to dual-boot Ubuntu, and just before I
+became proud of myself for doing good deed, he messed up the
+gnome-panel, and complained “why is that U-shitty-something you
+installed ugly as hell”? Truth be told, Ubuntu was the first thing we
+had ever disagree on.
+
+For many years, I had never seen anybody but me use Linux. Sometimes, I
+felt like an oasis, a wierdo. I told myself I’d be psyched if I've ever
+seen one, which would have been... never.
+
+## Ubuntu at Viettel
+
+Today I went to a Viettel store. I usually come to the local one, a
+massive one, where customers are not permitted to check stuff behind the
+counter. The store I went to this morning was different, so I was
+thrilled to see this:
+
+[![IMG\_20130424\_103332](http://rmitc.org/wp-content/uploads/2013/04/IMG_20130424_103332-1024x768.jpg)](http://rmitc.org/wp-content/uploads/2013/04/IMG_20130424_103332.jpg)
+HAVE YOU SEEN IT ?
+[![IMG\_20130424\_103349](http://rmitc.org/wp-content/uploads/2013/04/IMG_20130424_103349-1024x768.jpg)](http://rmitc.org/wp-content/uploads/2013/04/IMG_20130424_103349.jpg)
+I had a brief chat with the counter girl:
+
+> **ME**: Just out of curiosity, is the system you are using Ubuntu ?
+> (what a dumb question) **COUNTER GIRL**: Ubun - what? I dunno, the
+> tech-saavy guys from the IT department installed this. **ME**: How
+> long have you been using this ? **COUNTER GIRL**: Hard to remember, I
+> reckon two years. **ME**: Do you know which version you are using ?
+> The counter girl shrugged, then commented: this Windows has the
+> taskbar on the left (I bet she implied the launcher).
+
+Two things can be taken from this:
+
+-   Ubuntu is ACTIVELY used in the wild world !
+-   The newbie loves Unity ;)
+
+## Rocking with Ubuntu since 2010 !
+
+Back in 2009, I read countless of articles claiming the public sector
+was move toward open source applications, as a solution to operation
+cost, when the Global Financial Crisis started striking them real hard.
+Admittedly, I was rather skeptical, as much as I doubt the government
+when they propagandised how well national transportation has become in
+the recent years, while the construction of the main road where I live
+should have been completed by 2007. The fact that Viettel actively
+utilises Ubuntu indicates how deep Ubuntu has integrated into the
+Vietnam public sector, and they actually endeavour to save money. In
+fact, **[Viettel claimed to saved 24 billion Dongs in
+2010](http://www.thongtincongnghe.com/article/16494)**, thanks to
+utilising Open Source software instead. On top of that, Viettel does
+[apply the project on a national
+scale](http://ubuntuone.com/6fF9E4ifnlcRL5Yklz6k25): by October, 2010,
+Ubuntu has been installed on nearly **11000 clients**, amount for **40%
+of the aggregate computers** (if you check out the link, you will see
+they even use Ubuntu One to store the report :D)
+
+*So yeah, next time if you have businesses to deal with at a Viettel
+agency, do not forget to check the staff monitors !*

@@ -1,0 +1,33 @@
+--- layout: post title: Robocode Tournament – 2011A categories: -
+Activities - Competitions - Robocode tags: - 2011a - robocode status:
+private type: post published: false meta: \_edit\_last: '12'
+\_wp\_old\_slug: '' ---
+
+# Robocode TOURNAMENT - 2011A
+
+[**Guideline and registration (English)**](http://rmitc.org/?p=395)
+[**Luật lệ và cách đăng ký (tiếng Việt)**](http://rmitc.org/?p=405)
+![Robocode 2011A
+Poster](http://img593.imageshack.us/img593/2982/robocodepostersmall.jpg)
+Again, the legendary RMIT's Robocode Tournament is organised by IT Club
+this semester. For people who don't know, Robocode is a programming game
+in which player will write code for a virtual robot and let it compete
+with others. Not as difficult as it may sound, all you need to do is
+"copy and paste" the code (not from other players :D). With a little
+knowledge about programming and a lot of enthusiasm, a newbie in
+Robocode can easily become a winner. Unlike before, all universities
+from Ho Chi Minh City will be invited to participate in this great
+event. The Winner is going to be awarded an amazing prize and be
+memorized until the next Tournament. If you call yourselves an IT person
+and determine taking the prize or you just simply want to learn
+something new, please don't heritage to take part in the game. Please
+click [**this link (English)**](http://rmitc.org/?p=395) or [**đường dẫn
+này (tiếng Việt)**](http://rmitc.org/?p=405) for more information about
+the rules and the registration. Also if you have any questions or ideas,
+please reply this post. **Timeline:** 1st-April Fri 15h-16h30: Tutorial
+session (Room 1.4.20 - Level 4, Building 1, RMIT University) 8th-April
+Fri 15h-16h30: Demo session (Room 1.4.20 - Level 4, Building 1, RMIT
+University) 13th-April Wed 17h: Deadline for the Registration 13th-April
+Wed 23h59: Deadline for the Submission 16th-April Sat 9h30-16h:
+Tournament (Melbourne Theatre - Level 2, Building 1, RMIT University)
+**Thanks!**

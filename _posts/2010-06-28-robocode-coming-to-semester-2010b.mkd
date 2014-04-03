@@ -1,0 +1,41 @@
+---
+layout: post
+title: Robocode Coming to Semester 2010B
+author: phunehehe
+categories: [activities, competitions]
+---
+
+## What is Robocode?
+
+[Robocode](http://robocode.sourceforge.net/) is a multi-player game
+written in Java where instead of directly participating, players write
+code to control simple tanks (robots) provided by the framework. Those
+robots then fight against each other in a rectangular battlefield to
+determine the winner.
+
+## Purpose
+
+RMIT IT students have little activity outside classrooms. Beside
+homework and assignments they have few chances to practice programming,
+which is important in improving their skills and building up
+self-confidence. In addition, the lack of activities has resulted in the
+fact that, despite their small number, IT students are thinly scattered
+into small social groups with few connections with others. The
+competition is an attempt to provide them with an opportunity to
+socialize through a fun contest, which is also relevant to their study,
+helping them honing skills they learn in class.
+
+## Description
+
+-   The event will be held in semester B of 2010 and is open to all
+    current students of the BP162 program.
+-   The competition will be in the form of a tournament where students
+    write robots (small programs) to fight against each other, either
+    one-on-one or in team battles.
+-   The tournament will be split into sessions where students gather to
+    attend the matches, which are run on a computer and projected onto a
+    large screen.
+-   There will be other related activities, which can take place during
+    weekly sessions or on [this blog](http://rmitc.org/): voting for
+    favourite robot, strategy discussion, framework modification.
+

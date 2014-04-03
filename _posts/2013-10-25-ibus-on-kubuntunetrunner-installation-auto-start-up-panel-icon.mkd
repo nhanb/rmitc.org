@@ -1,0 +1,108 @@
+---
+layout: post
+title: 'Ultimate tutorial: how to use IBus with Netrunner/Kubuntu 13.10'
+author: hadobac
+categories: [tutorials]
+---
+
+*This tutorial is for Kubuntu/Netrunner users. If you are with Ubuntu 13.10 and having trouble
+spotting the good old indicator, click*
+[here](http://www.localizingjapan.com/blog/2013/10/20/japanese-input-on-ubuntu-linux-13-10-saucy-salamander/).
+
+![](http://rmitc.org/wp-content/uploads/2013/10/outcome1-1024x575.png "Netrunner 5
+'Enigma' running IBus succesfully")
+
+## Introduction
+
+When KDE 4 was first publicised in January 2008, it was a massive revolution, with lots of nice
+things: Plasma, Qt 4, SuperKaramba, and more under the hood groundbreaking technologies. However,
+early releases of KDE 4 is lack of maturity, crashed every now and then, resulted in widespread
+criticism for being buggy.
+
+5 years later, KDE is now rock solid. Even [Linus Torvalds likes
+it](https://plus.google.com/u/0/+LinusTorvalds/posts/DbmEE8kXLDA).
+
+However, when it comes to IBus, it has taken me weeks to a state of accepted configuration. This
+madness is a shame. In comparison, IBus works out of the box on Ubuntu.
+
+Now that Canonical has ditched Kubuntu in favour of Ubuntu Touch, Mir, Ubuntu TV and further craps,
+Blue System has adopted Kubuntu and forked it as Netrunner, I hope Kubuntu would given the
+attention is deserves.
+
+That's all for the moaning. Here’s a small howto for getting IBus to run properly on Kubuntu.
+
+## Installation
+
+![outcome2](http://rmitc.org/wp-content/uploads/2013/10/outcome2.png)
+
+Install these following packages, with any package manager - Synaptic or Muon: *ibus, ibus-gtk,
+ibus-qt4*... Otherwise, hit:
+
+```bash
+$ sudo apt-get install ibus, ibus-gtk, ibus-qt4
+```
+
+Don't forget to install the dedicated input method for your localisation: *ibus-unikey,
+ibus-bogo, ibus-pinyin, ibus-m17n*... you name it.
+
+## Set as default
+
+Let's have Ibus as the default input method.
+
+```bash
+$ sudo apt-get install im-switch
+$ im-switch -s ibus
+```
+
+Open .bashrc in $HOME:
+
+```bash
+$ kate ~/.bashrc
+```
+
+Add these lines to the end of the file.
+
+```
+export XMODIFIERS="@im=ibus"
+export GTK_IM_MODULE=ibus
+export QT4_IM_MODULE=ibus
+export QT_IM_MODULE=ibus
+```
+
+## Show IBus in System Tray
+
+Now, you can run Ibus, but starting it does not show the tray icon.  Here's the magic line:
+
+```bash
+$ sudo apt-get install --reinstall ibus ibus-gtk ibus-qt4 gnome-icon-theme gnome-icon-theme-full
+```
+
+## Configue IBus
+
+Press Alt+F2 for KRunner. Type in *ibus-setup* and Enter. Configure like below. Otherwise, adjust
+options to suit to your tastes and preferences.
+
+![Ibus config](http://rmitc.org/wp-content/uploads/2013/10/Ibus-config.png)
+
+To add the language, hit *Input Method* tab. Here's the tricky part: since the dialog is blurred
+out, you have to click on the drop down button to bypass it. This is probably a bug of GTK QtCurve.
+The first method in the list will be your default input method.
+
+![Ibus config 2](http://rmitc.org/wp-content/uploads/2013/10/Ibus-config-2.png)
+
+## Auto start IBus with KDE
+
+In *System Settings -> System Administration*, locate *Startup and Shutdown*, and *Autostart* tab.
+Hit *Add Program*. Paste in `/usr/bin/ibus-daemon` and click *OK*. In the *Properties* Dialog
+Box, click on tab *Application*. Input the following
+
+```
+Name: ibus-daemon
+Description: Goddamn IBus
+Command: /usr/bin/ibus-daemon –desktop=kde –panel=/usr/lib/ibus/ibus-ui-kde
+```
+
+Save everything. Now logout and login again.
+
+![Ibus config
+3](http://rmitc.org/wp-content/uploads/2013/10/Ibus-config-3-1024x705.png)

@@ -1,0 +1,107 @@
+--- layout: post title: Technology Entrepreneurship categories: -
+Business - Entrepreneurship tags: - business - startup - tech status:
+publish type: post published: true meta: \_edit\_last: '12'
+bfa\_virtual\_template: hierarchy \_wp\_old\_slug:
+technology-entrepreneurship seo-description: '' seo-title: ''
+seo-keywords: '' layout-type: '0' sidebar-type: Global Sidebar
+title-show: '0' title-content: '' slide-type: '0' layer-slide-id: '0'
+rev-slide-id: '0' video-type: '0' video-content: '' audio-type: '0'
+audio-content: '' show-related-post: '0' show-related-post-number: '3'
+\_wpas\_skip\_3380076: '1' \_wpas\_skip\_3380081: '1' ---
+
+# 1. What is a startup?
+
+In Vietnam, people often misunderstand about the term “startup” and tend
+to generalize it for all business. I often heard people opening a “Tra
+Chanh Chem Gio”, “Neptune Online Shop”, an online business, a small
+company, or any business as a startup. To have a deeper understanding
+about it, Steve Blank ([http://steveblank.com/](http://steveblank.com/))
+– a great entrepreneur & investor in Silicon Valley has categorized it
+as follow:
+
+-   **Lifestyle startup: **the place where you sell, buy or do business
+    that related to your hobby. E.g.: selling skateboard, roller skate,
+    surfboard, basketball clothes, etc. This type won’t get you far to
+    be a millionaire, not even close!
+-   **Small business (mostly family-owned):** this kind is the most well
+    known and sometimes considered to be representative of
+    entrepreneurship world. They are run by family members & gain enough
+    profit to enjoy their lives (I mean enough to travel to Europe, have
+    a BMW series 7 & house in district 7. Nah, just joking! ). Small
+    business has a very big impact to one’s economy and provide jobs
+-   **“Aim to be bought” startup: **the founders aim to be a serial
+    entrepreneur by selling multiple startups over time. Their target is
+    company valuation of US \$5m – US\$50m
+-   **Intrapreneurship:** a team that creates a new product in a new
+    market. 3M is very famous for this.
+-   **Social entrepreneurship:** their target is not money & wealth for
+    the founders and shareholders but to make this world a better place.
+-   **Scalable startup:** these startups are innovative, disruptive &
+    change the way we live forever!
+
+## Highlighted start-up in Vietnam:
+
+**Vinagame:** After all the contraband products were banned more than 7
+years ago, Vinagame is a new name that changes how young people play
+MMORPG. By far, they are the most successful, offers lots of consumer
+web & B2B product. They pass the start-up phase long ago and now place
+among the earliest startup generation. **Tiki.vn:** e-commerce size that
+most well known for books (especially English book). **Nhaccuatui:** the
+rising star after most online music sites died (nghenhac.info,
+diendanlequydon.com). **Misfit Wearable:** sport-tracking device. A team
+full of talented people that two founders are MIT grads and early
+employees are top performers in science and technology field. Moreover,
+it is backed by John Sculley – president of PepsiCo & CEO of Apple in
+1983. *... To be updated!*
+
+# 2. Investor tales
+
+To fund for your start-up, there are 3 ways to do: **Bootstrapping or
+self-funding: **this type is the most common practice in Vietnam.
+Founders fund themselves from their savings, bank loan, passive income,
+or maybe BMBank (Ba Má Bank)
+
+**Angel investors: **an affluent individual that provide mostly
+seed-funding for start-up in exchange for agreeable ownership equity.
+Angel investors have to take big risk, as they have to trust the
+start-up team and investing in unproven business model. These
+individuals tend to form into group and split risk into smaller part. By
+far, the most prominent angel investor group is SAVVi Angel
+([http://www.sif-vn.com/home.php](http://www.sif-vn.com/home.php))
+specifically target technology startup in Vietnam. **Venture Capital
+(VC): **this one is most desired by many startup founders. They are
+investment firm, a sub-category of private equity that invests in
+early-stage, high risk, high return startups. Most VCs are investing
+after the angel investors have provided the seed funding. Therefore, the
+company valuation now is higher. In short, the common practice of
+funding is : seed funding, series A, series B, series C ( don’t worry
+about the alphabet, it’s just name !).
+
+## Highlighted venture capital in Vietnam:
+
+**IDG Ventures: **by far IDG Ventures Vietnam is the most prominent VC
+in Vietnam and the office is placed in the highest floor of Bitexco
+tower (trust me, the view is overwhelming and inspiring). They are part
+of the International Data Group (IDG) and have global operation over 5
+countries (Vietnam, China, India, Korea & U.S). Their main focus is
+consumer technology, media or ICT industry in general. *Highlighted
+portfolio including:*
+
+-   Media & Entertainment: Moore Corp, YeuAmNhac, Vinagame, Tamtay JSC,
+    FBNC, Cyvee
+-   Information & Communication Technology: Apollo Vietnam, VC Corps,
+    Pyramid Consulting.
+-   Tech-enabled business: WebTreTho, Vietnamworks, Vinabook, PeaceSoft,
+    Hocmai.vn, DiaOcOnline
+-   Consumer Product: Vinapay, Diadiem JSC.
+
+**CyberAgent Ventures:** is part of CyberAgent Group – in which
+highlighted investment deals are CleverAds, Nhaccuatui, Colorbox &
+Tiki.vn **DFJ Vinacapital:** is also among the earliest VCs in Vietnam.
+DFJ is part of Vinacapital and joint-force with Draper Fisher Jurvetson
+(DFJ) network. DFJ Vinacapital leverage on the extensive resource from
+Vinacapital with 200 companies invested & DFJ with 600 portfolios funded
+globally. Highlited investment deals are: Chicilon Media, Timnhanh &
+Yeah 1! Corporation.   **Next part:** People & Places you should know in
+Vietnam startup ecosystem. (view this post at my personal blog
+at [http://www.tommy.ly](http://www.tommy.ly "Tommy Ly"))

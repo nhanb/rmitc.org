@@ -1,0 +1,9 @@
+--- layout: post title: Robocode 2010B Is Near categories: - Activities
+- Competitions - Robocode tags: - 2010B - competition - robocode status:
+publish type: post published: true meta: \_edit\_last: '12'
+\_wp\_old\_slug: '' --- Just a reminder. Robocode registration deadline
+is Saturday (24/7) midnight. Robot submission deadline is Sunday
+midnight. The first session will be at 4PM Monday (26/7) in Bowen room.
+For more information, see our other [Robocode
+posts](http://rmitc.org/?tag=robocode). You can also follow us on
+[Facebook](http://www.facebook.com/profile.php?id=100000865498547 "RMITC Facebook")

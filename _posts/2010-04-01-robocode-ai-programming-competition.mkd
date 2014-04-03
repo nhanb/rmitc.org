@@ -1,0 +1,17 @@
+---
+layout: post
+title: Robocode – AI Programming Competition
+author: phunehehe
+categories: [activity, competition]
+---
+
+This semester RMITC
+features [Robocode](http://robocode.sourceforge.net/), a competitive
+game for IT students. By running this series we hope to bring students
+new experience on programming (i.e. it can be fun). Khang Vo has written
+detailed blog entries about this series, please visit [his
+blog](http://vodkhang.wordpress.com/category/intelligent-system/robocode/)
+to view them. Here is a record of a game running
+
+<iframe width="640" height="480" src="//www.youtube.com/embed/bvCAzYXJHkc?rel=0" frameborder="0"
+allowfullscreen></iframe>

@@ -1,0 +1,4 @@
+--- layout: post title: Memorable Open day 2013 - From IT with love
+categories: - Activities - For RMIT - Gallery - Open Day tags: []
+status: draft type: post published: false meta: \_edit\_last: '12'
+bfa\_virtual\_template: hierarchy ---

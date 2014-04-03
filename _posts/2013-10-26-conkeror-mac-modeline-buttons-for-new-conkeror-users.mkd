@@ -1,0 +1,91 @@
+---
+layout: post
+title: Conkeror Mac Modeline Buttons for new Conkeror users
+author: truongtx
+categories: [tutorials]
+---
+
+Conkeror is one of the most powerful web browsers for programmers as you can easily customize,
+extend many of its functionalities. You can read the introduction about Conkeror as well as its
+power in my previous post here [Conkeror and How it changed the way I surf the
+web](http://rmitc.org/2012/12/conkeror-and-how-it-changed-the-way-i-surf-the-web/ "Conkeror and How
+it changed the way I surf the web").  Although Conkeror is a powerful browser, it is a bit
+difficult for new users to get started with it because you have to learn and remember many key
+strokes. This post introduces Conkeror Mac Modeline Buttons (CMMB), an extension for Conkeror. This
+is one of my effort in making Conkeror more friendly for new users. Actually, there is a built-in
+command in Conkeror that displays basic navigation button in Conkeror Modeline.  However, it works
+fine on Linux only, not on other platforms. Also, the built-in one only allows me to display some
+pre-defined buttons, not any buttons that you want. In order to use this extension, you need some
+basic knowledge about **.conkerorrc** file. You can find the intruction in the tutorial here
+[Conkeror – Getting started – Part 1](http://rmitc.org/2013/01/conkeror-getting-started-part-1/)
+and here [Conkeror – Getting started – Part
+1](http://rmitc.org/2013/01/conkeror-getting-started-part-2/).
+
+## Download and Installation
+
+It’s very easy to install since you just have to clone it from github.  Make sure you have git
+installed and your .conkerorrc is a directory (new style). First, clone it from github into your
+.conkerorrc
+
+```
+$ cd ~/.conkerorrc
+$ git clone https://github.com/tmtxt/conkeror-mac-modeline-buttons.git
+```
+
+You’re encouraged (but not compelled)
+to clone it into .conkerorrc. In that case, put this one into your init file to load it
+
+```
+let (path = get_home_directory()) {
+  path.appendRelativePath(".conkerorrc");
+  path.appendRelativePath("conkeror-mac-modeline-buttons");
+  load_paths.unshift(make_uri(path).spec);
+```
+
+If you put the package outside .conkerorrc folder, use this one
+
+```
+load_paths.unshift("file://path/to/conkeror-mac-modeline-buttons/folder");
+require("conkeror-mac-modeline-buttons.js");
+```
+
+You also have to set the image path if you place the package outside .conkerorrc. See the
+Configurations section for more information
+
+## Usage
+
+Simply type M-x and activate one of these commands to show the buttons
+
+-   cmmb-add-navigation-buttons (show navigation buttons)
+-   cmmb-remove-navigation-buttons (hide navigation buttons)
+-   cmmb-add-editing-buttons (show editing buttons)
+-   cmmb-remove-editing-buttons (hide navigation buttons)
+-   cmmb-add-download-buttons (show download buttons)
+-   cmmb-remove-download-buttons (hide navigation buttons)
+
+You can also bind the commands to any keystroke that you want
+
+## Configurations
+
+If you want to use your own images, you can replace the images already exist inside the images
+folder with the ones that you want. You can also use your own image folder by setting variable
+cmmb\_image\_path. Also, if you have placed the package outside .conkerorrc, setting this variable
+is a must. Otherwise, just ignore this part and leave everything default.
+
+```
+cmmb_image_path = "/path/to/images/folder";
+```
+
+## Summary
+
+That's all basic thing you need in order to use this extension. If you want more advanced stuffs
+like adding your custom buttons and button groups, visit the project's home page at [Conkeror Mac
+Modeline Buttons homepage](http://truongtx.me/conkeror-mac-modeline-buttons.html)
+
+## Some demo images
+
+[![navigation](http://rmitc.org/wp-content/uploads/2013/10/navigation.png)](http://rmitc.org/wp-content/uploads/2013/10/navigation.png)
+[![multi2](http://rmitc.org/wp-content/uploads/2013/10/multi2.png)](http://rmitc.org/wp-content/uploads/2013/10/multi2.png)
+
+> **Source**: [Truongtx.me blog](http://truongtx.me/conkeror-mac-modeline-buttons.html "Truongtx.me
+> blog")

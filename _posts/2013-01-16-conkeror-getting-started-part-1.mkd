@@ -1,0 +1,94 @@
+--- layout: post title: Conkeror - Getting started - Part 1 categories:
+- Activities - IT Insight Series - Tutorial tags: - conkeror - tutorial
+- web browser status: publish type: post published: true meta:
+\_edit\_last: '17' bfa\_virtual\_template: hierarchy seo-title: ''
+seo-description: '' seo-keywords: '' layout-type: '0' sidebar-type:
+Global Sidebar title-show: '0' title-content: '' slide-type: '0'
+layer-slide-id: '0' rev-slide-id: '0' video-type: '0' video-content: ''
+audio-type: '0' audio-content: '' show-related-post: '0'
+show-related-post-number: '3' \_wpas\_skip\_3380076: '1' ---
+
+> **Note**: before you read, I just want to remind you that Conkeror is
+> not for newbie or non-IT users. It might take you a lot of time to get
+> used to it. So if you are not programmers, please close this article
+> and go back. But once you got used to it, you will feel extremely
+> comfortable and get your work done faster. Again, if you are not
+> really interested in, read this article [Conkeror and How it changed
+> the way I surf the
+> web](http://rmitc.org/2012/12/conkeror-and-how-it-changed-the-way-i-surf-the-web/ "Conkeror and How it changed the way I surf the web")
+> to be convinced or just leave this page. Don't just try and give up
+> early and blame me on wasting your time :LOL:. If you interested in,
+> let's go!
+
+**Conkeror Installation** Of course, the very first thing when we want
+to use a software is to install it. Conkeror is based on XULRunner,
+which is the core of Firefox, too. There are two ways that we can run
+Conkeror on our computer. First, install it using XULRunner. The other
+way is to install it based on Firefox. Conkeror is just like a GUI, and
+it run based on the XULRunner or Firefox. So if we want to use Conkeror,
+we need 2 things, Conkeror and either XULRunner or Firefox. I recommend
+you to install it based on Firefox.
+
+# Preparation
+
+Here is the list of things you need to prepare in order to run Conkeror
+**Firefox** I recommend Firefox version 21+ ;) **Git** you need git to
+obtain conkeror source code. Please, forget the SVN. I hate it anyway
+:LOL:
+
+# Installation
+
+**Note**: For Mac OS user, there is an easier way to install conkeror,
+see the section below. First, you need to obtain Conkeror from the repo,
+open up Terminal and type this at the prompt. Remember you need to have
+git installed before. `$ git clone git://repo.or.cz/conkeror.git`
+Alternatively, you can download a snapshot archive from this link:
+[http://repo.or.cz/w/conkeror.git?a=snapshot;h=master;sf=tgz](http://repo.or.cz/w/conkeror.git?a=snapshot;h=master;sf=tgz "http://repo.or.cz/w/conkeror.git?a=snapshot;h=master;sf=tgz")
+and then extract it I recommend you to use git to clone that repo cause
+it's easy to update conkeror. After cloning the repo or extracting the
+archive, open up the directory where you've just cloned/extracted
+conkeror, you will see a file named application.ini. Open up terminal
+again, type this at the prompt
+`$ firefox --app /path/to/application.ini` In that command above,
+**firefox** is the command to run your Firefox browser. On windows, it's
+usually the path to firefox.exe file. On MacOS, open finder and browse
+to your Firefox.app location, right click on it \> Show Package
+Contents, continue to go to folder Contents\>MacOS, there is a file
+named "firefox" there. Drag and drop it into your terminal, and continue
+to type the rest "**--app /path/to/application.ini**". On ubuntu, if you
+have firefox loaded into your \$PATH, simply type **firefox**.
+**/path/to/application.ini** to the path to the application.ini file I
+mentioned before. Hit Return (Enter on Windows) when you're done and see
+the magic ;) Conkeror should appear and there should be something looks
+like this
+[![conkeror-main](http://rmitc.org/wp-content/uploads/2013/01/conkeror-main.png)](http://rmitc.org/2013/01/conkeror-getting-started-part-1/conkeror-main/)
+The installation steps look complicated when you first time see it. But
+in fact it's just one command: **firefox --app
+/path/to/application.ini**. Call firefox and pass the application.ini
+path as the argument and you're ready to run Conkeror
+
+### For Mac OS users
+
+There is another installation method for Mac OS user, which is much
+easier. You will need **Firefox.app** installed in /Applications,
+**gcc** and of course **git**. First clone this
+`$ git clone git@github.com:smazga/conkeror_mac_bundler.git``` Cd to the
+repo directory you've just clone **conkeror\_mac\_bundler**, run
+`$ make install` Wait until the installation process finish, there will
+be an Conkeror.app application in the directory. Open it and Conkeror is
+ready to run.
+
+# Automate it
+
+Instead of typing that command everytime you want to launch conkeror,
+simply just give it an alias in your shell config. For the other OS, if
+you know anyway to automate it, you're are welcome to contibute. Now
+Conkeror is ready to run on your computer. If you want, you can read the
+tutorial that you see or you can close it now and wait for my next post
+:LOL:
+
+### Source
+
+**Author**: [Trường
+TX](https://www.facebook.com/mr.truong.tx?ref=tn_tnmn) **Source link**:
+[http://tommytxtruong.github.com/2013/01/16/jekyll-bootstrap-blogging-platform-for-geeks/](http://tommytxtruong.github.com/2013/01/16/jekyll-bootstrap-blogging-platform-for-geeks/)

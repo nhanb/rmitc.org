@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Robocode Tournament 2010B: Tutorial'
+categories: [activities, competitions]
+---
+
+**[Robocode basics](http://www.slideshare.net/nguyenkhang90/robocode-basics "Robocode")** View more
+[presentations](http://www.slideshare.net/) from [Nguyen Nam
+Khang](http://www.slideshare.net/nguyenkhang90).
+
+**[Robocode in netbeans](http://www.slideshare.net/nguyenkhang90/robocode-in-netbeans "Robocode")**
+View more [presentations](http://www.slideshare.net/) from [Nguyen Nam
+Khang](http://www.slideshare.net/nguyenkhang90).
+
+**[Robocode packaging &
+submission](http://www.slideshare.net/nguyenkhang90/robocode-packaging-submission "Robocode")**
+View more [presentations](http://www.slideshare.net/) from [Nguyen Nam
+Khang](http://www.slideshare.net/nguyenkhang90).
+
+Last Monday 19th July 2010, Tuấn Anh (aka Ubolonton) had conducted a tutorial session. Here are the
+slides used in the session. Be aware that, besides crystal trophy and prizes, the winner receives a
+game development course, offered by Floating Cube Studio. For more information, access Robocode
+home page [http://robocode.sourceforge.net/](http://robocode.sourceforge.net/)

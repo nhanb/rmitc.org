@@ -1,0 +1,20 @@
+---
+layout: post
+title: RoboCode Introduction for semester 2010B
+author: phunehehe
+categories: [activities, competitions]
+---
+
+[RoboCode
+Introduction](http://prezi.com/heiwpcitgaxv/robocode-introduction/)
+on [Prezi](http://prezi.com)
+
+
+## Introduction to RoboCode
+
+Following the success of the [last RoboCode](http://rmitc.org/?p=43),
+the tournament is now [back](http://rmitc.org/?p=8) with more prize,
+more excitement plus a new sponsor! Now if you are hyped up like me, but
+still new to the RoboCode thing, just make sure to join us in the
+tutorial session for robocode @ Monday July 19, room 4.20. See you
+there!

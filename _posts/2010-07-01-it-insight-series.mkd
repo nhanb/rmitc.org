@@ -1,0 +1,27 @@
+---
+layout: post
+title: IT Insight Series
+author: phunehehe
+categories: [activities]
+---
+
+[IT Insight
+Series](http://prezi.com/r5d1cudxtsb7/it-insight-series/) on
+[Prezi](http://prezi.com)
+
+## Introduction
+
+IT Insight Series is a multiple free-talk about IT related topics which
+are never be taught at RMIT, organized by IT Club. These topic are :
+
+-   Project Management in reality.
+-   How to write a testable code ?
+-   Applying Version Control.
+-   Linux Knowledge Exchange.
+-   Even more...
+
+Join with us to get these helpful information. If you want to share your
+knowledge, feel free to register your topic to us ! We are willing to
+hear any comments as well as suggestion from you to make this event
+better than ever ! The schedule for IT Insight Series will be announced
+soon !

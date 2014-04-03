@@ -1,0 +1,8 @@
+--- layout: post title: Autopost to facebook categories: - Hacking -
+News tags: - facebook - update status: publish type: post published:
+true meta: \_edit\_last: '12' bfa\_virtual\_template: hierarchy ---
+![fb](http://www.pcworld.com.vn/files/articles/2012/1233641/facebook-va-loi-cho-phep-thu-thap-hang-loat-sdt-1.jpg "fb")
+It's been a while since we last updated anything here. Don't worry!
+We're planning on series of articles about \<censored\> here, and you
+will all see the latest updates on our facebook page automatically. Stay
+tuned!

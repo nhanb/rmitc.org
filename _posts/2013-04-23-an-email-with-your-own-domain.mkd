@@ -1,0 +1,86 @@
+--- layout: post title: So you have your own domain. What next?
+categories: - Activities - IT Insight Series - Tutorial tags: [] status:
+publish type: post published: true meta: \_edit\_last: '12' seo-title:
+'' seo-description: '' seo-keywords: '' layout-type: '0' sidebar-type:
+Global Sidebar title-show: '0' title-content: "
+
+# So you have your own domain? What next?
+
+\\r\\nAn on-going series on how to maximize your personal domain"
+slide-type: '0' layer-slide-id: '0' rev-slide-id: '0' video-type: '0'
+video-content: '' audio-type: '0' audio-content: '' show-related-post:
+'0' show-related-post-number: '3' \_wpas\_mess: So you have your own
+domain? What next? http://wp.me/p3oN6p-i5 \_wpas\_done\_all: '1'
+\_wpas\_skip\_3442097: '1' \_wpas\_skip\_3380076: '1'
+\_wpas\_skip\_3380081: '1' ---
+
+# part 1: an email with your own domain? that’s easy!
+
+Suddenly you have to exchange contact information with someone in the
+industry. Then when it comes to email…
+[blockquote border\_color="\#229d9d" bg\_color="\#eeeeee"]*My God! How
+could I give them this nickname “cuteboy…”? So
+embarrassing!*[/blockquote] Okay this scenario is weird. How about
+another case: you give them an email of *john.doe@techaction.com*. I
+personally think your thought would be like:
+[blockquote border\_color="\#229d9d" bg\_color="\#eeeeee"]*Hehe!
+Couldn’t they realize that’s my name and my personal website on
+it? ****\*evil grin\**[/blockquote] Yes it’s true! An email with your
+own domain is something that you **do** be proud of! But how do you have
+one?
+
+## Try Google Apps for Business, it’s free!
+
+For only one email address, yes, **only** **one**! But what you will
+have are priceless: @your-domain.com email address, calendar, drives,
+sites, Google+ profile, and many awesome apps that are **free** on
+Google Apps marketplace! If those amazing features are not convincing
+(enough), these are also included:
+
+-   25GB of inbox,
+-   5GB Drive storage,
+-   24/7 customer support for any issues,
+-   So much more…
+
+I’m using Google Apps to host my professional
+email [luan@tklarryonline.me](mailto:luan@tklarryonline.me) and trust
+me, the value is greatly awesome for just one free package! Nuff said,
+let’s get started shall we?
+
+## Signing up Google Apps for free
+
+Step 1: Sign up for a personal Google account (a @gmail.com one). *I
+don’t have to guide you through this, right? Yet if you already have
+one, skip to Step 2* Step 2: Then, get to this
+link [https://appengine.google.com/](https://appengine.google.com/) with
+your Google account and click on **Create Application**
+[![01](http://tklarryonline.me/wp-content/uploads/2013/04/01.png)](http://tklarryonline.me/wp-content/uploads/2013/04/01.png)
+Step 3: It will probably ask you for phone verification. Just type in
+your mobile phone number in Vietnam, wait for the code and fill in
+the text-box to get this verification step done. Step 4: You will be
+taken to this **Create an Application **form. Just fill in any random
+data in requested fields, you may want to try some funky data to make it
+unique to pass the uniqueness test. Then just click on **Create
+Application**.
+[![02](http://tklarryonline.me/wp-content/uploads/2013/04/02.png)](http://tklarryonline.me/wp-content/uploads/2013/04/02.png)
+Step 5: Successful! Now click on the **dashboard** link…
+[![03](http://tklarryonline.me/wp-content/uploads/2013/04/03.png)](http://tklarryonline.me/wp-content/uploads/2013/04/03.png)
+… look for **Application Settings **and click on it. It’s on the left!
+[![04](http://tklarryonline.me/wp-content/uploads/2013/04/04.png)](http://tklarryonline.me/wp-content/uploads/2013/04/04.png)
+Step 6: Scroll down until you see **Domain Setup **section, click on
+the **Add Domain…**.
+[![05](http://tklarryonline.me/wp-content/uploads/2013/04/05.png)](http://tklarryonline.me/wp-content/uploads/2013/04/05.png)
+Step 7: You will see this screen appear! Don’t mind the text-box! Click
+on the **Sign up for Google Apps Standard » **link…
+[![06](http://tklarryonline.me/wp-content/uploads/2013/04/06.png)](http://tklarryonline.me/wp-content/uploads/2013/04/06.png)
+…will open this new page, fill in **your exact (desired)
+information** and click on **I accept!** button.  
+[![07](http://tklarryonline.me/wp-content/uploads/2013/04/07.png)](http://tklarryonline.me/wp-content/uploads/2013/04/07.png)
+**Congratulations**! You have basically finished everything needed to
+give you a ***professional email address with personal cool-looking
+domain***! But for now, your login URL for the Google Apps Email (and
+other apps) is just https://mail.google.com/a/your-domain.com and
+still doesn't look cool enough. Just play around, and stay tuned for the
+next part, as I will explain (with a little bit advance stuff) how to
+
+#### **Part 2: Easily personalize the Google Apps services URLs**.

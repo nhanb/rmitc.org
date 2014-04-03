@@ -1,0 +1,118 @@
+--- layout: post title: MacPorts - The MacOS package manager categories:
+- IT Insight Series tags: [] status: publish type: post published: true
+meta: \_edit\_last: '17' seo-title: '' seo-description: '' seo-keywords:
+'' layout-type: '0' sidebar-type: Global Sidebar title-show: '0'
+title-content: '' slide-type: '0' layer-slide-id: '0' rev-slide-id: '0'
+video-type: '0' video-content: '' audio-type: '0' audio-content: ''
+show-related-post: '0' show-related-post-number: '3' \_wpas\_done\_all:
+'1' \_wpas\_skip\_3380076: '1' \_thumbnail\_id: '1464' ---
+
+# Introduction
+
+For Ubuntu Linux, we have a powerful package manager called **apt**
+which makes the installation, uninstallation and management of package
+much easier. Sadly, for MacOS users, we don’t have that powerful tool.
+The appearance of **MacPorts**, an open source package manager for
+MacOS, has changed the way we install and manage our packages. With the
+help of **MacPorts**, MacOS users can now quickly install, keep track of
+the changes, update and maintain many open source applications. You can
+even export all your installed packages and then let **MacPorts**
+automatically reinstall them for your when you have you computer
+reinstalled or when you migrate to another system.
+
+# Installation
+
+The easiest way to install **MacPorts** is to download the .pkg
+installer [here](http://www.macports.org/install.php). Select the
+installer corresponding to your current OS. Alternatively, you can build
+it from source. For more detail, please visit [this
+link](http://www.macports.org/install.php). After finish the
+installtion, you should consider update **MacPorts**. Fortunately,
+**MacPorts** has the built-in feature to selfupdate. Everything you need
+to do is to execute this command
+
+    $ sudo port -v selfupdate
+
+Now you can enjoy one of the most powerful package manager on MacOS. :)
+
+# Basic usage {#basic_usage}
+
+To list all available ports, type this command (it takes a few minutes
+to load)
+
+    $ port list all
+
+To search for a port, type:
+
+    $ port search portname
+
+To get info of a port, type:
+
+    $ port info portname
+
+To install a port, execute this command. The installed apps are usually
+put in /Application/MacPorts
+
+    $ sudo port install portname
+
+To delete an installed package, type
+
+    $ sudo port uninstall portname
+
+To upgrade an installed port, type
+
+    $ sudo port upgrade portname
+
+To upgrade all outdated ports, type:
+
+    $ sudo port upgrade outdated
+
+To list all installed packages, type:
+
+    $ sudo port list installed
+
+So those are some basic commands for MacPorts, actually, the most
+inportant is **install**, **uninstall** and **upgrade**. Now you can use
+**MacPorts** to install many open source application like VLC, Emacs,
+Handbrake, iTerm, VirtualBox, Qt,…
+
+# Migration
+
+Since **Macports** is a package manager, it has the built-in support to
+make the migration process become easier. You don’t have to remember
+which packages you’ve installed. Everything you need is to export the
+installed packages list and bring it to the destination system where you
+want them to be reinstalled. To export the list of installed ports,
+type:
+
+    $ port -qv installed > myports.txt
+
+The command above will write all the ports that you’ve have installed to
+myports.txt. On the destination computer, you need to uninstall all
+packages to avoid conflict.
+
+    $ sudo port -f uninstall installed
+
+and then clean any partially-completed builds
+
+    $ sudo port clean all
+
+After that run this command for **MacPorts** to automatically
+reinstalled all packages
+
+    $ curl -O https://svn.macports.org/repository/macports/contrib/restore_ports/restore_ports.tcl
+    $ chmod +x restore_ports.tcl
+    $ sudo ./restore_ports.tcl myports.txt
+
+It’s possible to have conflict during the installation process. If it
+happens, just delete the conflicting ports from myports.txt and run the
+script again. You may have to do this several times.
+
+* * * * *
+
+**Source**:
+[Truongtx.me](http://truongtx.me/2013/01/01/macports-the-macos-package-manager/)
+**MacPorts homepage**:
+[http://www.macports.org/](http://www.macports.org/) **Available
+Ports**:
+[http://www.macports.org/ports.php](http://www.macports.org/ports.php)

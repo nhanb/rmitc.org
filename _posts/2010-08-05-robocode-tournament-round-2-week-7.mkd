@@ -1,0 +1,31 @@
+--- layout: post title: Robocode Tournament Round 2 (Week 7) categories:
+- Activities - Competitions - Robocode tags: - 2010B - robocode status:
+publish type: post published: true meta: CODE1: "" \_edit\_last: '12'
+\_wp\_old\_slug: '' ---
+
+The last Robocode session was held at 4PM on Monday in Bowen room. It
+was much more exciting than last week's session. Besides the improved
+quality of robots, the new activity - betting - played an important role
+in stirring up the atmosphere. Spectators took bets on their beloved
+robots, accumulating points to exchange for sweet rewards at the end.
+
+Some interesting facts:
+
+-   The top 3 places were won by 3 robots whose names all start with K:
+    KeHuyDiet, KFC, KickAssassin, in that order.
+-   KeHuyDiet, which did not leave much impression last week, surprised
+    everyone by beating all opponents on its way to the title.
+-   Barend, KeHuyDiet's creator, was also a prophet that won most of his
+    bets.
+-   The most funny match was the one between Davik and Harakiri, 2
+    "lazy" robots that refused to make any move until the opponent moves
+    first.
+
+%CODE1%
+
+To help participants better prepare for the final round, all robots
+were **[uploaded](http://dl.dropbox.com/u/7111262/2010B-02.zip)**.
+Competitors can use them to test their new strategies. Hopefully this
+will make the ultimate showdown even more thrilling.
+
+

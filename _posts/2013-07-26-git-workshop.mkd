@@ -1,0 +1,23 @@
+---
+layout: post
+title: Git Workshop Summary
+author: truongtx
+categories: [activities]
+---
+
+Here is the summary of what we have covered in the Git Workshop
+
+-   Overview of Version Control System
+-   Overview of Git
+-   The importance of VCS and Git
+-   How to obtain and install Git
+-   Basic usage of Git
+-   Some tools to work with Git
+-   Applying Git in many circumstances
+
+This is the slide for you in case you need some help
+
+<iframe
+src="https://docs.google.com/presentation/d/15BvDBfgz0MqsZaisZAT1BJFe_Oshg95SWmMkIQINMY0/embed?start=false&loop=false&delayms=3000"
+frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true"
+webkitallowfullscreen="true"></iframe>

@@ -1,0 +1,15 @@
+--- layout: post title: "[Update 1 - Tournament Dates Delay] 2012C
+Robocode Tournament" categories: - Activities - Competitions - News -
+Robocode tags: - 2012c - robocode - tournament - update 1 status:
+publish type: post published: true meta: \_edit\_last: '12' --- What's
+up boys and girls, Due to some issues during the room-booking process,
+we are terribly sorry to inform you that the tournament  must be moved
+to **Monday, October 29, 2012** (for friendly matches) and **Saturday,
+November 3, 2012** (for final matches). We also want to move the
+deadline for registration to **Wednesday**, **October****24**, **2012**.
+We hope this does not affect your schedule in any way. \*On the bright
+side, you have an extra 7 days to make your robot more awesome :D The
+[original
+event announcement](http://rmitc.org/2012/10/robocode-2012c/ "Robocode is back this semester 2012C!!! (Updated)") is
+updated with the new information. Our Apologies, 2012c RMIT Robocode
+Tournament Organizers

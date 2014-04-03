@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date_to_string }}</p>
+
+<div class="post">
+{{ content }}
+</div>
+
+{% if page.author %}
+{% assign author = site.authors[page.author] %}
+<div class="footer">
+  <div class="contact">
+    <p>
+    {{ author.display_name }}<br />
+    {{ author.email }}
+    </p>
+  </div>
+  <div class="contact">
+    <p>
+    {% if author.github %}
+    <a href="https://github.com/{{ author.github }}">github.com/{{ author.github }}</a><br />
+    {% endif %}
+    {% if author.twitter %}
+    <a href="https://twitter.com/{{ author.twitter }}">twitter.com/{{ author.twitter }}</a><br />
+    {% endif %}
+    </p>
+  </div>
+</div>
+
+{% endif %}

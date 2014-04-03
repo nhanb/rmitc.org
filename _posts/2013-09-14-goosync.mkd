@@ -1,0 +1,35 @@
+---
+layout: post
+title: Google Contacts synchronisation on any phones (s40/s60/BBOS/UIQ...) with GooSync
+author: hadobac
+categories: [tutorials]
+---
+
+We are living in the era of cloud computing. An example of this is how our contact list are
+synchronised. With 70% smartphone marketshare are the Droids, phone numbers now fly as high as
+Google Contacts. Gone are the days when SIM cards were like floppy drives storing SMSs and stuff.
+And a decent day, you've got new phone, and it's not a Droid. Instead it's a retro smartphone with
+modest specs and shitty OS, or even a crappy feature Nokia s40 handset. And worse, it doesn't speak
+"cloud" language.
+
+**Exhibit A**: my contact list, on the 2006-made Sony Ericsson P1i
+
+![GooSync](http://rmitc.org/wp-content/uploads/2013/09/485505_596347047084287_33633619_n.jpg)
+
+
+1.  Enter each numbers individually. Ask your bestie to give you a hand.  Gee, maybe your
+girl/boyfriend will enjoy doing it too.There are two ways you can retrieve your contacts list: 2.
+Or use Goosync. I prefer this.
+
+## What can GooSync do ?
+
+Being a online service, GooSync enables non-Droids to seamlessly synchronised with Google Contacts,
+Calendar, and Tasks. The great thing about  GooSync is it virtually WORKS WITH ALMOST EVERY PHONES
+out there.  Nokia Indestructible series: approved, LG cheap retro touchscreen phones: approved. To
+sum up: Blackberry OS, Symbian S60, S80, UIQ, Nokia s40, Sony Ericsson feature OS... basically
+anything that has internet connection are approved ! For a complete list of compatible devices:
+[http://www.goosync.com/SupportedDevices.aspx](http://www.goosync.com/SupportedDevices.aspx)
+
+If auto sync is what you want, go for the premium service which worths £19.95, just like a Droid.
+Otherwise, the 7-day trial period is enough to download the calendar, contacts and tasks for once.
+Check out GooSync now: [https://www.goosync.com/](https://www.goosync.com/)

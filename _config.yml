@@ -1,0 +1,46 @@
+name: RMIT Vietnam IT Club
+markdown: redcarpet
+pygments: true
+
+authors:
+
+  nhanb:
+    name: Bùi Thành Nhân
+    display_name: Bùi Thành Nhân
+    gravatar: d222558bce9f0f82c132f5903c3b9cfe
+    email: nhan.buithanh@rmitc.org
+    web: http://nerdyweekly.com
+    twitter: nhanbt
+    github: nhanb
+
+  truongtx:
+    name: Trần Xuân Trường
+    display_name: Trần Xuân Trường
+
+  hadobac:
+    name: Đỗ Bắc Hà
+    display_name: Đỗ Bắc Hà
+    email: hadobac333@gmail.com
+    facebook: hahnpremium
+
+  linh:
+    name: Nguyễn Vĩnh Linh
+    display_name: Nguyễn Vĩnh Linh
+
+  tklarryonline:
+    name: Nguyễn Thanh Luân
+    display_name: Nguyễn Thanh Luân
+    github: tklarryonline
+
+  phunehehe:
+    name: Hoàng Xuân Phú
+    display_name: Hoàng Xuân Phú
+    github: phunehehe
+
+  anhnguyen:
+    name: Nguyễn Tuấn Anh
+    display_name: Nguyễn Tuấn Anh
+
+  khangnguyen:
+    name: Nguyễn Nam Khang
+    display_name: Nguyễn Nam Khang

@@ -1,0 +1,27 @@
+---
+layout: post
+title: Robocode 2010A
+author: anhnguyen
+categories: [activities, competitions]
+---
+
+There was an internal competition during the first semester of year
+2010. Members of RMITC were introduced to the Robocode framework and
+started writing robots to pitch them against each other on Wednesday
+morning each week. Some members have a little prior experience with the
+framework, so their robots ruled the battlefield initially. Later weeks
+saw some intense actions as other members caught up, and as team brawls
+and epic free-for-all clashes replaced one-on-one skirmishes. Some
+formerly dominating robots were quickly fried amidst the chaos. As if it
+was not fun enough, some members creatively added some "battle cries" to
+their robots to stir up the vibes.
+
+The tournament was not the only event. An enthusiastic student, Khang
+Vo, began modifying the original framework, adding features like
+power-ups (and power-downs), bullets that look like laser. This modified
+framework was used for demonstration during Club Day of the second
+semester, and is intended to be used for the coming competition as well.
+
+![Robocode 2010A
+participants](http://img89.imageshack.us/img89/639/dscf3406.jpg "Robocode 2010A
+participants")

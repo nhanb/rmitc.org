@@ -1,0 +1,289 @@
+---
+layout: post
+title: Internship Q&A by Nguyễn Nam Khang
+author: khangnguyen
+categories: [career]
+---
+
+[![khang](http://rmitc.org/wp-content/uploads/2013/09/khang.jpg)](http://rmitc.org/wp-content/uploads/2013/09/khang.jpg)
+
+*TL;DR:* Just send your questions regarding internship to khang[at]cogini[dot]com. His answers will
+be posted here. If you're an IT student at RMIT Vietnam, you've probably heard of him.  Otherwise,
+you've probably heard of him too. You know, the recent news buzz about some RMIT IT graduate with
+the perfect 4.0 score? No? Okay, here's a summary for those who missed out:
+
+-   He was the first president of IT Club.
+-   He worked on [MultiUni](https://www.facebook.com/multiuni) - a non-profit project to bring
+    updated, practical knowledge to the masses.
+-   He graduated with a sweet 4/4 score.
+-   He worked at Cogini Hong Kong for his internship then managed to
+    [pull a branch to Vietnam](https://www.facebook.com/CoginiVietnam) where he's the chef
+    representative.
+-   Recently he [got some news coverage](http://vnexpress.net/tin-tuc/xa-hoi/nhip-dieu-tre/thanh-tich-dang-ne-cua-anh-chang-me-it-2834058.html),
+    and got [an article of his own](http://www.rmit.edu.vn/profiles/alumni/nguyen-nam-khang) on
+    RMIT's site.
+
+Now considering the fact that many of us students are going on internships soon, Khang has agreed
+to host an online Q&A event where he answers all of your concerns about internships. Simply **email
+your questions to _khang[at]cogini[dot]com_**. All of his answers will be updated on this very
+post. He will keep answering until the end of September, so take all the time you need to think
+about what bothers you most on your first step to a professional career. What are you waiting for?
+Fire up your email client and bombard him with everything you've got! :)
+
+*the following are the questions and his answers*
+
+## Q: Should I choose an enterprise or a startup?
+
+I choose this to be the first question to answer because I
+can tightly relate to it, back when I was preparing for my internship.
+Unfortunately, with all the small talks and experience I have collected,
+this is the type of question you have to look inside yourself to find an
+answer.
+
+An enterprise is an established business. It has a stable
+business model, long-term business partners and sufficient resources to
+overcome market glitches. Being able to survive in the ferocious
+industry is an indicator that an enterprise knows a lot of things and
+has done a number of things right. Derived from that experience are a
+number of methodologies, policies and procedures that cover at the very
+least core-business activities.
+
+Joining an enterprise is a secured
+career option. It is not very likely that the company will be out of
+business in the matter of months, usually that happens over the course
+of couple of years. Look at Nokia or BlackBarry for example. You will be
+benefited from the experience of the company through various forms, e.g.
+training, documentation and mentorship.
+
+Your working environment is
+likely to be more luxurious than that of your startup colleagues (though in
+Vietnam and over the world, the gap is narrowing down). A standard
+enterprise would provide you with hardware devices, free lunch, medical
+care, social insurance coverage, Tet bonus and everything else that is
+required by the labour law.
+
+However, enterprises are no utopia. Due to
+its size, an enterprise is structured in ways that make most of its
+employees replaceable, even at manager level. A set of lego is my
+favorite metaphor for this. The number of employees in an enterprise
+might also be an issue. On one hand, your existence will be so
+insignificant that no one would know if you were eaten by a lion
+([good-old IBM joke](http://www.catb.org/jargon/html/L/lion-food.html)).
+On the other hand, you might get crushed under peer pressure. Unilever
+is very notorious for this, every year it recruits hundreds of
+management trainees and lets them fight till death.
+
+Every enterprise
+would have a handful of long-term partners, which provide a stable
+source of income. But these long-lasting partnerships are placed on top
+of legacy systems, developed, who knows, 20-30 years ago. For example,
+Cobol is a very ancient programming language, which was responsible for
+the infamous Y2K. By the time I took my internship in 2010, CSC was
+still known for providing technical support to such systems.
+
+Compared to
+enterprises, startups are on the other extreme. Startups are on hype all
+over the world. Everyone talks about it. Startups attracts a lot of
+talents because it gives people a chance to visualize their own universe
+where imagination is the only limits. For anything you do, there might
+be a chance that you are the first one ever set out to do it, solving a
+unique problem for mankind. Oh Jesus Chris, the feeling that you are
+pushing the edge of the world, that is good.
+
+For experienced developers,
+startups hit a sweet spot when bureaucratic policies are replaced by the
+freedom to establish new standards. If you noticed, most of the new
+things in software industry came from startups, e.g Agile for
+methodology or RoR for development.
+
+Last but not least startups have
+been making countless founders and core-members millionaires. When
+Instagram was acquired with ONE-BILLION USD, it had around 12 members,
+effectively everyone of them can have their own yacht and island now.
+
+However, startup is a risky path. For every successful startup, 99 others
+fails. The working environment and benefit package in most of startups
+are every limited. Many founders and startup employees live on minimum
+wage or below until the business takes off, or fail miserably. Oh hey,
+but too much funding in an early stage can kill a startup too
+([Color](http://www.businessinsider.com/color-employees-lost-apple-millions-lala-bill-nguyen-2013-1) of
+Bill Nguyen,
+or [Skunkworks](http://www.techinasia.com/skunkworks-shutting-rebooting/) right
+in Vietnam are bold examples).
+
+Working in a startup is very stressful.
+It is a common belief that if you are working less than 100h/week, your
+startup is not going to succeed and investors won't be convinced. While
+it sure feels good pushing the edge of the world, the same situation
+could be described as crawling in the dark if you failed, lost your
+direction and had no idea where  you were heading to.
+
+There are pros and
+cons, and learning opportunities in both enterprises and startups. And
+always remember that this is just an internship. You can fail, you can
+make a bad choice **and you should**. What is the worst thing that can
+happen? You wasted 4 months of your life in a crappy company. But that
+experience, either sweet or leaves a bad taste, is priceless. He who
+never fails never succeeds. "You can't connect the dots looking forward;
+you can only connect them looking backwards. So you have to trust that
+the dots will somehow connect in your future. You have to trust in
+something — your gut, destiny, life, karma, whatever. This approach has
+never let me down, and it has made all the difference in my life." Steve
+Jobs, 2005.
+
+
+## Q: Should I apply for a paid or unpaid internship? If it is a paid internship, what is a good offer?
+
+An offer in a job, not only an internship, is the mutual
+commitment between employer and employee. By providing benefit packages
+and working environment stated in the offer, an employer has the right
+to expect its employee to legally hold responsibility for his work.
+
+Being paid in an internship is not only an indicator that you are
+valuable to your employer but also a call for **your professionalism in
+being responsible for your impact to the organization performance**. In
+RMIT's official internship agreement, it is stated that monthly
+allowance is optional. This is a move of the university to lower the
+entry barrier for some students who have not yet been excellent in their
+profession (the word "monthly allowance" itself is also to lower the
+barrier as it indicates that a legal contract is not required).
+
+Based on
+my pure assumption, students who are concerned about paid/unpaid
+internship are ones that haven't got any previous experience in the
+industry. And by considering unpaid internship, students are trying to
+reduce the pressure they are about to face during the internship. That
+seems to be a reasonable option, but **if you are serious about your
+career, I suggest not to**. An unpaid position is an open message from
+the organization that your work, not matter how good or bad, is not
+going to matter, it doesn't provide value to the organization, it is
+junk. You have spent a little fortune for your education, you better
+work on something matters. And this is kinda just for fun but receiving
+a paycheck after all of the hard work is part of the internship
+experience too.
+
+Talking about offer, it is important to acknowledge that
+salary is a small part of an offer. For an internship, that portion is
+especially small. Ultimately  what an organization has to provide is its
+working environment, corporation culture and other experience coming
+along. A few items to notice when considering offers would include
+
+-   The culture the organization is embracing. Refer to the first
+    question to know which type of company fits your taste.
+-   The people you are working with. Sometimes, it doesn't matter what
+    you do, it is who you do it with. An offer receives its incremental
+    value if it comes from an organization where employees are
+    top-notches in particular fields in the industry. Working with these
+    gurus is an priceless experience (which might not always be
+    positive, I know a handful of gurus who are truly sore losers). And
+    the fact that they are gathering is one place is kinda an indicator
+    on its own already.
+-   The type of projects you are going to work with. Is that some kind
+    of project that you can freely write about in your school report or
+    is it something you have to sign Non Disclosure Agreement (whether
+    or not you pass the "course" depends on the quality of your reports,
+    it is an important piece)? Is that the type of project you want to
+    work on in the next few years? How do those projects align with your
+    personal development?
+-   What are the growth opportunities the company provides? Do them
+    align with your goals in the next few years?
+-   And finally salary, aka monthly allowance. As stated earlier, I
+    suggest taking a paid internship rather than an unpaid one. The
+    salary should be sufficient for you to live on it independently.
+    Given the current state of the market, a salary of \$300-700 is
+    considered well-paid. You can refer to [this
+    survey](http://www.robertwalters.com.vn/wwwmedialibrary/WWW2/country/vietnam/content/salary-survey/vietnam-salary-survey-2013.pdf)
+    to get a sense of what is going on in the industry.
+    -   Don't jump into the conclusion that a salary is low or high with
+        just the number. As an intern, there is a chance that you won't
+        be productive in the first few months (read, your entire
+        internship) and that your salary together with other benefits
+        you are receiving are nothing but cost to the company. Investing
+        in an intern is usually a long-term investment, and no
+        fool places all eggs in one basket. Carefully consider what you
+        are receiving in big picture, not just a paycheck.
+    -   Many companies pay its interns the same amount as entry-level
+        employee. It might mean that the company has a deep pocket. But
+        it is more likely that the company doesn't provide any special
+        training/treatment to interns and technically you \*are\* a
+        normal employee under the eyes of your direct boss (monetary
+        award is mutually commitment between two parties, remember?).
+        This does not necessarily mean good or bad, just something as a
+        green horn you should look out for.
+
+## Q: How can I find an internship abroad?
+
+Hard work and a lot of luck.
+
+Firstly you should know that you are competing
+with a lot of native students whose education is tailored for the need
+of the local market. If your language is not fluent, your CV is not
+shiny, you have little to no working experience and all you have is a
+cold contact, your chance to win this competition is extremely slim. The
+interview processes of different companies are quite identical and if
+you have been attending WPP workshop, you should know about the art of
+answering interview questions better that I do now :) So in this answer,
+I will only focus on the parts before the interview.
+
+**Spend time on it,
+decently.** There is no place for luck in this competition. It is not
+luck that brings you a reference to an overseas internship, it is years
+of hard work for a nice transcript and reputation among fellow students.
+It is not luck that your CV passes the screening step, a decent and
+well-written CV does. And little can luck help to boost your English for
+an interview, on phone. Furthermore the whole visa a truly a pain in
+butt. Internship visa is especially troublesome. In many countries, the
+only visa types that are available are Resident, Work and Visitor visa.
+Work visa are for professional only and there is a quota on how many
+expats a company can employ. Visitor visa usually lasts for only 1 month
+for Vietnamese citizen and visa bearer can't be employed (legally). Due
+to its nature, this is something you need to discuss and coordinate
+closely with your employer. It can easily eat up 2 months of your time,
+and if it mixes up with exam period, ain't gonna be nice.
+
+**Choose a
+company.** All companies expect long-term value  from investments they
+make. A fact you should know is that in RMIT Melbourne, there are many
+Vietnamese students who can't find an internship over there and have to
+reluctantly travel back to Vietnam for an employment opportunity. The
+reason is that companies are concerned about the work permit for the
+student once his/her education in Australia is over. Compared to native
+students who speak a faultless language and have no problem with visa,
+investing in a Vietnamese student is too risky. Same logic applies when
+you are seeking for an internship overseas. However, there are two types
+of companies where being a Vietnamese engineer is an advantage. Firstly,
+those are companies looking at Vietnam as a potential business partner.
+The purposes can be various, ranging from extending market to talent
+acquisition. These companies are in great need to understand about from
+multiple aspects and a Vietnamese employee is an useful resource. The
+second type are young (relatively) technology giants, like Google,
+Facebook or Twitter. These companies succeeded in the new waves of
+technology and greatly appreciate the power of diversity. They are
+always try to balance the demographics of employees. When you look into
+companies of this type, the company size matters. Acquiring visa that
+permits work in most countries is are troublesome and time consuming
+process. Unless the company is big enough to have its own legal
+department, most will pass the burden.
+
+**Get a reference.** From my
+experience in recruitment, most companies value hiring opportunities
+coming from its internal network, aka word-of-mouth reference. So once
+you have a good idea which company you want to apply to, you need to
+approach the company from different direction, and as soon as possible.
+You can approach the company HR's via social network such as LinkedIn.
+If your LinkedIn profile is attractive, you will receive many offers,
+good and bad ones. This might not be common in Vietnam (yet), but quite
+popular in neighbor countries, like Singapore. Even more effective, you
+approach the company's employee through open source project. I really
+love this approach because not only you gain a valuable internal
+reference, your application profile can also be pre-filtered. Similarly
+approach the group of Vietnamese people working in the company :).
+Lastly approach the company through developer group, competition and
+event held by the company. There is actually one last approach which is
+to become excellent in the field the company is starving for talents,
+but that is quite hard for students so I don't really want to stress on.
+I assume I should talk about closing an offer as well. But wait, if you
+are a bright student, you have been studying hard and now you are
+getting an overseas internship, it is no time for QnA, it is time for
+party \\m/ So perhaps another time, or you can always email me :)
+

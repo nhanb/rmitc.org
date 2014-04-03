@@ -1,0 +1,35 @@
+---
+layout: post
+title: Prezi, the Zooming Presentation Editor
+author: phunehehe
+categories: [activities]
+---
+
+## Introduction
+
+[Prezi](http://prezi.com) is a web-based tool to create zooming
+presentations. Unlike the traditional way using boring PowerPoint slides
+to show off your message to the audience, Prezi uses a single canvas to
+hold all contents, then we can easily zoom to each part based on a
+storyboard.
+
+## Purpose
+
+We have seen the traditional presentations with long sleepy slides and
+due to its specification, making a slide on PowerPoint becomes too
+complicated for business people and we cannot stress one important point
+on the screen. As a result, Prezi came out to help people, especially
+people in the marketing field, make impressive and efficient
+presentations. Thus, in semester A 2010, we provided an introduction of
+Prezi to student who’s studying PCP (Professional Computing Practice),
+which we hope, will help them create better presentations. This activity
+has received approval from our lecturer, Mr Quang Tran, who gave the
+team 30 minutes from his class so there was a full attendance of
+students.
+
+## Overall
+
+The introduction of new presentation methodology was successful.
+Students have found that it is easier and more impressive than using
+PowerPoint. As a result of our demonstration, 4 out of 6 marketing team
+gave their presentation on Prezi.

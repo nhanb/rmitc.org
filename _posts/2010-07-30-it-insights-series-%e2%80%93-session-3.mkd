@@ -1,0 +1,38 @@
+--- layout: post title: IT Insights Series – Session 3 categories: -
+Activities - IT Insight Series tags: - 2010B - insight status: publish
+type: post published: true meta: CODE2: "
+
+[Agile Management: The School Approach](\"http://vimeo.com/13728605\")
+from [RMITC](\"http://vimeo.com/user4273335\") on
+[Vimeo](\"http://vimeo.com\").
+
+" CODE1: "
+
+[Pulling your Workspaces Together](\"http://vimeo.com/13636567\") from
+[RMITC](\"http://vimeo.com/user4273335\") on
+[Vimeo](\"http://vimeo.com\").
+
+" \_edit\_last: '5' CODE3: "
+
+[Coding Standards](\"http://vimeo.com/13728736\") from [Hoang Xuan
+Phu](\"http://vimeo.com/phunehehe\") on [Vimeo](\"http://vimeo.com\").
+
+" CODE4: "
+
+[Agile Practices](\"http://vimeo.com/13728960\") from
+[RMITC](\"http://vimeo.com/user4273335\") on
+[Vimeo](\"http://vimeo.com\").
+
+" \_wp\_old\_slug: '' --- The second session of IT Insight series was
+held on Thursday (week 5, 22th July 2010) in room 2.17 The main theme of
+the second session was about **handling school assignments** and
+**managing team works**. The speeches were carried out by Hoang Xuan
+Phu, Nguyen Nam Khang and Tran Xuan Bach, senior students from Bachelor
+of IT program.
+
+-   Pulling your Workspaces Together - by **Hoang Xuan Phu** %CODE1%
+-   Agile Management: the School Approach - by **Nguyen Nam Khang** and
+    **Tran Xuan Bach** %CODE2%
+-   Coding Standards - by **Tran Xuan Bach** %CODE3%
+-   Agile Practices - by **Nguyen Nam Khang** %CODE4%
+
