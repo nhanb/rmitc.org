@@ -3,7 +3,7 @@
 # This script is for use in travis-ci only.
 # Humans like you have no business here!
 
-$credentials_path = "$HOME/credentials"
+$credentials_path=$HOME/credentials
 git config credential.helper "store --file=$credentials_path"
 echo "https://${GH_TOKEN}@github.com" > $credentials_path
 git config --global user.email "nhan.buithanh@rmitc.org"
