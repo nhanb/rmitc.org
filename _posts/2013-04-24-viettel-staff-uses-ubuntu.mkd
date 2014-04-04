@@ -1,12 +1,8 @@
---- layout: post title: Viettel staff uses Ubuntu - Yes, they do !
-categories: - Business - News - Partnership tags: - geek - ubuntu
-status: publish type: post published: true meta: \_edit\_last: '24'
-seo-title: '' seo-description: '' seo-keywords: '' layout-type: '0'
-sidebar-type: Global Sidebar title-show: '1' title-content: ''
-slide-type: '0' layer-slide-id: '0' rev-slide-id: '0' video-type: '0'
-video-content: '' audio-type: '0' audio-content: '' show-related-post:
-'0' show-related-post-number: '3' \_wpas\_done\_all: '1'
-\_thumbnail\_id: '1152' ---
+---
+layout: post
+title: Viettel staff uses Ubuntu - Yes, they do !
+categories: [news]
+---
 
 Ever since I was introduced to Ubuntu 5 years ago, I have sticked with
 it and never go back. I guess I was lucky, as my first impression with
@@ -28,23 +24,28 @@ seen one, which would have been... never.
 
 ## Ubuntu at Viettel
 
-Today I went to a Viettel store. I usually come to the local one, a
+Today I went to a Viettel store. I usually come to the local one, a
 massive one, where customers are not permitted to check stuff behind the
 counter. The store I went to this morning was different, so I was
 thrilled to see this:
 
 [![IMG\_20130424\_103332](http://rmitc.org/wp-content/uploads/2013/04/IMG_20130424_103332-1024x768.jpg)](http://rmitc.org/wp-content/uploads/2013/04/IMG_20130424_103332.jpg)
+
 HAVE YOU SEEN IT ?
+
 [![IMG\_20130424\_103349](http://rmitc.org/wp-content/uploads/2013/04/IMG_20130424_103349-1024x768.jpg)](http://rmitc.org/wp-content/uploads/2013/04/IMG_20130424_103349.jpg)
 I had a brief chat with the counter girl:
 
-> **ME**: Just out of curiosity, is the system you are using Ubuntu ?
-> (what a dumb question) **COUNTER GIRL**: Ubun - what? I dunno, the
-> tech-saavy guys from the IT department installed this. **ME**: How
-> long have you been using this ? **COUNTER GIRL**: Hard to remember, I
-> reckon two years. **ME**: Do you know which version you are using ?
-> The counter girl shrugged, then commented: this Windows has the
-> taskbar on the left (I bet she implied the launcher).
+**ME**: Just out of curiosity, is the system you are using Ubuntu ?  (what a dumb question)
+
+**COUNTER GIRL**: Ubun - what? I dunno, the tech-savvy guys from the IT department installed this.
+
+**ME**: How long have you been using this ?
+
+**COUNTER GIRL**: Hard to remember, I reckon two years.
+
+**ME**: Do you know which version you are using ?  The counter girl shrugged, then commented: this
+Windows has the taskbar on the left (I bet she implied the launcher).
 
 Two things can be taken from this:
 

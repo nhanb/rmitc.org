@@ -1,67 +1,62 @@
---- layout: post title: Startup jobs – the incredible experience
-categories: - Business - Entrepreneurship tags: [] status: publish type:
-post published: true meta: \_edit\_last: '13' seo-title: ''
-seo-description: '' seo-keywords: '' layout-type: '0' sidebar-type:
-Global Sidebar title-show: '0' title-content: '' slide-type: '0'
-layer-slide-id: '0' rev-slide-id: '0' video-type: '0' video-content: ''
-audio-type: '0' audio-content: '' show-related-post: '0'
-show-related-post-number: '3' \_wpas\_done\_all: '1' --- So…. today is
-my last day officially working for Keewi – a very cool startup in
-Saigon. It’s almost 1 year since the first time I knew about this
-awesome team and its famous event Start Me Up – the only monthly
-entrepreneurship event in Saigon. Looking back, it was an amazing
-journey that brought me to the technology world and expose to a new way
-of thinking about this world, which is totally different from what I’ve
-believed before. Listening to the song Humanity in Motion inspires me to
-write a short post for youngsters who want to tip a toe in a startup
-world. These are all the awesome experiences I want to share with you:
+---
+layout: post
+title: Startup jobs – the incredible experience
+categories: [career]
+---
 
--   **Diversity of skills:** Usually, a job in a corporate will need a
-    specific skill-set and the skill you acquired will be very focused.
-    At a startup, one skill is never enough, start-ups never have enough
-    people to do the work. As a business student, I knew nothing about
-    design & coding. When people talked about landing page, UX design,
-    Google analytics, CSS, HTML5, JavaScript, object-oriented, etc. I
-    felt like it was in some alien language. But don’t be afraid, take
-    time and dig deeper into technical skills, it will make your
-    communication much easier. Looking back, I believe I’ve learned a
-    lot from programmers and designers in Keewi. Thanks to them I now
-    know how to do basic Java programming and acquired some basic
-    Photoshop skills.
--   **Involve in strategic level decision:** tech-startups nowadays
-    apply lean methodology to search for the right business model. This
-    decision is based on an endless loop of customer discovery and
-    hypothesis testing. Therefore, there are higher chances you can
-    propose the idea to the CEO & have discussions about the company's
-    future. The decisions you're involved in range from adding product
-    features, changing the user experience, finding new revenue models,
-    go/kill decision for certain projects,
--   **Cool & hip culture:** there is no red-tape, no formal paper, no
-    hierarchy, whatever you want to propose, tell it to the whole team.
-    Startup teams drink beers, eat out or play basketball/football
-    together.
--   **Self-learning attitude:** corporations always pay a lot of
-    attention on their people. They have formal training programs &
-    career tracking for employees. Employees always know how to do
-    certain jobs properly and professionally with guidance from
-    management. Startups rarely have to time to teach you how certain
-    jobs are done, as they are too busy surviving and getting punches
-    from customers/suppliers/ the economy everyday. Start-up is more
-    about on-the-go learning where you have to grab books, online
-    courses, tips from your networks, observe what other companies are
-    doing to understand deeply about specific skills.  However, that is
-    a good condition since startup is a lonely road, there is no similar
-    path for two different companies. Beside, startup is a lifestyle,
-    how can someone teach you how to live a life?
--   **Resilience:** you try, you fail and you try again. Sometimes you
-    win, sometimes you screw things up, and that’s normal. Get used to
-    being punched many times in a day will make you stronger and more
-    resilient to things out of your control.  Remember, it’s not about
-    the things that happen to you, it’s how you response. There’s
-    nothing wrong with failure, but it's never right to give up.
+So... today is my last day officially working for Keewi – a very cool startup in Saigon. It’s
+almost 1 year since the first time I knew about this awesome team and its famous event Start Me Up
+– the only monthly entrepreneurship event in Saigon. Looking back, it was an amazing journey that
+brought me to the technology world and expose to a new way of thinking about this world, which is
+totally different from what I’ve believed before. Listening to the song Humanity in Motion inspires
+me to write a short post for youngsters who want to tip a toe in a startup world. These are all the
+awesome experiences I want to share with you:
 
-For me, at the end of the day, it’s all about what value we are adding
-to the society and people around you. With a startup, I have a sense of
-belonging, the feeling of being part of a team, a part of something
-bigger than myself and create products that solve society’s problems.
-And that’s made all the differences.
+## Diversity of skills
+
+Usually, a job in a corporate will need a specific skill-set and the skill you acquired will be
+very focused. At a startup, one skill is never enough, start-ups never have enough people to do
+the work. As a business student, I knew nothing about design & coding. When people talked about
+landing page, UX design, Google analytics, CSS, HTML5, JavaScript, object-oriented, etc. I felt
+like it was in some alien language. But don’t be afraid, take time and dig deeper into technical
+skills, it will make your communication much easier. Looking back, I believe I’ve learned a lot
+from programmers and designers in Keewi. Thanks to them I now know how to do basic Java programming
+and acquired some basic Photoshop skills.
+
+## Involve in strategic level decision:
+
+tech-startups nowadays apply lean methodology to search for the right business model. This decision
+is based on an endless loop of customer discovery and hypothesis testing. Therefore, there are
+higher chances you can propose the idea to the CEO & have discussions about the company's future.
+The decisions you're involved in range from adding product features, changing the user experience,
+finding new revenue models, go/kill decision for certain projects,
+
+## Cool & hip culture:
+
+There is no red-tape, no formal paper, no hierarchy, whatever you want to propose, tell it to the
+whole team. Startup teams drink beers, eat out or play basketball/football together.
+
+## Self-learning attitude:
+
+Corporations always pay a lot of attention on their people. They have formal training programs &
+career tracking for employees. Employees always know how to do certain jobs properly and
+professionally with guidance from management. Startups rarely have to time to teach you how certain
+jobs are done, as they are too busy surviving and getting punches from customers/suppliers/ the
+economy everyday. Start-up is more about on-the-go learning where you have to grab books, online
+courses, tips from your networks, observe what other companies are doing to understand deeply about
+specific skills. However, that is a good condition since startup is a lonely road, there is no
+similar path for two different companies. Beside, startup is a lifestyle, how can someone teach you
+how to live a life?
+
+
+## Resilience:
+
+You try, you fail and you try again. Sometimes you win, sometimes you screw things up, and that’s
+normal. Get used to being punched many times in a day will make you stronger and more resilient to
+things out of your control. Remember, it’s not about the things that happen to you, it’s how you
+response. There’s nothing wrong with failure, but it's never right to give up.
+
+For me, at the end of the day, it’s all about what value we are adding to the society and people
+around you. With a startup, I have a sense of belonging, the feeling of being part of a team, a
+part of something bigger than myself and create products that solve society’s problems. And that’s
+made all the differences.
