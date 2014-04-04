@@ -1,23 +1,20 @@
---- layout: post title: As a core, what should you do, basically?
-categories: [] tags: [] status: private type: post published: false
-meta: \_edit\_last: '12' seo-title: '' seo-description: '' seo-keywords:
-'' layout-type: '0' sidebar-type: Global Sidebar title-show: '0'
-title-content: '' slide-type: '0' layer-slide-id: '0' rev-slide-id: '0'
-video-type: '0' video-content: '' audio-type: '0' audio-content: ''
-show-related-post: '0' show-related-post-number: '3' \_wpas\_mess: As a
-core, what should you do, basically? \_wpas\_done\_all: '1' ---
+---
+layout: post
+title: As a core, what should you do, basically?
+categories: [announcements]
+---
 
-# Engaging & Engagement!
+## Engaging & Engagement!
 
 One says: “An engaging elephant is full of engagement!” Okay, that one
 is me. It is nonsense… yet no sense at all. But it does say something
 about engaging, as a Club Core member.
 
-## So what should **YOU** do?****
+### So what should *YOU* do?
 
 Here is a big list of stuff:
 
-### Nothing is true
+#### Nothing is true
 
 A rule itself could kill the whole generation!!! This so-called document
 is not a shitty pile of rules and you **don’t have to**strictly follow
@@ -29,7 +26,7 @@ document and other sayings by Club Executives are **just guidelines**.
 We want you to be fully creative! Be whatever you like and we will
 welcome it!
 
-### Swearing is permitted
+#### Swearing is permitted
 
 If you found the last stuff offensive (because of bad words I used), how
 about this: You could say bad words, swear i.e. ĐM, VCL, Fuck, Damn and
@@ -42,12 +39,12 @@ people! Don’t worry, yours will be heard and action will be taken.
 Unless you try to mind-fuck us… LOL! But seriously, the shitty things
 happen below this sentence is really serious!
 
-# Stuff that would help to keep you in the loop!
+## Stuff that would help to keep you in the loop!
 
 Well, the things I’m about to say now are those you have the “rights and
 responsibilities, bla bla” to do as a part of our so-called ‘system’ :-“
 
-## To be kept in the loop!
+### To be kept in the loop!
 
 As a core, you will have access to a big-gigantic-ass of Knowledge
 Source of the Universe! We will give you the Almighty Key! All you have
@@ -58,9 +55,9 @@ those included:
 -   Your Student ID, personal Google Mail. We will share the Club’s
     Google Drive folder :D
 
-## Using IT Club @rmitc.org
+### Using IT Club @rmitc.org
 
-### Having an [awesome@rmitc.org](mailto:awesome@rmitc.org) email is extremely easy!
+#### Having an [awesome@rmitc.org](mailto:awesome@rmitc.org) email is extremely easy!
 
 As a core member, you will receive an awesomely new email of @rmitc.org.
 Your email will be set up as
@@ -71,7 +68,7 @@ you could send and receive email as
 [your-nickname@rmitc.org](mailto:your-nickname@rmitc.org). All you have
 to do is **ask**!
 
-### Be proud and professional
+#### Be proud and professional
 
 Your @rmitc.org email is encouraged to be used for internal
 communication between Club Cores and also, external chit-chat that is
@@ -79,22 +76,17 @@ related to our Club :D. To show our awesomeness to the world, let’s
 change your signature shall we :D. This is an example:
 
     Best regards,
-
     Luan Nguyen Thanh
-
     P R E S I D E N T
 
     RMIT VIETNAM IT CLUB
+    / w: http://rmitc.org
+    / f: http://www.facebook.com/rmitc
+    / m: rmit.itclub@rmitc.org
+    / p: 090.000.0000 - President. <-- If you don't want to include your phone then you could
+                                       leave the President’s phone here
 
-    / w: http://rmitc.org
-
-    / f: http://www.facebook.com/rmitc
-
-    / m: rmit.itclub@rmitc.org
-
-    / p: 0909.057.169 - President. <-- If you don't want to include your phone then you could leave the President’s phone here
-
-### Wandering around and get to know stuff
+#### Wandering around and get to know stuff
 
 Our Google Apps is backed with many awesome add-ons i.e. project
 management, customer relationship management, etc. And many of those are
@@ -104,7 +96,7 @@ Marketplace and want to have it in the Club’s Google Apps, just **ask**
 the System Admin ;). We will install that app, test it and decide if it
 would benefit the Club then you and the others could use it!
 
-## Getting in our Wordpress blog
+### Getting in our Wordpress blog
 
 As a core, you will receive an account at our Club’s blog. But please
 send your desire username to the System Admin! Since the username cannot
@@ -113,10 +105,10 @@ didn’t act soon enough! After having an account, first thing you should
 do is to update your personal profile. You don’t want the readers of
 your posts know nothing about you but your name, do you?!
 
-## … and some Facebook stuff
+### ... and some Facebook stuff
 
 Our Facebook page is very active, thanks to every beloved core! I won’t
 ask you to share every new post on our Facebook page, but please share
 it if you really love it :D. It is a great way to tell everybody in the
 team that the post is awesome and we should keep on doing that! { *life
-changed, shit happened, this post is to be updated* }
+changes, sh!t happens, this post is to be updated* }
