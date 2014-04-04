@@ -4,7 +4,7 @@
 # Humans like you have no business here!
 
 # Just kidding! Here's making sure github will let us push
-$credentials_path=$HOME/credentials
+credentials_path=$HOME/credentials
 git config credential.helper "store --file=$credentials_path"
 echo "https://${GH_TOKEN}@github.com" > $credentials_path
 git config --global user.email "nhan.buithanh@rmitc.org"
