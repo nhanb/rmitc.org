@@ -1,6 +1,7 @@
 ---
 layout: post
 title: So you have your own domain. What next?
+author: tklarryonline
 categories: [tutorials]
 ---
 

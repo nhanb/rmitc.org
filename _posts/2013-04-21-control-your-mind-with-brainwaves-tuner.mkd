@@ -1,12 +1,9 @@
---- layout: post title: Control your mind with Brainwaves Tuner on
-smartphones categories: - Activities - IT Insight Series - Tutorial
-tags: - Android - geek - study status: publish type: post published:
-true meta: \_edit\_last: '12' \_thumbnail\_id: '1096' seo-title: ''
-seo-description: '' seo-keywords: '' layout-type: '0' sidebar-type:
-Global Sidebar title-show: '1' title-content: '' slide-type: '0'
-layer-slide-id: '0' rev-slide-id: '0' video-type: '0' video-content: ''
-audio-type: '0' audio-content: '' show-related-post: '0'
-show-related-post-number: '3' \_wpas\_done\_all: '1' ---
+---
+layout: post
+title: Control your mind with Brainwaves Tuner on smartphones
+author: hadobac
+categories: [tutorials]
+---
 
 ## About human brainwaves
 
@@ -35,9 +32,7 @@ purpose?
 
 ## Brainwave Tuner
 
-[caption id="" align="alignright"
-width="230"]![](http://a1831.phobos.apple.com/us/r1000/063/Purple/9f/98/49/mzl.hgannvvj.320x480-75.jpg)
-Brainwave Tuner on iOS[/caption]
+![](http://a1831.phobos.apple.com/us/r1000/063/Purple/9f/98/49/mzl.hgannvvj.320x480-75.jpg)
 
 ### Introduction
 

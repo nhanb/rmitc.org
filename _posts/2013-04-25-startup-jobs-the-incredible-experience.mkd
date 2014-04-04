@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Startup jobs – the incredible experience
+author: tommyly
 categories: [career]
 ---
 

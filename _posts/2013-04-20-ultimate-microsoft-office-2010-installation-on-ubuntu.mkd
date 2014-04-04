@@ -1,26 +1,19 @@
---- layout: post title: 'Ultimate tutorial: Install Microsoft Office
-2010 on Ubuntu with font smoothing using PlayOnLinux/WINE' categories: -
-Activities - IT Insight Series - Tutorial tags: - msoffice - newbie -
-playonlinux - ubuntu status: publish type: post published: true meta:
-\_edit\_last: '24' seo-title: '' seo-description: '' seo-keywords: ''
-layout-type: '0' sidebar-type: Global Sidebar title-show: '0'
-title-content: "
+---
+layout: post
+title: 'Ultimate tutorial: Install Microsoft Office
+2010 on Ubuntu with font smoothing using PlayOnLinux/WINE'
+categories: [tutorials]
+---
 
-# Ultimate Microsoft Office 2010 installation on Ubuntu
+## Ultimate Microsoft Office 2010 installation on Ubuntu
 
-\\r\\n
 
 In this post, contributor Do Bac Ha presents a thorough instruction on
 how to install Microsoft Office 2010 on Ubuntu, while giving tips on how
 to optimize the installation procedure, for a seamless user experience.
 
-" slide-type: '0' layer-slide-id: '0' rev-slide-id: '0' video-type: '0'
-video-content: '' audio-type: '0' audio-content: '' show-related-post:
-'0' show-related-post-number: '3' \_wpas\_done\_all: '1'
-\_thumbnail\_id: '1088' ---
-
 I love Microsoft Office. It is fast, it is effective (performance-wise),
-and the Ribbon UI is just sexy. And I am not even kidding. I am dead
+and the Ribbon UI is just sexy. And I am not even kidding. I am dead
 serious.
 
 A loyal Ubuntu user since 8.04 Hardy Heron, yet I can never get along
@@ -28,12 +21,12 @@ with OpenOffice. LibreOffice has come a long way lately, but the retro
 Windows XP UI annoys me days after days. I love Ribbon and I am not
 afraid to show it.
 
-Natively, Microsoft Office 2010 is not a Ubuntu application. The day
+Natively, Microsoft Office 2010 is not a Ubuntu application. The day
 when Microsoft brings their almighty Office suit to Linux will come
 soon, just not in this world.
 
-However, it does not stop me from getting it to run on my beloved Ubuntu
-set up, well, after numerous of fail endeavours.
+However, it does not stop me from getting it to run on my beloved Ubuntu
+set up, well, after numerous of fail endeavours.
 
 The main reason I decide to write this instruction, is tutorials I found
 in Google are pretty much unclear, vague and all over the places, some
@@ -52,9 +45,7 @@ this tutorial somehow does not apply to you.*
 
 I break the procedure down into 6 steps:
 
-## 
-
-## Step 1:  Install PlayOnLinux
+## Step 1:  Install PlayOnLinux
 
 In brief, Office runs from Wine. For those who don’t know, Wine is not a
 Windows emulator, although it is. Haha, I’ll stop bullshiting. You can
@@ -73,8 +64,6 @@ Software Centre.
 I recommend not to install from the from the official repository, which
 is obsolete. I did not test it myself - at least I was told not to do
 so.
-
-## 
 
 ## Step 2: Install Microsoft Office 2010
 
@@ -115,7 +104,7 @@ personally install the Standard version.
 
 ![](http://rmitc.org/wp-content/uploads/2013/04/07-select-product.png)
 
-Sit back and relax, have a cup of water, may be even \*do-it\* yourself.
+Sit back and relax, have a cup of water, may be even \*do-it\* yourself.
 It might take a while...
 
 ![](http://rmitc.org/wp-content/uploads/2013/04/08-installing.png)
@@ -131,7 +120,7 @@ Give Word or Excel a test run =))
 
 ![](http://rmitc.org/wp-content/uploads/2013/04/10-test-run.png)
 
-### Install missing *wingdng2.ttf* and*wingdng3.ttf* fonts (updated 24 April)
+### Install missing *wingdng2.ttf* and*wingdng3.ttf* fonts (updated 24 April)
 
 For now, Office installation misses 2 fonts *wingdng2.ttf*
 and*wingdng3.ttf*, which makes *the Bullets* fail to displays (they look
@@ -158,7 +147,6 @@ Update: new links to download the fonts:
 
 [http://wps-community.org/download/fonts/](http://wps-community.org/download/fonts/)
 
-## 
 
 ## Step 3: Cosmetic surgery - font anti-aliasing.
 
@@ -207,8 +195,6 @@ right is what we did so far with PlayOnLinux.
 
 ![](http://rmitc.org/wp-content/uploads/2013/04/14-.png)
 
-## 
-
 ## Step 4: more cosmetic change.
 
 So far, Office has a relatively decent look and feel, with font smoothen
@@ -245,8 +231,6 @@ use Ubuntu font instead.
 
 For even greater theming and look change, you can read from this link:
 [http://askubuntu.com/questions/175868/what-can-be-done-to-make-wine-look-more-integrated-into-unity](http://askubuntu.com/questions/175868/what-can-be-done-to-make-wine-look-more-integrated-into-unity)
-
-## 
 
 ## Step 5: Complete Ubuntu integration - Dash, file association, and drive setting
 
@@ -290,8 +274,6 @@ folder straight from Office.
 
 ![](http://rmitc.org/wp-content/uploads/2013/04/20.png)
 
-## 
-
 ## Step 6: Office activation
 
 The support for Office activation from Wine and PlayOnLinux is
@@ -315,10 +297,9 @@ Read here for more detail:
 
 *Okay, to be professional, here I will provide some sources:*
 
-## **Bibliography:**
-
-Easily install Microsoft Office in Ubuntu (2011), Tutonics, 
-[http://www.tutonics.com/2012/12/easily-install-microsoft-office-in.html\#.UXFkNUlppcZ ](http://www.tutonics.com/2012/12/easily-install-microsoft-office-in.html#.UXFkNUlppcZ)
+## Bibliography:
+Easily install Microsoft Office in Ubuntu (2011), Tutonics,
+[http://www.tutonics.com/2012/12/easily-install-microsoft-office-in.html\#.UXFkNUlppcZ ](http://www.tutonics.com/2012/12/easily-install-microsoft-office-in.html#.UXFkNUlppcZ)
 Accessed on 19 April
 
 How to Install Microsoft Office Suite 2010 in Ubuntu 12.04 Using Wine

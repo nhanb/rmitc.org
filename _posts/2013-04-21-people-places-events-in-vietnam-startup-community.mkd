@@ -1,158 +1,123 @@
---- layout: post title: People, Places & Events in Vietnam Startup
-Community categories: - Business - Entrepreneurship tags: [] status:
-publish type: post published: true meta: \_edit\_last: '12' seo-title:
-'' seo-description: '' seo-keywords: '' layout-type: '0' sidebar-type:
-Global Sidebar title-show: '0' title-content: '' slide-type: '0'
-layer-slide-id: '0' rev-slide-id: '0' video-type: '0' video-content: ''
-audio-type: '0' audio-content: '' show-related-post: '0'
-show-related-post-number: '3' \_wpas\_done\_all: '1'
-\_wpas\_skip\_3380076: '1' \_wpas\_skip\_3442097: '1'
-\_wpas\_skip\_3380081: '1' ---
+---
+layout: post
+title: 'People, Places & Events in Vietnam Startup Community'
+author: tommyly
+categories: [career, tutorials]
+---
 
-[Last
-week](http://rmitc.org/2013/04/tech-entrepreneurship/ "Technology Entrepreneurship"),
-I have covered the very general concept of startup & investment
-definition and type of startup investment in Vietnam.  This article’s
-main purpose is to show you key peoples, events and resources that I
-think you need to know in Vietnamese market.
+[Last week]({% post_url 2013-04-11-tech-entrepreneurship %}), I have covered the very general
+concept of startup & investment definition and type of startup investment in Vietnam.  This
+article’s main purpose is to show you key peoples, events and resources that I think you need to
+know in Vietnamese market.
 
 ## Key investors:
 
 ### [Henry Nguyen – Managing General Partner of IDG Ventures Vietnam](http://idgvv.com.vn/en/team/henry-nguyen)
 
-Henry (Hoang) Nguyen currently serves as the Managing General Partner of
-IDG Ventures Vietnam. Prior to joining IDG Ventures, Henry was an
-Associate at Goldman Sachs in the Technology group in New York and an
-NIH Neurodevelopment Research Fellow and Northwestern University. While
-attending medical school, Henry collaborated in the formation of S2S
-Medical Publishing, which published books, test prep and learning
-materials directed towards medical students and physicians-in-training.
-After S2S Medical Publishing was sold to Blackwell Science, he also
-helped found Medschool.com, a distance-learning platform for medical
-students and medical professionals. Henry graduated magna cum laude from
-Harvard University, which he attended as a Harvard National Scholar, in
-1995 with a BA in Classics. After Harvard, Henry earned his MD and MBA
-from Northwestern University Medical School and the Kellogg School of
-Management in Chicago, Illinois. He is a member of the Young Global
-Leaders program of the World Economic Forum and is an Asia Society, Asia
-21 Leader. Henry also is an advisory board member of Operation Smile in
-Vietnam. Henry is an avid fan of music and you can often find him
-listening to rock and jazz favorites. In addition to music, he is also a
-big fan or sports, including lacrosse, football, and golf.
+Henry (Hoang) Nguyen currently serves as the Managing General Partner of IDG Ventures Vietnam.
+Prior to joining IDG Ventures, Henry was an Associate at Goldman Sachs in the Technology group in
+New York and an NIH Neurodevelopment Research Fellow and Northwestern University. While attending
+medical school, Henry collaborated in the formation of S2S Medical Publishing, which published
+books, test prep and learning materials directed towards medical students and
+physicians-in-training.  After S2S Medical Publishing was sold to Blackwell Science, he also helped
+found Medschool.com, a distance-learning platform for medical students and medical professionals.
+Henry graduated magna cum laude from Harvard University, which he attended as a Harvard National
+Scholar, in 1995 with a BA in Classics. After Harvard, Henry earned his MD and MBA from
+Northwestern University Medical School and the Kellogg School of Management in Chicago, Illinois.
+He is a member of the Young Global Leaders program of the World Economic Forum and is an Asia
+Society, Asia 21 Leader. Henry also is an advisory board member of Operation Smile in Vietnam.
+Henry is an avid fan of music and you can often find him listening to rock and jazz favorites. In
+addition to music, he is also a big fan or sports, including lacrosse, football, and golf.
 
 ### [Nguyen Manh Dung – Head of Vietnam office of CyberAgent Ventures](http://www.cyberagentventures.com/en/memberinfo-en/link-nguyen-manh-dung/)
 
-Mr. Nguyen Manh Dung worked in a Japanese manufacturing company, in
-charge of import & export department. Also he worked in the biggest
-software company in Vietnam, experienced several projects to develop
-Japanese market. He decided to study abroad to Japan and he researched
-finance and economy. April 2009, he joined CyberAgent Investment, Inc.
-Now the name of company has changed to CyberAgent Ventures, Inc. He is
-in charge of the investment activities and management support for
-venture capitals in Vietnam. He has invested in more than 12 companies
-so far, and succeeded in exiting 1 company. Graduated from Foreign Trade
-University in Hanoi, Vietnam and Graduated School of Economics in Hosei
-University in Tokyo, Japan.
+Mr. Nguyen Manh Dung worked in a Japanese manufacturing company, in charge of import & export
+department. Also he worked in the biggest software company in Vietnam, experienced several projects
+to develop Japanese market. He decided to study abroad to Japan and he researched finance and
+economy. April 2009, he joined CyberAgent Investment, Inc.  Now the name of company has changed to
+CyberAgent Ventures, Inc. He is in charge of the investment activities and management support for
+venture capitals in Vietnam. He has invested in more than 12 companies so far, and succeeded in
+exiting 1 company. Graduated from Foreign Trade University in Hanoi, Vietnam and Graduated School
+of Economics in Hosei University in Tokyo, Japan.
 
 ### [Duy Le, General Partner of PVNI](http://pvni.vn/en/about.html?view=company&layout=about&q=60)
 
-Duy brings to PVNI with more than 12 years of experience in operating
-global software delivery organization at various leadership positions
-and more than 4 years of experience in consulting and funding startups
-in Vietnam. His industry base includes IT/IS, tourism, healthcare,
-financial services, telco, garment and consumer services. Duy is
-currently the Vice President of Delivery Services at CSC Vietnam where
-he provides oversight and leadership over approximately its project
-portfolio and delivery operations of 700 direct and indirect reports.
-Out of 9 years serving CSC, Duy worked in the United States for more
-than 3 years while working on his MBA program at Kennesaw State
-University (KSU). Duy started his professional career with a small local
-software company in 1999, when he was still the second year student.
-During that time he helped set up several ventures including
-TravelToVietnam, an online travel services for foreigners that want to
-go to Vietnam. Graduated in 2003 with good standing, he developed his
-career further with one of the top software outsourcing companies in
-Vietnam, which was eventually acquired by CSC. Duy has been consulting
-and helping various early-stage ventures in Vietnam, as an effort to
-help young entrepreneur to build and run the business in a better way.
-He also did occassional angel investments as well as led Seed, Series A
-and later rounds of funding. Duy holds good academic record with two
-times winning the National Prize in IT for Talented High School Students
-(1997 and 1998) and various notable awards and recognitions (Eureka,
-Local IT Talent, etc.) He earned a free entrance to the university of
-his choice, University of Technology in Ho Chi Minh city, where he
+Duy brings to PVNI with more than 12 years of experience in operating global software delivery
+organization at various leadership positions and more than 4 years of experience in consulting and
+funding startups in Vietnam. His industry base includes IT/IS, tourism, healthcare, financial
+services, telco, garment and consumer services. Duy is currently the Vice President of Delivery
+Services at CSC Vietnam where he provides oversight and leadership over approximately its project
+portfolio and delivery operations of 700 direct and indirect reports.  Out of 9 years serving CSC,
+Duy worked in the United States for more than 3 years while working on his MBA program at Kennesaw
+State University (KSU). Duy started his professional career with a small local software company in
+1999, when he was still the second year student.  During that time he helped set up several
+ventures including TravelToVietnam, an online travel services for foreigners that want to go to
+Vietnam. Graduated in 2003 with good standing, he developed his career further with one of the top
+software outsourcing companies in Vietnam, which was eventually acquired by CSC. Duy has been
+consulting and helping various early-stage ventures in Vietnam, as an effort to help young
+entrepreneur to build and run the business in a better way.  He also did occassional angel
+investments as well as led Seed, Series A and later rounds of funding. Duy holds good academic
+record with two times winning the National Prize in IT for Talented High School Students (1997 and
+1998) and various notable awards and recognitions (Eureka, Local IT Talent, etc.) He earned a free
+entrance to the university of his choice, University of Technology in Ho Chi Minh city, where he
 earned his BS in Computer Science.
 
 ### [Christopher Quang Zobrist](http://about.me/christopherzobrist)
 
-Christopher Quang Zobrist started his professional career as an
-entrepreneur, and now has over 12 years of experience building
-technology businesses in both developed and developing economies. He now
-serves as the Deputy Director of the John von Neumann Institute's
-Innovation, Leadership, and Entrepreneurship Programs at Vietnam
-National University - Ho Chi Minh City. Through this position and as an
-active angel investor, he is leading the development of the
-entrepreneurial ecosystem in Vietnam. Currently, Mr. Zobrist is leading
-the design and implementation of World Bank funded projects to create a
-scalable and sustainable co-working, co-incubation, and seed
-acceleration network in Vietnam. Mr. Zobrist received his Bachelor's of
-Science in Business Administration from UC Berkeley with a concentration
-in Entrepreneurship and Leadership Development, and a Masters in
-Business Administration from UC Davis with a concentration in
-International Business and Innovation. He is a Certified Incubation
-Management Trainer at the World Bank's Infodev Division and Asia Pacific
-Incubation Network, and is a member of the Kauffman Global Partners
-Network. He is currently based in Ho Chi Minh City, and is focused on
-developing high-impact entrepreneurs in Vietnam as well as building
-connections between Vietnam and the global entrepreneur ecosystem.
+Christopher Quang Zobrist started his professional career as an entrepreneur, and now has over 12
+years of experience building technology businesses in both developed and developing economies. He
+now serves as the Deputy Director of the John von Neumann Institute's Innovation, Leadership, and
+Entrepreneurship Programs at Vietnam National University - Ho Chi Minh City. Through this position
+and as an active angel investor, he is leading the development of the entrepreneurial ecosystem in
+Vietnam. Currently, Mr. Zobrist is leading the design and implementation of World Bank funded
+projects to create a scalable and sustainable co-working, co-incubation, and seed acceleration
+network in Vietnam. Mr. Zobrist received his Bachelor's of Science in Business Administration from
+UC Berkeley with a concentration in Entrepreneurship and Leadership Development, and a Masters in
+Business Administration from UC Davis with a concentration in International Business and
+Innovation. He is a Certified Incubation Management Trainer at the World Bank's Infodev Division
+and Asia Pacific Incubation Network, and is a member of the Kauffman Global Partners Network. He is
+currently based in Ho Chi Minh City, and is focused on developing high-impact entrepreneurs in
+Vietnam as well as building connections between Vietnam and the global entrepreneur ecosystem.
 
 ## Key tech-blogger
 
 ### [Anh-Minh Do – Blogger of TechInAsia](http://www.techinasia.com/author/anh-minh-do/)
 
-Minh juggles keeping his pulse on Vietnam’s start-up, social media and
-technology scenes while keeping his eye on the budding Southeast Asian
-web-influenced cultures. His main areas of research include social
-media, apps, start-up, online marketing, web culture and events. He’s
-currently based in Ho Chi Minh city, Vietnam. He has more than 144 posts
-about Vietnamese start-up market and also doing MC & event organizing
-like Tech Tuesday, Web Wednesday and Barcamp Saigon. He is also an
-active user on Quora and have broad range of knowledge related to Zen,
-Buddhism and Neuroscience.
+Minh juggles keeping his pulse on Vietnam’s start-up, social media and technology scenes while
+keeping his eye on the budding Southeast Asian web-influenced cultures. His main areas of research
+include social media, apps, start-up, online marketing, web culture and events. He’s currently
+based in Ho Chi Minh city, Vietnam. He has more than 144 posts about Vietnamese start-up market and
+also doing MC & event organizing like Tech Tuesday, Web Wednesday and Barcamp Saigon. He is also an
+active user on Quora and have broad range of knowledge related to Zen, Buddhism and Neuroscience.
 
 ### [Ngân Sâu – Founder of Action.vn](http://www.action.vn)
 
-[Action.vn](http://www.action.vn/ "Action.vn") acts like a liaison
-between startup company and key events. If you want to know most updated
-tech event in SaiGon, [Action.vn](http://www.action.vn/ "Action.vn") is
-definitely a place you should go.
+[Action.vn](http://www.action.vn/ "Action.vn") acts like a liaison between startup company and key
+events. If you want to know most updated tech event in SaiGon, [Action.vn](http://www.action.vn/
+"Action.vn") is definitely a place you should go.
 
 ## Key event
 
 ### [Startup Vietnam Conference](http://startup.vn/startup/index.php)
 
-The Startup Vietnam Conference (SVC) is an annual event that helps to
-inspire action within the Vietnam Startup Community. Last year, their
-featured speakers are from all over the world such as Chuck Eesley –
-Professor of Entrepreneurship from Stanford, Ray Wu- ambassador of JFDI
-Singapore, Rodrigo Martinez-serial entrepreneurs.
+The Startup Vietnam Conference (SVC) is an annual event that helps to inspire action within the
+Vietnam Startup Community. Last year, their featured speakers are from all over the world such as
+Chuck Eesley – Professor of Entrepreneurship from Stanford, Ray Wu- ambassador of JFDI Singapore,
+Rodrigo Martinez-serial entrepreneurs.
 
 ### [Tech Tuesday & Web Wednesday](https://www.facebook.com/WebWednesdayVietnam/info)
 
-Web Wednesday is a regular networking event for anyone who works within
-or is interested to learn about Digital media and Internet industry in
-Vietnam. They are trying to organize preferably at the last Wednesday of
-every month with a variety of topics and guest speakers. Their recent
-topics are: Big Data, Gamification & Leadership for Startup
+Web Wednesday is a regular networking event for anyone who works within or is interested to learn
+about Digital media and Internet industry in Vietnam. They are trying to organize preferably at the
+last Wednesday of every month with a variety of topics and guest speakers. Their recent topics are:
+Big Data, Gamification & Leadership for Startup
 
 ### [Start Me Up](https://www.facebook.com/startmeup.vn)
 
-Start Me Up is the monthly startup event in Sai Gon featuring founders,
-venture capitalists, investors, representative from big companies around
-South East Asia and Silicon Valley. The do fireside chat, panel
-discussion, startup seminar, movie screening with prestigious speakers
-from Golden Gates Ventures, TechInAsia, JFDI Singapore, SoftLayer,
-VietnamWorks, etc.
+Start Me Up is the monthly startup event in Sai Gon featuring founders, venture capitalists,
+investors, representative from big companies around South East Asia and Silicon Valley. The do
+fireside chat, panel discussion, startup seminar, movie screening with prestigious speakers from
+Golden Gates Ventures, TechInAsia, JFDI Singapore, SoftLayer, VietnamWorks, etc.
 
 ## Next topic: Online resources on entrepreneurship and business skills
 
