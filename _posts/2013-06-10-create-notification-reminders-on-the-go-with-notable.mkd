@@ -1,16 +1,14 @@
---- layout: post title: 'Android app: Create notification reminders on
-the go with Notable' categories: - IT Insight Series - Other - Tutorial
-tags: - Android - fun - insight status: publish type: post published:
-true meta: \_edit\_last: '24' seo-title: '' seo-description: ''
-seo-keywords: '' layout-type: '0' sidebar-type: Global Sidebar
-title-show: '1' title-content: '' slide-type: '0' layer-slide-id: '0'
-rev-slide-id: '0' video-type: '0' video-content: '' audio-type: '0'
-audio-content: '' show-related-post: '0' show-related-post-number: '3'
-\_wpas\_done\_all: '1' \_wpas\_mess: 'Android application: Create
-notification reminders on the go with Notable' \_thumbnail\_id: '1505'
---- [caption id="" align="alignright"
-width="167"][![](https://lh4.ggpht.com/BdxsbyDqlMrzS5WTlm8gRfhwaVxo61EITjlrbV_m-NsM6dL7qgwavmAdSBUDuynhwQ "toodleTasks PE by Prodisoft")](https://play.google.com/store/apps/details?id=ch.prodisoft.toodletasks&feature=also_installed#?t=W251bGwsMSwxLDEwNCwiY2gucHJvZGlzb2Z0LnRvb2RsZXRhc2tzIl0.)
-Dafuq is this ?[/caption]
+---
+layout: post
+title: 'Android app: Create notification reminders on
+the go with Notable'
+author: hadobac
+categories: [tutorials]
+---
+
+[![](https://lh4.ggpht.com/BdxsbyDqlMrzS5WTlm8gRfhwaVxo61EITjlrbV_m-NsM6dL7qgwavmAdSBUDuynhwQ "toodleTasks PE by Prodisoft")](https://play.google.com/store/apps/details?id=ch.prodisoft.toodletasks&feature=also_installed#?t=W251bGwsMSwxLDEwNCwiY2gucHJvZGlzb2Z0LnRvb2RsZXRhc2tzIl0.)
+
+Dafuq is this?
 
 It’s been said that there are two types of people: those who manage time
 effectively, and those absent-minded letting the grass grow under their
@@ -33,9 +31,14 @@ Indeed, the defining slide-down notification area is the most useful
 feature of Android. Unlike other to-do apps requires users to activate
 the apps to see the currents to-do list, Notable takes advantage of the
 notification area, allows reminders to be accessed and modified
-ubiquiously. [caption id="" align="alignright"
-width="247"][![](http://img40.imageshack.us/img40/9009/screenshot2013061017011.png)](https://play.google.com/store/apps/details?id=com.icechen1.notable)
-Notable: Enter the reminder[/caption] Notable usability is exceptionally
+ubiquiously.
+
+Notable: Enter the reminder:
+
+[![](http://img40.imageshack.us/img40/9009/screenshot2013061017011.png)](https://play.google.com/store/apps/details?id=com.icechen1.notable)
+
+
+Notable usability is exceptionally
 explicit and straightforward. It does not provide fancy functions
 offered by Remember the Milk, or Evernote: those pretty dialogs,
 colourful widgets, or location integration via Google Map. Heck, it does

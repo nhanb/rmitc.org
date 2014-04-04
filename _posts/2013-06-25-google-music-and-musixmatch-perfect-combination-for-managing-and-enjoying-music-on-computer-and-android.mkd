@@ -1,17 +1,13 @@
---- layout: post title: Google Music and musiXmatch - Perfect
-combination for Managing and Enjoying music on Computer and Android
-categories: - IT Insight Series - Tutorial tags: [] status: publish
-type: post published: true meta: \_edit\_last: '17' seo-title: ''
-seo-description: '' seo-keywords: '' layout-type: '0' sidebar-type:
-Global Sidebar title-show: '0' title-content: '' slide-type: '0'
-layer-slide-id: '0' rev-slide-id: '0' video-type: '0' video-content: ''
-audio-type: '0' audio-content: '' show-related-post: '0'
-show-related-post-number: '3' \_wpas\_done\_all: '1' \_thumbnail\_id:
-'1447' \_wpas\_skip\_3380076: '1' ---
+---
+layout: post
+title: Google Music and musiXmatch - Perfect combination for Managing and Enjoying music on Computer and Android
+author: truongtx
+categories: [tutorials]
+---
 
-# Introduction
+## Introduction
 
-Nowaday, with the development of technology, you probably own more then
+Nowadays, with the development of technology, you probably own more then
 one technological devices. You can have a Windows PC for playing games
 at home, a MacOS computer for working purpose and a Windows Phone one
 for on-the-go entertainment. One popular problem for people who have
@@ -25,14 +21,14 @@ You can then listen to your collection online from any computer with an
 Internet connection and ofline on Android with the help of Google Play
 Music app.
 
-# Requirements
+## Requirements
 
 -   At least one computer (Windows, MacOS, Linux) for uploading music
 -   An Android device (for on-the-go music)
 -   A Google account
 -   Google Music Play app musiXmatch (if you use Android)
 
-# Google Music
+## Google Music
 
 Google Music is now available inside America only. In order to use it,
 you have to either fake your IP to a US one (using Tor for example) or
@@ -43,7 +39,7 @@ friend, simply access [http://music.google.com](http://music.google.com)
 and login with your Google account, follow the instruction and activate
 it for free.
 
-# Uploading and Managing Music Library
+## Uploading and Managing Music Library
 
 Uploading music with Google Music is really simple. You don't have to
 choose each file one by one. Instead, Google offers a desktop app called
@@ -54,12 +50,14 @@ then install it into your computer. It has the option to monitor your
 music folder and auto upload everytime you add new music files into that
 folder so you don't have to worry whether this file has been uploaded
 yet. Everything is automated.
+
 [![musicmanager](http://rmitc.org/wp-content/uploads/2013/06/musicmanager.png)](http://rmitc.org/wp-content/uploads/2013/06/musicmanager.png)
+
 After finish uploading music, you can open Google Music in your web
 browser and edit song info as well as create playlist for online
 listening.
 
-# Enjoying Music
+## Enjoying Music
 
 Now you have finished uploaded your library, it's time to enjoy your
 music. Everything you need is a computer with internet connection
@@ -73,6 +71,7 @@ music online and even selecting with songs/album/playlist to keep on the
 phone for offline playback.
 
 [![playmusic](http://rmitc.org/wp-content/uploads/2013/06/playmusic.png)](http://rmitc.org/wp-content/uploads/2013/06/playmusic.png)
+
 Google Play Music app on my Samsung Galaxy Note 1
 
 Now let take your music experiment with Android to a higher level with
@@ -83,12 +82,15 @@ do anything, just play the song and select the lyric on the notification
 bar and you're done. I have tried and receive about 95% correct results.
 It's really accurate and support many different languages, even
 Vietnamese, which I didn't think that it can search.
+
 [![aiduaemve](http://rmitc.org/wp-content/uploads/2013/06/aiduaemve.png)](http://rmitc.org/wp-content/uploads/2013/06/aiduaemve.png)
 
 [![bsb](http://rmitc.org/wp-content/uploads/2013/06/bsb.png)](http://rmitc.org/wp-content/uploads/2013/06/bsb.png)
+
 musiXmatch on Notification bar
 
 [![bsb2](http://rmitc.org/wp-content/uploads/2013/06/bsb2.png)](http://rmitc.org/wp-content/uploads/2013/06/bsb2.png)
+
 Display lyric with musiXmatch
 
 Have fun with your music and waiting for the next posts about
