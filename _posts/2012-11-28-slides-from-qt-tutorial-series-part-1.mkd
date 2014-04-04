@@ -1,11 +1,9 @@
---- layout: post title: Slides from Qt Tutorial Series - Part 1
-categories: - Activities - IT Insight Series - News - Tutorial tags: -
-qt - tutorial status: publish type: post published: true meta:
-\_edit\_last: '12' bfa\_virtual\_template: hierarchy \_thumbnail\_id:
-'667' seo-title: '' seo-description: '' seo-keywords: '' layout-type:
-'0' sidebar-type: Global Sidebar title-show: '0' title-content: ''
-slide-type: '0' layer-slide-id: '0' rev-slide-id: '0' video-type: '0'
-video-content: '' audio-type: '0' audio-content: '' show-related-post:
-'0' show-related-post-number: '3' \_wpas\_skip\_3380076: '1'
-\_wpas\_skip\_3380081: '1' --- Here is the slides for today Qt Tutorial
-Series - Part 1
+---
+layout: post
+title: Slides from Qt Tutorial Series - Part 1
+categories: [tutorials, activities]
+---
+
+Here are the slides for today's Qt Tutorial Series - Part 1
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/15386154" height="400" width="476" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
