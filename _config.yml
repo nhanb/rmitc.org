@@ -15,7 +15,13 @@ authors:
 
   truongtx:
     name: Trần Xuân Trường
-    display_name: Trần Xuân Trường
+    display_name: TruongTx
+    gravatar: 0392d0b2bfc76ef5f7e26f637f7501bc
+    email: me@truongtx.me
+    web: http://truongtx.me
+    twitter: mr_truong_tx
+    github: tmtxt
+    facebook: mr.truong.tx
 
   hadobac:
     name: Đỗ Bắc Hà
@@ -29,8 +35,12 @@ authors:
 
   tklarryonline:
     name: Nguyễn Thanh Luân
-    display_name: Nguyễn Thanh Luân
+    display_name: TKLarry
+    gravatar: 49b0f1c76ab8838c3314a06bebf05f2f
+    email: luan@tklarryonline.me
+    web: http://tklarryonline.me
     github: tklarryonline
+    twitter: tklarryonline
 
   phunehehe:
     name: Hoàng Xuân Phú

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: As a core, what should you do, basically?
+author: tklarryonline
 categories: [announcements]
 ---
 

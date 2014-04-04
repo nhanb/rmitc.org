@@ -1,14 +1,10 @@
---- layout: post title: Vote for IT Club Mascot Design categories: -
-Activities - Hacking - Hippie & Fun Stuff - News tags: [] status:
-publish type: post published: true meta: \_edit\_last: '12' seo-title:
-'' seo-description: '' seo-keywords: '' layout-type: '0' sidebar-type:
-Global Sidebar title-show: '0' title-content: '' slide-type: '2'
-layer-slide-id: '0' rev-slide-id: '1' video-type: '0' video-content: ''
-audio-type: '0' audio-content: '' show-related-post: '0'
-show-related-post-number: '3' \_wpas\_done\_all: '1'
-\_wpas\_skip\_3442097: '1' \_wpas\_skip\_3380081: '1' \_thumbnail\_id:
-'1179' --- They are our new mascots. One of them will be official, other
+---
+layout: post
+title: Vote for IT Club Mascot Design
+categories: [announcements]
+---
+
+They are our new mascots. One of them will be official, other
 two will be forgotten! Let's vote! You can also suggest a new name for
 them! Please cast your vote here:
 [https://www.facebook.com/questions/446431768771357/](https://www.facebook.com/questions/446431768771357/ "https://www.facebook.com/questions/446431768771357/")
-[gallery ids="1175,1179,1180"]
