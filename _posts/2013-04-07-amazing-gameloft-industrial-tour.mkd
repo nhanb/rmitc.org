@@ -1,49 +1,36 @@
---- layout: post title: Amazing Gameloft Industrial Tour! categories: -
-Activities - Gallery - Industrial Tours - Partnership tags: - gameloft
-status: publish type: post published: true meta: \_edit\_last: '12'
-bfa\_virtual\_template: hierarchy seo-title: '' seo-description: ''
-seo-keywords: '' layout-type: '0' sidebar-type: Global Sidebar
-title-show: '0' title-content: '' slide-type: '0' layer-slide-id: '0'
-rev-slide-id: '0' video-type: '0' video-content: '' audio-type: '0'
-audio-content: '' show-related-post: '0' show-related-post-number: '3'
-\_wpas\_skip\_3380076: '1' \_wpas\_skip\_3380081: '1' \_thumbnail\_id:
-'798' ---
+---
+layout: post
+title: Amazing Gameloft Industrial Tour!
+author: huanle
+categories: [activities]
+---
 
 [![Gameloft Industrial
 Tour](http://rmitc.org/wp-content/uploads/2013/04/dfasdf-300x76.jpg)](http://rmitc.org/wp-content/uploads/2013/04/dfasdf.jpg)
 
-Did you enjoy the Gameloft Industrial tour??? The tour was interesting,
-wasn't it? If you have already had your own plan to work in the game
-industry, Gameloft may be one of the great choices for you. After taking
-the tour around Gameloft, watching how its employees worked, talking
-directly to many people there and listening to them sharing their
-experience, we, the RMIT ITers, have collected many useful information
-in preparation for our future job. Moreover, the friendly employees
-there also helped us know about the important role of programmers (our
-job) in developing mobile games, especially the smartphone ones. The
-first thing we explored at Gameloft was the professional working
-environment of a big company. English is the main language and the only
-language allowed in working time. It's used for communicating between
-Vietnamese as well as foreign people. We as the RMIT students found it
-very suitable for us because we have already studied in an English
-environment. Next, there was nobody who worked alone at Gameloft.
-Everyone has to work in team. This improves their soft skill and prevent
-the employee to be isolated from the company community. Lastly, what we
-feel the most impressive is that Gameloft's employees also have their
-own relax area, where they can play video games or take a rest and
-continue working efficiently. Surprisingly, Gameloft Vietnam is the
-largest studio of Gameloft all over the world. It takes the
-responsibility in almost every phase in developing a game including
-designing, coding and testing. The process is flexibly managed by
-the project leader and allocated to suitable team member. After
-finishing development, the game is sent to Gameloft's headquarter and
-distributed to users. In the tour, we also had the change to play and
-investigate some of the games from Gameloft Vietnam. These games include
-Asphalt 6, Block Breaker and Shark Dash. We were also given many devices
-to test those games, from the very low end feature phones to those
-newest high end devices like iPhone, iPad or the new Nokia Lumia one.
-Before we left, we had taken many photos with Gameloft employees and
-receive some memorable gift from them. [gallery
-ids="774,775,776,777,778,779,780,781,782,783,784,788,785,786,787,789,790,791,792,793,794,795,796,797,799,798"]
+Did you enjoy the Gameloft Industrial tour??? The tour was interesting, wasn't it? If you have
+already had your own plan to work in the game industry, Gameloft may be one of the great choices
+for you. After taking the tour around Gameloft, watching how its employees worked, talking directly
+to many people there and listening to them sharing their experience, we, the RMIT ITers, have
+collected many useful information in preparation for our future job.
 
-*(Huan Le)*
+Moreover, the friendly employees there also helped us know about the important role of programmers
+(our job) in developing mobile games, especially the smartphone ones. The first thing we explored
+at Gameloft was the professional working environment of a big company. English is the main language
+and the only language allowed in working time. It's used for communicating between Vietnamese as
+well as foreign people. We as the RMIT students found it very suitable for us because we have
+already studied in an English environment. Next, there was nobody who worked alone at Gameloft.
+Everyone has to work in team. This improves their soft skill and prevent the employee to be
+isolated from the company community. Lastly, what we feel the most impressive is that Gameloft's
+employees also have their own relax area, where they can play video games or take a rest and
+continue working efficiently.
+
+Surprisingly, Gameloft Vietnam is the largest studio of Gameloft all over the world. It takes the
+responsibility in almost every phase in developing a game including designing, coding and testing.
+The process is flexibly managed by the project leader and allocated to suitable team member. After
+finishing development, the game is sent to Gameloft's headquarter and distributed to users. In the
+tour, we also had the change to play and investigate some of the games from Gameloft Vietnam. These
+games include Asphalt 6, Block Breaker and Shark Dash. We were also given many devices to test
+those games, from the very low end feature phones to those newest high end devices like iPhone,
+iPad or the new Nokia Lumia one.  Before we left, we had taken many photos with Gameloft employees
+and receive some memorable gift from them.

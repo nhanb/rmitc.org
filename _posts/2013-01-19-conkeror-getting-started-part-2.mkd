@@ -1,4 +1,8 @@
---- layout: post title: Conkeror - Getting Started - Part 2 categories:
+---
+layout: post
+title: Conkeror - Getting Started - Part 2
+categories: [tutorials]
+
 - Activities - IT Insight Series - Tutorial tags: - conkeror - tutorial
 - web browser status: publish type: post published: true meta:
 \_edit\_last: '12' bfa\_virtual\_template: hierarchy --- The first time
