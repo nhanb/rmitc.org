@@ -1,15 +1,12 @@
---- layout: post title: We are proud of RMIT Basketball Team categories:
-- News - RMIT Spirit! tags: - sport status: publish type: post
-published: true meta: \_edit\_last: '12' seo-title: '' seo-description:
-'' seo-keywords: '' layout-type: '0' sidebar-type: Global Sidebar
-title-show: '0' title-content: '' slide-type: '0' layer-slide-id: '0'
-rev-slide-id: '0' video-type: '0' video-content: '' audio-type: '0'
-audio-content: '' show-related-post: '0' show-related-post-number: '3'
-\_thumbnail\_id: '989' \_wpas\_done\_all: '1' \_wpas\_skip\_3380076: '1'
-\_wpas\_skip\_3380081: '1' --- [caption id="attachment\_989"
-align="aligncenter" width="768"][![Basketball team won
+---
+layout: post
+title: We are proud of RMIT Basketball Team
+categories: [news]
+---
+
+[![Basketball team won
 championship](http://rmitc.org/wp-content/uploads/2013/04/bb.jpg)](http://rmitc.org/wp-content/uploads/2013/04/bb.jpg)
-Basketball team won championship[/caption]
+Basketball team won championship
 
 > My heart skipped a beat as the match went to its last 2 seconds.
 
@@ -19,10 +16,12 @@ Binh Stadium in HCM city on 14 April for the championship of Ho Chi Minh
 local area of Vietnam University Game 2013. That was the second time the
 team competed against University of Technology. The first match was in
 qualifying round and now here we were: Meeting again in the final match!
-[caption id="attachment\_927" align="aligncenter" width="300"][![Let's
+
+[![Let's
 RED them
 all](http://rmitc.org/wp-content/uploads/2013/04/Lets-RED-them-all-300x300.jpg "RMIT-ers slogan!")](http://rmitc.org/wp-content/uploads/2013/04/Lets-RED-them-all.jpg)
-RMIT-ers slogan![/caption] On RMIT-ers’ Facebook pages the day before
+
+On RMIT-ers’ Facebook pages the day before
 the final match, the iconic “**Let’s RED them all**” avatar was spotted
 everywhere. This act proved the fact that we are united as one and no
 one can defeat us. Just those simple four words on that plain red
@@ -37,7 +36,7 @@ lead. The gap between two teams’ scores was not significant, fluctuating
 between 3 and 5. At half time, RMIT team got higher score than
 Technology University team. In the second half, Technology University
 basketball players’ spirit got high thanks to the win of their dance
-team in the Freestyle Dancing competition. They played better and
+team in the Freestyle Dancing competition. They played better and
 faster. The gap between two scores was closer. For the last few minutes
 of the match, the stadium's atmosphere seemed to be the most dramatic
 because of the score chasing between two teams. Emotions ran high in the
@@ -49,5 +48,5 @@ championship of the local area of Vietnam University Game to RMIT
 basketball team. Mere words just can't describe the happiness of RMIT
 fans at that time. The stadium was filled with the joyous shouts of RMIT
 fans. RMIT basketball team has written their name in history of Vietnam
-University Game and they've proved to other basketball teams coming from
+University Game and they've proved to other basketball teams coming from
 different universities in HCM city that “**RMIT has REDded you all**”.
