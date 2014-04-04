@@ -1,14 +1,11 @@
---- layout: post title: A solution to connect to the Internet in RMIT
-campus using Linux categories: - Tutorial tags: [] status: publish type:
-post published: true meta: \_edit\_last: '13' seo-title: ''
-seo-description: '' seo-keywords: Internet, RMIT, Fedora, Firefox,
-Google Chrome, layout-type: '0' sidebar-type: Global Sidebar title-show:
-'0' title-content: '' slide-type: '0' layer-slide-id: '0' rev-slide-id:
-'0' video-type: '0' video-content: '' audio-type: '0' audio-content: ''
-show-related-post: '0' show-related-post-number: '3' \_wpas\_mess: A
-solution to connect to the Internet in RMIT campus \_wpas\_done\_all:
-'1' \_thumbnail\_id: '1263' \_wpas\_skip\_3442097: '1'
-\_wpas\_skip\_3380081: '1' \_wpas\_skip\_3380076: '1' --- There are many
+---
+layout: post
+title: A solution to connect to the Internet in RMIT campus using Linux
+author: linh
+categories: [tutorials]
+---
+
+There are many
 students who are now very excited in taking part in Fedora and other
 Linux Operating Systems (or only me in this campus). So in order to help
 you guys connect to the Internet on campus, I am very happy to give you
@@ -19,52 +16,74 @@ connect to the Internet in RMIT campus, which can be seen as an
 advantage for linux users. For this particular example, I used Firefox
 and Chrome on Fedora
 
-# I. Connect to the Internet with Firefox.
+## I. Connect to the Internet with Firefox.
 
-## Requirement
+### Requirement
 
 Make sure that you turn on wifi and YOUR computer can RECOGNIZE
 “RMIT-WPA” or “rmitvnnet”, which are two official wireless spots of RMIT
 campus in RMIT Hanoi and Saigon.
 
-## Steps
+### Steps
 
-\#1: Try to connect to RMIT-WPA (of course, it will not be successful,
-but you can make sure that your system CAN connect to the Internet). \#2
-Look at top-right bar, there is a dual-connected computers symbol.
-Right-click on that symbol and choose **“Edit connections...”**. \#3:
-Now there is a table which has many tabs. Your task is choosing Wireless
-tab. [![Network
-connections](http://farm8.staticflickr.com/7281/8718640575_a656df1d74.jpg)](http://www.flickr.com/photos/89174690@N07/8718640575/ "Network connections by LinkBall2012, on Flickr")
-As you can see, the internet spot named RMIT-WPA appeared. \#4 Single
-click on RMIT-WPA, and then choose “Edit”
-[![Edit](http://farm8.staticflickr.com/7326/8719760228_c3c2177b01.jpg)](http://www.flickr.com/photos/89174690@N07/8719760228/ "Edit by LinkBall2012, on Flickr")
-\#5 Now a new window appears and there are four tabs “Wireless”, “IPv4
-setting”, “IPv6 setting”, and “Wireless security”. Please choose
-“Wireless Security” \#6 Your task is changing all information like in
-the image below. **Security:** WPA&WPA2 Enterprise **Authentication:**
-Tunneled TSL **Anonymous Identity:** blank space **CA certificate:** set
-(NONE) **Inner authentication:** FAP (Oops, I mean PAP) **User name:**
-s1234567@rmit.edu.vn (Please remember to add @rmit.edu.vn) **Password:**
-your password which you are using to login Blackboard. In this step, I
-have encountered one problem with Ubuntu, I was the one who setup
-internet connection in one computer. When I USE MY account, that
-computer connected to the Internet successfully. However, it connects to
-the internet using its owner's account, it did not work at all. This
-problem is very weird and I don’t know if it happened on Fedora. In my
-case, I did not see any obstacle on connecting to the Internet with
-Fedora, but you guy if you have this problem, please see IT service for
-checking account's details. [![change Wireless
-security](http://farm8.staticflickr.com/7391/8718641027_b08a5e3e88.jpg)](http://www.flickr.com/photos/89174690@N07/8718641027/ "change Wireless security by LinkBall2012, on Flickr")
-\#7 You might think that is all, but in fact it is not. Now open your
-Firefox, look at top bar, then click on “Preference”. Now Clicking on
-“Advanced” and follow steps in image below. [![Edit
-Firefox](http://farm8.staticflickr.com/7425/8718640637_c836227927.jpg)](http://www.flickr.com/photos/89174690@N07/8718640637/ "Edit Firefox by LinkBall2012, on Flickr")
-\#8 There is no more steps, enjoy yourself
+1. Try to connect to RMIT-WPA (of course, it will not be successful,
+but you can make sure that your system CAN connect to the Internet).
 
-# II. Connect to the Internet with Google Chrome.
+2. Look at top-right bar, there is a dual-connected computers symbol.
+Right-click on that symbol and choose **“Edit connections...”**.
 
-## Requirement
+3. Now there is a table which has many tabs. Your task is choosing Wireless
+tab.
+
+  [![Network
+  connections](http://farm8.staticflickr.com/7281/8718640575_a656df1d74.jpg)](http://www.flickr.com/photos/89174690@N07/8718640575/ "Network connections by LinkBall2012, on Flickr")
+
+  As you can see, the internet spot named RMIT-WPA appeared.
+
+4. Single click on RMIT-WPA, and then choose "Edit"
+
+  [![Edit](http://farm8.staticflickr.com/7326/8719760228_c3c2177b01.jpg)](http://www.flickr.com/photos/89174690@N07/8719760228/ "Edit by LinkBall2012, on Flickr")
+
+5. Now a new window appears and there are four tabs “Wireless”, “IPv4
+  setting”, “IPv6 setting”, and “Wireless security”. Please choose
+  “Wireless Security”
+
+6. Your task is changing all information like in
+the image below.
+
+  - **Security:** WPA&WPA2 Enterprise
+  - **Authentication:** Tunneled TSL
+  - **Anonymous Identity:** blank space
+  - **CA certificate:** set (NONE)
+  - **Inner authentication:** FAP (Oops, I mean PAP)
+  - **User name:** s1234567@rmit.edu.vn (Please remember to add @rmit.edu.vn)
+  - **Password:** your password which you are using to login Blackboard.
+
+  In this step, I
+  have encountered one problem with Ubuntu, I was the one who setup
+  internet connection in one computer. When I USE MY account, that
+  computer connected to the Internet successfully. However, it connects to
+  the internet using its owner's account, it did not work at all. This
+  problem is very weird and I don’t know if it happened on Fedora. In my
+  case, I did not see any obstacle on connecting to the Internet with
+  Fedora, but you guy if you have this problem, please see IT service for
+  checking account's details.
+
+  [![change Wireless
+  security](http://farm8.staticflickr.com/7391/8718641027_b08a5e3e88.jpg)](http://www.flickr.com/photos/89174690@N07/8718641027/ "change Wireless security by LinkBall2012, on Flickr")
+
+7. You might think that is all, but in fact it is not. Now open your
+  Firefox, look at top bar, then click on “Preference”. Now Clicking on
+  “Advanced” and follow steps in image below.
+
+  [![Edit
+  Firefox](http://farm8.staticflickr.com/7425/8718640637_c836227927.jpg)](http://www.flickr.com/photos/89174690@N07/8718640637/ "Edit Firefox by LinkBall2012, on Flickr")
+
+8. There is no more steps, enjoy yourself
+
+## II. Connect to the Internet with Google Chrome.
+
+### Requirement
 
 In order to connect to the Internet in RMIT campus, you have to make
 sure that you DID successfully from step 1 to step 6 in Firefox's part.
@@ -72,11 +91,15 @@ In addition, unlike Firefox, Google chrome using system setting to setup
 its internet seting; hence You have to modify internet system setting to
 connect to the Internet.
 
-## Steps
+### Steps
 
-\#1 Going to “Application” ----- “System tools” ------- “System setting”
-and choose network [![choose
-network](http://farm8.staticflickr.com/7295/8718640811_74495c14e5.jpg)](http://www.flickr.com/photos/89174690@N07/8718640811/ "choose network by LinkBall2012, on Flickr")
-\#2 Change the options follow the instructions in an image below and
-FINISH [![change
-proxy](http://farm8.staticflickr.com/7409/8718641131_dd20abeed9.jpg)](http://www.flickr.com/photos/89174690@N07/8718641131/ "change proxy by LinkBall2012, on Flickr")
+1. Going to “Application” ----- “System tools” ------- “System setting”
+  and choose network
+
+  [![choose
+  network](http://farm8.staticflickr.com/7295/8718640811_74495c14e5.jpg)](http://www.flickr.com/photos/89174690@N07/8718640811/ "choose network by LinkBall2012, on Flickr")
+
+2. Change the options follow the instructions in an image below and FINISH
+
+  [![change
+  proxy](http://farm8.staticflickr.com/7409/8718641131_dd20abeed9.jpg)](http://www.flickr.com/photos/89174690@N07/8718641131/ "change proxy by LinkBall2012, on Flickr")
