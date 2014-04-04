@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Viettel staff uses Ubuntu - Yes, they do !
+author: hadobac
 categories: [news]
 ---
 
