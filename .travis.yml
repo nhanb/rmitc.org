@@ -3,7 +3,7 @@ rvm:
   - '2.1'
 install: gem install jekyll
 script: jekyll build
-after_success: ./deploy.sh
+after_success: if [ "$TRAVIS_BRANCH" == "master" ]; then ./deploy.sh; fi
 env:
   global:
     secure: q09FH4SFzXL9diP+xVcYimtIxIS4RR+AdX2PJI2IfbwhRg7FwtI20Zoklxsfij8DuJwyO2JkG1z4ibNfSeLFq2zbR+gareX31hRKMt/0SKfwUSwQMtANy+Y/DXJyhcVXMF7tfDNRq3+6vE9LrrT2BBQC6y1n8gBZ2geMf58+mcY=
