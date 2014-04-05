@@ -1,43 +1,71 @@
---- layout: post title: Robocode is back this semester 2012C!!!
-(Updated) categories: - Activities - Competitions - News - Robocode
-tags: [] status: publish type: post published: true meta: \_edit\_last:
-'12' ---
+---
+layout: post
+title: Robocode is back this semester 2012C!!! (Updated)
+categories: [Activity, Competition, News, Robocode]
+tags: []
+status: publish
+type: post
+published: true
+author: minhdao
+---
 
-[![](http://rmitc.org/wp-content/uploads/2012/10/finalRobocode-poster-web-compatible.jpg "[final]Robocode poster (web compatible)")](http://rmitc.org/wp-content/uploads/2012/10/finalRobocode-poster-web-compatible.jpg)
+![](http://rmitc.org/wp-content/uploads/2012/10/finalRobocode-poster-web-compatible.jpg)
 
-You have heard about the rumors. Yes, Robocode is back this semester! We
+You have heard about the rumors. Yes, Robocode is back this semester!
+
+We
 would like to invite all **B. IT lecturers, students and even alumni**
 to join Robocode Tournament this semester 2012C. Sign up now and get
 your robot ready by October 29nd, 2012 to join the fights. This would be
 a great opportunity to have your hands on artificial intelligence,
 practice some programming and, most important of all, to **HAVE FUN AND
-MAKE NEW FRIENDS** at the beginning of this semester. If you are asking
+MAKE NEW FRIENDS** at the beginning of this semester.
+
+If you are asking
 yourself “*What the heck is Robocode?*”, please keep calm and go on
-until the end of this post. Everything will be fine! **What are the
-Prizes?** We offer prizes to the best *three robots* in the tournament.
+until the end of this post. Everything will be fine!
+
+## What are the Prizes?
+
+We offer prizes to the best *three robots* in the tournament.
 
 -   *First prize*: 6 months of VIP subscription to
     [Viettorent.vn](http://viettorrent.vn/ "Viettorrent.vn")
 -   *Second prize*: 3 months of VIP subscription
-    to [Viettorent.vn](http://viettorrent.vn/ "Viettorrent.vn")
+    to [Viettorent.vn](http://viettorrent.vn/ "Viettorrent.vn")
 -   *Third prize*: 1 months of VIP subscription
-    to [Viettorent.vn](http://viettorrent.vn/ "Viettorrent.vn")
+    to [Viettorent.vn](http://viettorrent.vn/ "Viettorrent.vn")
 
-Beside the above prizes, did I mention that **our lectures are also in
-this tournament**? This is a great chance for you to “beat up” your
-lecturers. Show them what you’re made of! *Can you resist such prizes?*
-**How to Sign Up?** Now that you are interested, or at least because of
+Beside the above prizes, did I mention that
+**our lectures are also in this tournament**? This is a great chance for you to
+“beat up” your
+lecturers. Show them what you’re made of!
+
+*Can you resist such prizes?*
+
+## How to Sign Up?
+
+Now that you are interested, or at least because of
 the prizes. Signing up for this tournament is super simple. Please
-follow this [Google
-Form](https://docs.google.com/spreadsheet/viewform?formkey=dFlzWDlCTzZEVVJEZU5Kb0RWTzV3Qnc6MQ "Google Form") and
-fill in any necessary information. The deadline for signing up is
+follow this
+[Google Form](https://docs.google.com/spreadsheet/viewform?formkey=dFlzWDlCTzZEVVJEZU5Kb0RWTzV3Qnc6MQ)
+and
+fill in any necessary information.
+
+The deadline for signing up is
 **12:59pm - Wednesday, October 24th 2012**. Remember, that is the
 deadline for signing up only. You can submit your robot any time by 4
-hours before match time. (see below) **** **How about the Rules?** Just
+hours before match time. (see below)
+
+## How about the Rules?
+
+Just
 like any other competitions, there are some rules that you have to
 follow to ensure the fairness of the tournament and to make our lives,
 the organizers, a bit easier. Don’t worry though, the rules are very
-simple!******** *1. Procedure:*
+simple!
+
+*1. Procedure:*
 
 **a**. You must sign up before the deadline
 
@@ -55,53 +83,70 @@ your own algorithm for your robot.
 remember to give reference to the code that you use (reference can be
 just as simple as a URL link to where to get the code).
 
-**c.** It is NOT COOL to use other people’s work without acknowledging
+**c.** It is NOT COOL to use other people’s work without acknowledging
 them and we consider this as CHEATING. Cheaters will be immediately
 kicked out of the tournament.
 
-**d.** You must include a readme.txt file when submitting your robot to
+**d.** You must include a readme.txt file when submitting your robot to
 give reference if you use someone’s code in your robot. Feel free to add
 in any other information that you think necessary.
 
 *3. Match:*
 
-**a.** There will be 2 match days:
+**a.** There will be 2 match days:
 
 -   Friendly Match Day: Oct 29th, 2012 (Just friendly matches to see how
     your robot performs, NO SCORE given on demo matches).
 -   Final Death-Match Day: Nov 3rd, 2012 (This is the real deal. Give
     them your best shot and become the champ).
 
-**b.** 1 VS 1 Battle.****
+**b.** 1 VS 1 Battle.
 
-**c.** 1000 x 1000 Battlefield.
+**c.** 1000 x 1000 Battlefield.
 
-**d.** Crashed robots will be disqualified.
+**d.** Crashed robots will be disqualified.
 
-**e.** Game speed will be set at 30 (default speed). If a match exceeds
+**e.** Game speed will be set at 30 (default speed). If a match exceeds
 1.5 minutes, have to speed up (won’t affect the final results at all).
 
-**f.** Robocode will automatically determine the winner at the end of
+**f.** Robocode will automatically determine the winner at the end of
 each match (If you’re interested to see how Robocode scores your robot,
-click[ here](http://robowiki.net/wiki/Robocode/Scoring)).
+click [here](http://robowiki.net/wiki/Robocode/Scoring)).
 
-**g.** All disputes are resolved by the judges.
+**g.** All disputes are resolved by the judges.
 
-**h.** You will earn 3 points for each win, 1 for each draw, and 0 for
+**h.** You will earn 3 points for each win, 1 for each draw, and 0 for
 each loss.
 
-**j.** The ones with the highest points will get the prizes.
+**j.** The ones with the highest points will get the prizes.
 
-**Get aid:** For more information about robocode,
-click[ here](http://robowiki.net/wiki/Robocode). For tutorial how to use
+## Get aid
+For more information about robocode,
+click [here](http://robowiki.net/wiki/Robocode).  
+For tutorial how to use
 Netbeans to develop your robot,
-click[ here](http://robowiki.net/wiki/Robocode/NetBeans/Configure). For
+click [here](http://robowiki.net/wiki/Robocode/NetBeans/Configure).  
+For
 tutorial how to use Eclipse to develop your robot,
-click[ here](http://robowiki.net/wiki/Robocode/Eclipse/Create_a_Project).
+click [here](http://robowiki.net/wiki/Robocode/Eclipse/Create_a_Project).
+
 If you have any further questions, please do not hesitate to contact us:
-*Organizational Leader*: Name: Nguyen Thanh Luan Email:
-s3312335@rmit.edu.vn Phone: 0909-057-169 *Technical Leader*: Name: Vu
-Xuan Bach Email: s3298809@rmit.edu.vn Phone: 0938-112-451 Now that you
+
+*Organizational Leader*:  
+Name: Nguyen Thanh Luan  
+Email: s3312335@rmit.edu.vn  
+Phone: 0909-057-169
+
+*Technical Leader*:  
+Name: Vu Xuan Bach  
+Email: s3298809@rmit.edu.vn  
+Phone: 0938-112-451
+
+Now that you
 have got everything that you need, build up your robots and we will see
-you in the battles. Good luck and have fun, 2012C RMIT Robocode
-Tournament Organizers “Build the best, destroy the rest !!!”
+you in the battles.
+
+Good luck and have fun,  
+2012C RMIT Robocode Tournament Organizers
+
+“Build the best, destroy the rest !!!”
