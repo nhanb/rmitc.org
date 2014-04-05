@@ -4,6 +4,9 @@
 # Generate site from markdown source
 jekyll build
 
+# Exit with appropriate exit code if jekyll failed
+if [ "$?" != "0" ]; then exit $?; fi
+
 # Only proceed to deployment if this is the master branch
 if [ "$TRAVIS_BRANCH" != "master" ]; then exit 0; fi
 
