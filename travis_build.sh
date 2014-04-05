@@ -11,10 +11,12 @@ jekyll build
 if [ "$TRAVIS_BRANCH" != "master" ]; then exit 0; fi
 
 # Make sure git will let us push
+echo "14"
 git config --global user.email "nhan.buithanh@rmitc.org"
 git config --global user.name "travis"
 
 # Clone existing production repo and change working dir to it
+echo "19"
 git config --global credential.https://github.com.username $GH_TOKEN
 source_path=`pwd`  # store current working dir's path
 production_path=$HOME/production
@@ -22,6 +24,7 @@ production_repo=https://github.com/rmitc/rmitc.github.io.git
 git clone $production_repo $production_path
 cd $production_path
 
+echo "27"
 # Fetch ghp-import script (python FTW!)
 wget https://raw.githubusercontent.com/nhanb/ghp-import/master/ghp-import
 chmod +x ghp-import  # make it executable
@@ -31,4 +34,5 @@ chmod +x ghp-import  # make it executable
 #   -p: push to remote (origin)
 #   -b: specify branch
 #   -m: commit message
+echo "37"
 ./ghp-import -p -n -b master -m "Build #$TRAVIS_BUILD_NUMBER" $source_path/_site
