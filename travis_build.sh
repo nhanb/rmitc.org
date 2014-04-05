@@ -1,9 +1,16 @@
 #!/usr/bin/env bash
-
 # This script is for use in travis-ci only.
-# Puny humans like you have no business here!
 
-# Just kidding! Here's making sure git will let us push
+# Exit script as soon as something fails
+set -e
+
+# Generate site from markdown source
+jekyll build
+
+# Only proceed to deployment if this is the master branch
+if [ "$TRAVIS_BRANCH" != "master" ]; then exit 0; fi
+
+# Make sure git will let us push
 git config --global user.email "nhan.buithanh@rmitc.org"
 git config --global user.name "travis"
 
@@ -16,7 +23,7 @@ git clone $production_repo $production_path
 cd $production_path
 
 # Fetch ghp-import script (python FTW!)
-wget https://raw.githubusercontent.com/davisp/ghp-import/master/ghp-import
+wget https://raw.githubusercontent.com/nhanb/ghp-import/master/ghp-import
 chmod +x ghp-import  # make it executable
 
 # dump generated web files to master branch then push
