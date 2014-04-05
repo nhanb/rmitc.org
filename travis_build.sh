@@ -14,11 +14,20 @@ if [ "$TRAVIS_BRANCH" != master ]; then exit 0; fi
 git config --global user.email "nhan.buithanh@rmitc.org"
 git config --global user.name "travis"
 
-# Clone existing production repo and change working dir to it
 source_path=`pwd`  # store current working dir's path
 production_path=$HOME/production
 production_repo=https://${GH_TOKEN}@github.com/rmitc/rmitc.github.io.git
-git clone $production_repo $production_path
+
+# Attempt to clone existing production repo
+git clone $production_repo $production_path > /dev/null 2>&1
+
+# If git clone failed
+if [ $? != 0 ]; then
+  echo "Cloning production repo failed. Did you even create it?"
+  exit $?
+fi
+
+echo "Production repo successfully cloned. Deploying..."
 cd $production_path
 
 # Fetch ghp-import script (python FTW!)
