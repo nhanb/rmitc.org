@@ -1,6 +1,7 @@
 name: RMIT Vietnam IT Club
 markdown: redcarpet
 pygments: true
+encoding: UTF-8
 
 authors:
 
