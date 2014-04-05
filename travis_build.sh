@@ -30,4 +30,5 @@ chmod +x ghp-import  # make it executable
 #   -p: push to remote (origin)
 #   -b: specify branch
 #   -m: commit message
-./ghp-import -p -n -b master -m "Build #$TRAVIS_BUILD_NUMBER" $source_path/_site
+./ghp-import -p -n -b master -m "Build #$TRAVIS_BUILD_NUMBER"\
+  $source_path/_site > /dev/null 2>&1
