@@ -10,8 +10,11 @@ if [ $? != 0 ]; then exit $?; fi
 # Only proceed to deployment if this is the master branch
 # and not a pull request
 if [ "$TRAVIS_BRANCH" != master ] || [ "$TRAVIS_PULL_REQUEST" != false ]; then
+    echo "Jekyll build finished successfully. Your mom should be proud."
     exit 0
 fi
+
+echo "This is the master branch. Starting deployment..."
 
 # Make sure git will let us push
 git config --global user.email "nhan.buithanh@rmitc.org"
