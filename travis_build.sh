@@ -15,10 +15,9 @@ git config --global user.email "nhan.buithanh@rmitc.org"
 git config --global user.name "travis"
 
 # Clone existing production repo and change working dir to it
-git config --global credential.https://github.com.username $GH_TOKEN
 source_path=`pwd`  # store current working dir's path
 production_path=$HOME/production
-production_repo=https://github.com/rmitc/rmitc.github.io.git
+production_repo=https://${GH_TOKEN}@github.com/rmitc/rmitc.github.io.git
 git clone $production_repo $production_path
 cd $production_path
 
