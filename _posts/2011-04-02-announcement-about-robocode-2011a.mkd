@@ -6,6 +6,7 @@ tags: [2011a, delay, robocode]
 status: publish
 type: post
 published: true
+author: locvu
 ---
 
 **The Robocode Tournament 2011A has been delayed.**
