@@ -1,15 +1,25 @@
---- layout: post title: Announcement about Robocode 2011A categories: -
-Activities - Competitions - Robocode tags: - 2011a - delay - robocode
-status: publish type: post published: true meta: \_edit\_last: '12'
-\_wp\_old\_slug: '' ---
+---
+layout: post
+title: Announcement about Robocode 2011A
+categories: [activity, competition, robocode]
+tags: [2011a, delay, robocode]
+status: publish
+type: post
+published: true
+---
 
-# Announcement about Robocode 2011A
+**The Robocode Tournament 2011A has been delayed.**
 
-**The Robocode Tournament 2011A has been delayed.** Regarding to the
+Regarding to the
 Robocode Tournament 2011A, for a number of unwanted reasons, this
 Tournament cannot be organised this semester and has been delayed until
-next sem (2011B). IT Club gives our truly apology to anyone who spent
+next sem (2011B).
+
+IT Club gives our truly apology to anyone who spent
 their time organising this event and to any player who has been told and
 want to participate in this competition. Hope that could see everybody
-soon next semester :). **---** Please note that semester 2011B starts at
+soon next semester :).
+
+**---**  
+Please note that semester 2011B starts at
 20th, June.
