@@ -1,36 +1,35 @@
---- layout: post title: 2012B executive board finalized categories: -
-News tags: [] status: publish type: post published: true meta:
-\_wp\_old\_slug: '' \_edit\_last: '12' --- The [vote for our next
-executive board
-members](http://rmitc.org/2012b-executive-board-election/)has ended. To
+---
+layout: post
+title: 2012B executive board finalized
+categories: [News]
+tags: []
+status: publish
+type: post
+published: true
+author: nhanb
+---
+
+The vote for our next executive board members has ended. To
 be frank, it wasn't that exciting since there are no newcomers apart
 from Bach. Everything turned out to be a race for vice-president
-position between  him and Nhan. Here is the final result taken from
+position between him and Nhan. Here is the final result taken from
 Google Docs:
-![](http://rmitc.org/wp-content/uploads/2012/08/results.png)
-![](http://rmitc.org/wp-content/uploads/2012/08/votes.png)
 
-* * * * *
+![](http://rmitc.org/wp-content/uploads/2012/08/results.png)
+
+![](http://rmitc.org/wp-content/uploads/2012/08/votes.png)
 
 So, from now on these bright faces will be our executive board:
 
-****
+![](http://rmitc.org/wp-content/uploads/2012/08/luan.jpg)  
+**Nguyen Thanh Luan - President**
 
-**![](http://rmitc.org/wp-content/uploads/2012/08/luan.jpg) Nguyen Thanh
-Luan - President**
+![](http://rmitc.org/wp-content/uploads/2012/08/bach.jpg)  
+**Vu Xuan Bach - Vice President**
 
-****
+![](http://rmitc.org/wp-content/uploads/2012/08/minh.jpg)  
+**Dao Tien Minh - Treasurer**  
+*(it's your fault for not putting any good photos of yourself on fb man, your loss!)*
 
-**![](http://rmitc.org/wp-content/uploads/2012/08/bach.jpg) Vu Xuan Bach
-- Vice President**
-
-****
-
-**![](http://rmitc.org/wp-content/uploads/2012/08/minh.jpg)** **Dao Tien
-Minh - Treasurer** *(it's your fault for not putting any good photos of
-yourself on fb man, your loss!)*
-
-****
-
-**![](http://rmitc.org/wp-content/uploads/2012/08/nhan.jpg) Bui Thanh
-Nhan - Secretary**
+![](http://rmitc.org/wp-content/uploads/2012/08/nhan.jpg)  
+**Bui Thanh Nhan - Secretary**
