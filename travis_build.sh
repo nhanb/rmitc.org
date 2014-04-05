@@ -1,9 +1,6 @@
 #!/usr/bin/env bash
 # This script is for use in travis-ci only.
 
-# Exit script as soon as something fails
-set -e
-
 # Generate site from markdown source
 jekyll build
 
