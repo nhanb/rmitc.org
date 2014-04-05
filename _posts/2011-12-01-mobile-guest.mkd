@@ -1,5 +1,14 @@
---- layout: post title: Mobile Guest Lecture categories: - Activities -
-IT Insight Series - Seminars tags: [] status: publish type: post
-published: true meta: \_edit\_last: '12' \_wp\_old\_slug: '' ---
-**Mobile Guest Lecture** ![Mobile Guest
-Lecture](http://img88.imageshack.us/img88/7943/posterob.png)
+---
+layout: post
+title: Mobile Guest Lecture
+categories: [activity, IT Insight Series, Seminars]
+tags: []
+status: publish
+type: post
+published: true
+author: locvu
+---
+
+**Mobile Guest Lecture**
+
+![Mobile Guest Lecture](http://img88.imageshack.us/img88/7943/posterob.png)
