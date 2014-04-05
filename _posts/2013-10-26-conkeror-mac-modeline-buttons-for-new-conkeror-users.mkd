@@ -84,8 +84,8 @@ Modeline Buttons homepage](http://truongtx.me/conkeror-mac-modeline-buttons.html
 
 ## Some demo images
 
-[![navigation](http://rmitc.org/wp-content/uploads/2013/10/navigation.png)](http://rmitc.org/wp-content/uploads/2013/10/navigation.png)
-[![multi2](http://rmitc.org/wp-content/uploads/2013/10/multi2.png)](http://rmitc.org/wp-content/uploads/2013/10/multi2.png)
+[![navigation](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/10/navigation.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/10/navigation.png)
+[![multi2](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/10/multi2.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/10/multi2.png)
 
 > **Source**: [Truongtx.me blog](http://truongtx.me/conkeror-mac-modeline-buttons.html "Truongtx.me
 > blog")

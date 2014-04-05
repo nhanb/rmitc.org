@@ -51,7 +51,7 @@ music folder and auto upload everytime you add new music files into that
 folder so you don't have to worry whether this file has been uploaded
 yet. Everything is automated.
 
-[![musicmanager](http://rmitc.org/wp-content/uploads/2013/06/musicmanager.png)](http://rmitc.org/wp-content/uploads/2013/06/musicmanager.png)
+[![musicmanager](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/06/musicmanager.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/06/musicmanager.png)
 
 After finish uploading music, you can open Google Music in your web
 browser and edit song info as well as create playlist for online
@@ -70,7 +70,7 @@ your library without having to open a web browser. It supports streaming
 music online and even selecting with songs/album/playlist to keep on the
 phone for offline playback.
 
-[![playmusic](http://rmitc.org/wp-content/uploads/2013/06/playmusic.png)](http://rmitc.org/wp-content/uploads/2013/06/playmusic.png)
+[![playmusic](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/06/playmusic.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/06/playmusic.png)
 
 Google Play Music app on my Samsung Galaxy Note 1
 
@@ -83,13 +83,13 @@ bar and you're done. I have tried and receive about 95% correct results.
 It's really accurate and support many different languages, even
 Vietnamese, which I didn't think that it can search.
 
-[![aiduaemve](http://rmitc.org/wp-content/uploads/2013/06/aiduaemve.png)](http://rmitc.org/wp-content/uploads/2013/06/aiduaemve.png)
+[![aiduaemve](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/06/aiduaemve.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/06/aiduaemve.png)
 
-[![bsb](http://rmitc.org/wp-content/uploads/2013/06/bsb.png)](http://rmitc.org/wp-content/uploads/2013/06/bsb.png)
+[![bsb](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/06/bsb.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/06/bsb.png)
 
 musiXmatch on Notification bar
 
-[![bsb2](http://rmitc.org/wp-content/uploads/2013/06/bsb2.png)](http://rmitc.org/wp-content/uploads/2013/06/bsb2.png)
+[![bsb2](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/06/bsb2.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/06/bsb2.png)
 
 Display lyric with musiXmatch
 

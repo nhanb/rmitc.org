@@ -60,7 +60,7 @@ Google account, create a new folder inside that `Google Drive Shared`
 folder above and tell GDrive to select it as the sync folder fo that
 account.
 
-[![firstacc](http://rmitc.org/wp-content/uploads/2013/07/firstacc.png)](http://rmitc.org/wp-content/uploads/2013/07/firstacc.png)
+[![firstacc](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/firstacc.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/firstacc.png)
 
 ## Adding Account
 
@@ -71,7 +71,7 @@ accounts. Don't worry, you only have to do this once. Open up **System
 Preferences**, go to **User & Groups**, click the **+** button to add
 one more user account.
 
-[![adduser](http://rmitc.org/wp-content/uploads/2013/07/adduser.png)](http://rmitc.org/wp-content/uploads/2013/07/adduser.png)
+[![adduser](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/adduser.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/adduser.png)
 
 For the account type, select `Standard`. You can then input everything
 in **Full name** field and **Password Hint** because we will later hide
@@ -85,7 +85,7 @@ using command line interface. Firstly, you need to create another folder
 inside `Google Drive Shared` to store the sync folder for the new
 account. See example in the picture below
 
-[![secondacc](http://rmitc.org/wp-content/uploads/2013/07/secondacc.png)](http://rmitc.org/wp-content/uploads/2013/07/secondacc.png)
+[![secondacc](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/secondacc.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/secondacc.png)
 
 Next, you need to change the permission of the `Google Drive Shared`
 folder to 777 so that all user have the permission to read/write inside
@@ -106,21 +106,21 @@ $ sudo su username -c "/Applications/Google\ Drive.app/Contents/MacOS/Google\ Dr
 
 Now GDrive is ready for you to use.
 
-[![dualgdrive](http://rmitc.org/wp-content/uploads/2013/07/dualgdrive.png)](http://rmitc.org/wp-content/uploads/2013/07/dualgdrive.png)
+[![dualgdrive](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/dualgdrive.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/dualgdrive.png)
 For the first time, a popup window will appear asking you for username
 and password. After logging in, remember to select **Advanced Setup** to
 change the default sync folder location.
 
-[![advanced](http://rmitc.org/wp-content/uploads/2013/07/advanced.png)](http://rmitc.org/wp-content/uploads/2013/07/advanced.png)
+[![advanced](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/advanced.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/advanced.png)
 
 Change the default sync location to the newly created folder
 
-[![change](http://rmitc.org/wp-content/uploads/2013/07/change.png)](http://rmitc.org/wp-content/uploads/2013/07/change.png)
+[![change](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/change.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/change.png)
 
 Again, for the first time only, another popup window will appear asking
 you to reset to default keychain, just select **Reset To Defaults**.
 
-[![askreset](http://rmitc.org/wp-content/uploads/2013/07/askreset.png)](http://rmitc.org/wp-content/uploads/2013/07/askreset.png)
+[![askreset](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/askreset.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/askreset.png)
 
 Everything's done now and Google Drive is ready to run with multiple
 accounts. If you find it's too complicated and you feel lazy typing
@@ -194,7 +194,7 @@ To change the user id, go to **System Preferences**, **User & Group**,
 right click on the account you want to change and select **Advanced
 Options** and then change the user id number.
 
-[![uid](http://rmitc.org/wp-content/uploads/2013/07/uid.png)](http://rmitc.org/wp-content/uploads/2013/07/uid.png)
+[![uid](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/uid.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/uid.png)
 
 ## Known Issues
 
@@ -205,15 +205,15 @@ Options** and then change the user id number.
 
 ## Bonus Images from my Mac
 
-[![bonus1](http://rmitc.org/wp-content/uploads/2013/07/bonus1.png)](http://rmitc.org/wp-content/uploads/2013/07/bonus1.png)
+[![bonus1](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/bonus1.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/bonus1.png)
 
-[![bonus2](http://rmitc.org/wp-content/uploads/2013/07/bonus2.png)](http://rmitc.org/wp-content/uploads/2013/07/bonus2.png)
+[![bonus2](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/bonus2.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/bonus2.png)
 
-[![bonus3](http://rmitc.org/wp-content/uploads/2013/07/bonus3.png)](http://rmitc.org/wp-content/uploads/2013/07/bonus3.png)
+[![bonus3](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/bonus3.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/bonus3.png)
 
-[![bonus4](http://rmitc.org/wp-content/uploads/2013/07/bonus4.png)](http://rmitc.org/wp-content/uploads/2013/07/bonus4.png)
+[![bonus4](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/bonus4.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/bonus4.png)
 
-[![bonus5](http://rmitc.org/wp-content/uploads/2013/07/bonus5.png)](http://rmitc.org/wp-content/uploads/2013/07/bonus5.png)
+[![bonus5](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/bonus5.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/bonus5.png)
 
 > **Source**: [Truongtx.me
 > blog](http://truongtx.me/2013/06/30/macos-using-multiple-google-drive-accounts-at-the-same-time "Truongtx.me blog")

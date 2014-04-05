@@ -77,7 +77,7 @@ like this in Terminal `11/12 11:17:09 [NOTICE] IPv4 RPC: listening on TCP port 6
 [NOTICE] IPv6 RPC: listening on TCP port 6800` Next, use your web browser to open the file
 **index.html** inside the webui-aria2 folder that you have just downloaded. The web page will look
 like this picture, otherwise there maybe some problems with your aria2 client.
-[![aria2](http://rmitc.org/wp-content/uploads/2013/11/aria2.png)](http://rmitc.org/wp-content/uploads/2013/11/aria2.png)
+[![aria2](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/11/aria2.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/11/aria2.png)
 From there, you can start using **aria2**. Take some minutes with familiarize yourself to its UI.
 If you want to stop aria, just go back to Terminal and press Ctrl-C. All the error/unfinished
 downloads will be saved into **session.txt** file. Next time when you want to use aria2 again, just

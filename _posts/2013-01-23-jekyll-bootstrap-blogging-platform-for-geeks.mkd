@@ -65,7 +65,7 @@ Who are we? We are IT guys so that Code sharing is an essential part of our life
 Github handle this task very well and so do Jekyll. It has the built-in support for Pygments code
 highlighting system. After some simple configurations (you can find it on Google or contact me),
 this is the result I have for a piece of js code
-[![js](http://rmitc.org/wp-content/uploads/2013/01/js.png)](http://rmitc.org/2013/01/jekyll-bootstrap-blogging-platform-for-geeks/js/)
+[![js](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/01/js.png)](http://rmitc.org/2013/01/jekyll-bootstrap-blogging-platform-for-geeks/js/)
 Really beautiful, isn't it? What you need to do is just as simple as copy and paste the code.
 Jekyll will keep the format of the code and highlight it for you. If you use markup to write this,
 it's really a big problem for you to deal with the tabs and spaces as well as the line breaks.

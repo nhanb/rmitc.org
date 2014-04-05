@@ -5,7 +5,7 @@ author: khangnguyen
 categories: [career]
 ---
 
-[![khang](http://rmitc.org/wp-content/uploads/2013/09/khang.jpg)](http://rmitc.org/wp-content/uploads/2013/09/khang.jpg)
+[![khang](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/09/khang.jpg)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/09/khang.jpg)
 
 *TL;DR:* Just send your questions regarding internship to khang[at]cogini[dot]com. His answers will
 be posted here. If you're an IT student at RMIT Vietnam, you've probably heard of him.  Otherwise,

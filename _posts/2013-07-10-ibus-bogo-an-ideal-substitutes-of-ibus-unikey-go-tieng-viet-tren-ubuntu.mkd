@@ -9,7 +9,7 @@ Scim-Unikey: the ill-fated predecessor of iBus-Unikey:
 
 [![Scim-Unikey: the
 ill-fated predecessor of
-iBus-Unikey](http://rmitc.org/wp-content/uploads/2013/07/scim-unikey-1.jpg)](http://rmitc.org/wp-content/uploads/2013/07/scim-unikey-1.jpg)
+iBus-Unikey](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/scim-unikey-1.jpg)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/07/scim-unikey-1.jpg)
 
 To any Vietnamese computer users, the ability to use Vietnamese input is immensely crucial,
 regardless the operating system they are using. gõ tiếng việt trên Ubuntu For Windows, the leading

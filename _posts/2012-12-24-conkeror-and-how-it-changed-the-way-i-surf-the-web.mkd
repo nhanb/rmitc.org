@@ -32,7 +32,7 @@ can speed up the way we use our computer many times.
 
 One example is in the photo below. This is how conkeror follow a link in the web
 page.  
-![Keyboard-Oriented](http://rmitc.org/wp-content/uploads/2012/12/Screen-Shot-2012-12-23-at-7.00.55-PM3.png)
+![Keyboard-Oriented](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2012/12/Screen-Shot-2012-12-23-at-7.00.55-PM3.png)
 
 Of course, there are much more things we can do with conkeror using the
 keyboard, eg saving images, downloading file, jumping to specific tab,
@@ -41,7 +41,7 @@ form,...
 
 # Simplicity and Less Resource Consuming
 
-![Simplicity](http://rmitc.org/wp-content/uploads/2012/12/Screen-Shot-2012-12-23-at-7.28.26-PM.png)
+![Simplicity](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2012/12/Screen-Shot-2012-12-23-at-7.28.26-PM.png)
 
 Yes! As you can see in the picture above, it's simple, extremely simple.
 Simplicity makes it different from other web browser. Despite of the

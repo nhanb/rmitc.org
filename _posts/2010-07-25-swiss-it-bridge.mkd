@@ -9,7 +9,7 @@ published: true
 author: duynguyen
 ---
 
-[![](http://rmitc.org/wp-content/uploads/2010/07/logo_de.gif "logo_de")](http://rmitc.org/wp-content/uploads/2010/07/logo_de.gif)
+[![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2010/07/logo_de.gif "logo_de")](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2010/07/logo_de.gif)
 
 Swiss IT Bridge is a young enterprise for software development founded
 in 2005. The clients of Swiss IT Bridge are mostly from Switzerland,

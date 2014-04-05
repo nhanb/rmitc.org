@@ -12,7 +12,7 @@ thing you need to know to use Conkeror. Moreover, in Conkeror, you can even view
 all the lists of functions, key bindings, what this key combination do,... So if
 you get stuck, just open them. Here I will show you how.
 
-![tutorial](http://rmitc.org/wp-content/uploads/2013/01/tutorial1.png)
+![tutorial](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/01/tutorial1.png)
 
 # The RC file
 

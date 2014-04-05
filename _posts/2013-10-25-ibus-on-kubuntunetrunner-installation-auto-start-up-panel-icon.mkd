@@ -9,7 +9,7 @@ categories: [tutorials]
 spotting the good old indicator, click*
 [here](http://www.localizingjapan.com/blog/2013/10/20/japanese-input-on-ubuntu-linux-13-10-saucy-salamander/).
 
-![](http://rmitc.org/wp-content/uploads/2013/10/outcome1-1024x575.png "Netrunner 5
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/10/outcome1-1024x575.png "Netrunner 5
 'Enigma' running IBus succesfully")
 
 ## Introduction
@@ -33,7 +33,7 @@ That's all for the moaning. Here's a small howto for getting IBus to run properl
 
 ## Installation
 
-![outcome2](http://rmitc.org/wp-content/uploads/2013/10/outcome2.png)
+![outcome2](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/10/outcome2.png)
 
 Install these following packages, with any package manager - Synaptic or Muon: *ibus, ibus-gtk,
 ibus-qt4*... Otherwise, hit:
@@ -82,13 +82,13 @@ $ sudo apt-get install --reinstall ibus ibus-gtk ibus-qt4 gnome-icon-theme gnome
 Press Alt+F2 for KRunner. Type in *ibus-setup* and Enter. Configure like below. Otherwise, adjust
 options to suit to your tastes and preferences.
 
-![Ibus config](http://rmitc.org/wp-content/uploads/2013/10/Ibus-config.png)
+![Ibus config](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/10/Ibus-config.png)
 
 To add the language, hit *Input Method* tab. Here's the tricky part: since the dialog is blurred
 out, you have to click on the drop down button to bypass it. This is probably a bug of GTK QtCurve.
 The first method in the list will be your default input method.
 
-![Ibus config 2](http://rmitc.org/wp-content/uploads/2013/10/Ibus-config-2.png)
+![Ibus config 2](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/10/Ibus-config-2.png)
 
 ## Auto start IBus with KDE
 
@@ -105,4 +105,4 @@ Command: /usr/bin/ibus-daemon -desktop=kde -panel=/usr/lib/ibus/ibus-ui-kde
 Save everything. Now logout and login again.
 
 ![Ibus config
-3](http://rmitc.org/wp-content/uploads/2013/10/Ibus-config-3-1024x705.png)
+3](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/10/Ibus-config-3-1024x705.png)

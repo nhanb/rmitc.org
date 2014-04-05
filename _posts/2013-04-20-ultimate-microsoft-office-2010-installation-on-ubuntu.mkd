@@ -68,56 +68,56 @@ so.
 
 After the installation, this is how PlayOnLinux looks like:
 
-![](http://rmitc.org/wp-content/uploads/2013/04/01-Play-on-linux.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/01-Play-on-linux.png)
 
 Click on "Install". With the Install window now pops up, search for
 Microsoft Office. After the selection, hit "Install".
 
-![](http://rmitc.org/wp-content/uploads/2013/04/02-Install-ms-office.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/02-Install-ms-office.png)
 
 When the installation wizard emerges, hit 'Next'.
 
-![](http://rmitc.org/wp-content/uploads/2013/04/03-select-installation.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/03-select-installation.png)
 
 The wizards will ask you to select the installation file. Do what it
 says. Once you have located the 'setup.exe', and see a screen like
 below, click 'Next'.
 
-![](http://rmitc.org/wp-content/uploads/2013/04/04-select-setup-file.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/04-select-setup-file.png)
 
 The wizard then proceeds and downloads Wine 1.5.16. I don't like this
 step, but it's part of the PlayOnLinux script and you have to accept it.
 I'll explain why I don't like this version below.
 
-![](http://rmitc.org/wp-content/uploads/2013/04/05-download.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/05-download.png)
 
 Strings of under-the-hood stuff is conducted afterwards. This is why you
 ditch Wine for PlayOnLinux, the client does all the extra steps for you
 in background.
 
-![](http://rmitc.org/wp-content/uploads/2013/04/06-wait.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/06-wait.png)
 
 Very soon you will see this familiar, old-timer screen. Now you are in
 the familiar zone, do what you like, but the burden in on you now. I
 personally install the Standard version.
 
-![](http://rmitc.org/wp-content/uploads/2013/04/07-select-product.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/07-select-product.png)
 
 Sit back and relax, have a cup of water, may be even \*do-it\* yourself.
 It might take a while...
 
-![](http://rmitc.org/wp-content/uploads/2013/04/08-installing.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/08-installing.png)
 
 As soon as you see this screen, voila ! Hit close, and again some under
 the hood stuff occurs in the background.
 
 Please ignore any errors like the one below, you are doing fine.
 
-![](http://rmitc.org/wp-content/uploads/2013/04/09-error.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/09-error.png)
 
 Give Word or Excel a test run =))
 
-![](http://rmitc.org/wp-content/uploads/2013/04/10-test-run.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/10-test-run.png)
 
 ### Install missing *wingdng2.ttf* and*wingdng3.ttf* fonts (updated 24 April)
 
@@ -133,7 +133,7 @@ package, and paste them into the font folder (in my case it's
 Now *Bullets* render correctly.
 
 [![Screenshot from 2013-04-24
-18:55:01](http://rmitc.org/wp-content/uploads/2013/04/Screenshot-from-2013-04-24-185501.png)](http://rmitc.org/wp-content/uploads/2013/04/Screenshot-from-2013-04-24-185501.png)
+18:55:01](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/Screenshot-from-2013-04-24-185501.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/Screenshot-from-2013-04-24-185501.png)
 
 From now on, you may want to skip the rest of the article, the below
 steps are cosmetic, hence optional.
@@ -160,13 +160,13 @@ The first thing to do is upgrading Wine. Remember the script installed
 Wine 1.5.16. Select Tools - \> Manage Wine Version. Install version
 1.5.28 instead. The reason behind this, is Wine 1.5.17 has fixed font
 aliasing bug.
-![](http://rmitc.org/wp-content/uploads/2013/04/11-update-wine.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/11-update-wine.png)
 
 After Wine 1.5.28 installation finished, get back to the main window,
 click Configure. On the left side, select Office2010. Under the tab
 General, at Wine version, alter it to WIne 1.5.28.
 
-![](http://rmitc.org/wp-content/uploads/2013/04/12-play-on-linux-config.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/12-play-on-linux-config.png)
 
 Under tab 'Install Components', install the following option in
 respective order:
@@ -182,7 +182,7 @@ Windows reboot. Give it a moment, then you can test it by clicking at
 Configure Wine. If you are lucky, the fonts should be anti-aliased for
 now.
 
-![](http://rmitc.org/wp-content/uploads/2013/04/13-word.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/13-word.png)
 
 Do not mess around much with the configuration, you are on own risk.
 However, I did switch the theme, tab Desktop Integration, theme Royal,
@@ -192,7 +192,7 @@ At this step, you can see we've been a long way. Explicit comparison is
 shown underneath, on the left is the default Wine configuration, on the
 right is what we did so far with PlayOnLinux.
 
-![](http://rmitc.org/wp-content/uploads/2013/04/14-.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/14-.png)
 
 ## Step 4: more cosmetic change.
 
@@ -207,9 +207,9 @@ download from here:
 After you have extracted the compression package, open the the Configure
 window, under the tab Miscellaneous, click at 'Run a .exe file... '.
 Locate the install.exe
-![](http://rmitc.org/wp-content/uploads/2013/04/15.png) Install
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/15.png) Install
 DisplaySet like any other Windows application.
-![](http://rmitc.org/wp-content/uploads/2013/04/16-Display-set.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/16-Display-set.png)
 
 Once the installation of DisplaySet is done, open the Configure window,
 under the tab Miscellaneous, click at 'Run a .exe file...' again. This
@@ -221,12 +221,12 @@ As DisplaySet is open, config it the way you like, below is my
 recommendation, for a seamless Ubuntu look and feel. Don't forget to
 apply the setting before quitting.
 
-![](http://rmitc.org/wp-content/uploads/2013/04/17.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/17.png)
 
 And now, frankly, the menu, the tooltips, everything has enlarged, and
 use Ubuntu font instead.
 
-![](http://rmitc.org/wp-content/uploads/2013/04/18.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/18.png)
 
 For even greater theming and look change, you can read from this link:
 [http://askubuntu.com/questions/175868/what-can-be-done-to-make-wine-look-more-integrated-into-unity](http://askubuntu.com/questions/175868/what-can-be-done-to-make-wine-look-more-integrated-into-unity)
@@ -253,7 +253,7 @@ From the main windows, locate from Setting -\> File Associations, and
 config like below. If they are already there, remove them and re-add
 them again.
 
-![](http://rmitc.org/wp-content/uploads/2013/04/19.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/19.png)
 
 Log-out and log-in to see the effect.
 
@@ -271,7 +271,7 @@ at Configure -\> tab Wine -\> Configure Wine -\> tab Drives.
 A picture says 1000 words, I'd like to present how I can access RMIT
 folder straight from Office.
 
-![](http://rmitc.org/wp-content/uploads/2013/04/20.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/20.png)
 
 ## Step 6: Office activation
 
@@ -283,7 +283,7 @@ arounds for this problem.
 ### The offical PlayOnLinux approach - which fail to work for me:
 
 In PlayOnLinux's Installation wizard, search for Microsoft Office 2010
-Activation. ![](http://rmitc.org/wp-content/uploads/2013/04/21.png)
+Activation. ![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/21.png)
 
 ### The 'xài chùa' approach:
 

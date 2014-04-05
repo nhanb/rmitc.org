@@ -80,7 +80,7 @@ Hit Return (Enter on Windows) when you're done and see the magic ;)
 
 Conkeror should appear and there should be something looks like this
 
-![conkeror-main](http://rmitc.org/wp-content/uploads/2013/01/conkeror-main.png)
+![conkeror-main](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/01/conkeror-main.png)
 
 The installation steps look complicated when you first time see it. But in fact
 it's just one command: `firefox --app /path/to/application.ini`. Call firefox and

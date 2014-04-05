@@ -108,7 +108,7 @@ site](http://www.chromeextensions.org/other/simple-get/), configure it
 like the image below:
 
 ![Simple
-Get](http://rmitc.org/wp-content/uploads/2013/06/Simple-Get.png)
+Get](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/06/Simple-Get.png)
 
 ## Update 09 October 2013
 

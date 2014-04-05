@@ -9,7 +9,7 @@ published: true
 author: nhanb
 ---
 
-![vim logo](http://rmitc.org/wp-content/uploads/2012/11/vim-editor_logo-300x300.png)
+![vim logo](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2012/11/vim-editor_logo-300x300.png)
 
 For RMIT guys who have studied Programming Techniques, you must have
 been introduced to the famous (and somewhat intimidating) text editor
@@ -57,7 +57,7 @@ Ok, seeing is believing. Here's what my vim looks like. By the way, this
 is GVIM running from our Mekong server and yes, it's using a graphical
 user interface, I'll show you how to do this in another post.
 
-![GVIM](http://rmitc.org/wp-content/uploads/2012/11/01_gvim_screenshot-1024x557.png)
+![GVIM](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2012/11/01_gvim_screenshot-1024x557.png)
 
 You can
 see some obvious stuff in the screenshot above:
@@ -125,7 +125,7 @@ nvie blog above then you don't have to enter this line):
 Now to install most plugins, you can just copy its folder into
 **\~/.vim/bundle/** like this:
 
-![](http://rmitc.org/wp-content/uploads/2012/11/02_bundle_folder.png)
+![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2012/11/02_bundle_folder.png)
 
 Each folder here is one plugin[/caption] Considering that we're IT
 people, I think by now you can go find these plugin and install them by
