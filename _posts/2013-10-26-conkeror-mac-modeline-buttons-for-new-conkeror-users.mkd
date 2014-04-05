@@ -17,13 +17,13 @@ command in Conkeror that displays basic navigation button in Conkeror Modeline. 
 fine on Linux only, not on other platforms. Also, the built-in one only allows me to display some
 pre-defined buttons, not any buttons that you want. In order to use this extension, you need some
 basic knowledge about **.conkerorrc** file. You can find the intruction in the tutorial here
-[Conkeror – Getting started – Part 1](http://rmitc.org/2013/01/conkeror-getting-started-part-1/)
-and here [Conkeror – Getting started – Part
+[Conkeror - Getting started - Part 1](http://rmitc.org/2013/01/conkeror-getting-started-part-1/)
+and here [Conkeror - Getting started - Part
 1](http://rmitc.org/2013/01/conkeror-getting-started-part-2/).
 
 ## Download and Installation
 
-It’s very easy to install since you just have to clone it from github.  Make sure you have git
+It's very easy to install since you just have to clone it from github.  Make sure you have git
 installed and your .conkerorrc is a directory (new style). First, clone it from github into your
 .conkerorrc
 
@@ -32,7 +32,7 @@ $ cd ~/.conkerorrc
 $ git clone https://github.com/tmtxt/conkeror-mac-modeline-buttons.git
 ```
 
-You’re encouraged (but not compelled)
+You're encouraged (but not compelled)
 to clone it into .conkerorrc. In that case, put this one into your init file to load it
 
 ```

@@ -7,22 +7,22 @@ categories: [career]
 
 ## 1. What is a startup?
 
-In Vietnam, people often misunderstand about the term “startup” and tend to generalize it for all
-business. I often heard people opening a “Tra Chanh Chem Gio”, “Neptune Online Shop”, an online
+In Vietnam, people often misunderstand about the term "startup" and tend to generalize it for all
+business. I often heard people opening a "Tra Chanh Chem Gio", "Neptune Online Shop", an online
 business, a small company, or any business as a startup. To have a deeper understanding about it,
-Steve Blank ([http://steveblank.com/](http://steveblank.com/)) – a great entrepreneur & investor in
+Steve Blank ([http://steveblank.com/](http://steveblank.com/)) - a great entrepreneur & investor in
 Silicon Valley has categorized it as follow:
 
 -   **Lifestyle startup:** the place where you sell, buy or do business that related to your hobby.
-    E.g.: selling skateboard, roller skate, surfboard, basketball clothes, etc. This type won’t get
+    E.g.: selling skateboard, roller skate, surfboard, basketball clothes, etc. This type won't get
     you far to be a millionaire, not even close!
 -   **Small business (mostly family-owned):** this kind is the most well known and sometimes
     considered to be representative of entrepreneurship world. They are run by family members &
     gain enough profit to enjoy their lives (I mean enough to travel to Europe, have a BMW series 7
-    & house in district 7. Nah, just joking! ). Small business has a very big impact to one’s
+    & house in district 7. Nah, just joking! ). Small business has a very big impact to one's
     economy and provide jobs
--   **“Aim to be bought” startup:** the founders aim to be a serial entrepreneur by selling
-    multiple startups over time. Their target is company valuation of US \$5m – US\$50m
+-   **"Aim to be bought" startup:** the founders aim to be a serial entrepreneur by selling
+    multiple startups over time. Their target is company valuation of US \$5m - US\$50m
 -   **Intrapreneurship:** a team that creates a new product in a new market. 3M is very famous for
     this.
 -   **Social entrepreneurship:** their target is not money & wealth for the founders and
@@ -44,7 +44,7 @@ diendanlequydon.com).
 
 **Misfit Wearable:** sport-tracking device. A team full of talented people that two founders are
 MIT grads and early employees are top performers in science and technology field. Moreover, it is
-backed by John Sculley – president of PepsiCo & CEO of Apple in 1983. *... To be updated!*
+backed by John Sculley - president of PepsiCo & CEO of Apple in 1983. *... To be updated!*
 
 ## 2. Investor tales
 
@@ -64,7 +64,7 @@ technology startup in Vietnam.
 firm, a sub-category of private equity that invests in early-stage, high risk, high return
 startups. Most VCs are investing after the angel investors have provided the seed funding.
 Therefore, the company valuation now is higher. In short, the common practice of funding is: seed
-funding, series A, series B, series C ( don’t worry about the alphabet, it’s just name !).
+funding, series A, series B, series C ( don't worry about the alphabet, it's just name !).
 
 ### Highlighted venture capital in Vietnam:
 
@@ -79,7 +79,7 @@ industry in general. *Highlighted portfolio including:*
 -   Tech-enabled business: WebTreTho, Vietnamworks, Vinabook, PeaceSoft, Hocmai.vn, DiaOcOnline
 -   Consumer Product: Vinapay, Diadiem JSC.
 
-**CyberAgent Ventures:** is part of CyberAgent Group – in which highlighted investment deals are
+**CyberAgent Ventures:** is part of CyberAgent Group - in which highlighted investment deals are
 CleverAds, Nhaccuatui, Colorbox & Tiki.vn
 
 **DFJ Vinacapital:** is also among the earliest VCs in Vietnam.  DFJ is part of Vinacapital and

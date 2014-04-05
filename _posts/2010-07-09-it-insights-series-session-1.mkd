@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IT Insights Series – Session 1
+title: IT Insights Series - Session 1
 author: phunehehe
 categories: [activities]
 ---

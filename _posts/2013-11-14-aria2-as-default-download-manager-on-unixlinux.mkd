@@ -9,8 +9,8 @@ categories: [tutorials]
 > HTTP/HTTPS, FTP, BitTorrent and Metalink. aria2 can be manipulated via built-in JSON-RPC and
 > XML-RPC interfaces.
 
-I’m currently using a Mac. There are many good download managers for MacOS out there, for example
-Folx, Speed Download, JDownloader, iGetter, DownThemAll, uTorrent, Transmission,… However, most of
+I'm currently using a Mac. There are many good download managers for MacOS out there, for example
+Folx, Speed Download, JDownloader, iGetter, DownThemAll, uTorrent, Transmission,... However, most of
 them have drawbacks. Speed Downloader and iGetter are not free, and you cannot download torrent
 with them. Folx offers a free version but the functionality is limited. Also, Folx 3 has removed
 the ability to download torrent file. DownThemAll requires Firefox to be opened. uTorrent and
@@ -23,10 +23,10 @@ is off, the physical memory usage is typically 4MiB (normal HTTP/FTP downloads) 
 downloads). CPU usage in BitTorrent with download speed of 2.8MiB/sec is around 6%. However,
 sometimes the command line brings more power than necessary. I also need a simple GUI to work with
 the app more easily.  [Webui-aria2](https://github.com/ziahamza/webui-aria2) is the solution.  One
-of the great features of **webui-aria2** is that it’s a web-based UI.  I can use the browser
+of the great features of **webui-aria2** is that it's a web-based UI.  I can use the browser
 (Conkeror or Chrome with Vimium) to interact with it (add, pause, remove downloads) using the
 keyboard very quickly. Here are the steps on how to setup aria2 client on a Unix/Linux system.
-**Note**: If you’re using Linux, there is a GUI wrapper for aria2 called
+**Note**: If you're using Linux, there is a GUI wrapper for aria2 called
 [uGet](http://ugetdm.com/).
 
 ## Install aria2
@@ -63,7 +63,7 @@ $ which aria2c
 
 Actually, this is just a static web page. Everything you need to do is to clone the repository on
 github to your computer using **git**.  `$ git clone https://github.com/ziahamza/webui-aria2.git`
-If you don’t have git installed, just go to the repo page on github at
+If you don't have git installed, just go to the repo page on github at
 [https://github.com/ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) and select the
 button **Download Zip**. Download it to your computer and extract it.
 
@@ -86,7 +86,7 @@ start with the same command.
 ## Automate everything.
 
 If you are tired of typing the long command above again and again, simply assign an alias for it in
-your shell rc file (.bashrc, .zshrc,…).  `alias myaria2='aria2c --enable-rpc --rpc-listen-all
+your shell rc file (.bashrc, .zshrc,...).  `alias myaria2='aria2c --enable-rpc --rpc-listen-all
 --save-session=session.txt -isession.txt'` This solution still requires you to cd to your download
 folder manually and execute the *touch* command for the first time but it gives you the flexibility
 to choose your download folder and organize multiple download locations. If you just want to have

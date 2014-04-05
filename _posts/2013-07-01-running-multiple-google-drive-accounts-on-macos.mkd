@@ -9,7 +9,7 @@ categories: [tutorials]
 
 For several months, I have been using only one Google account for
 storing and syncing my files between computers. It is really a great
-tool since it’s integrated deeply with many Google services (which I use
+tool since it's integrated deeply with many Google services (which I use
 everyday). However, the storage is a problem for most cloud drive
 service. Before that, it offers only 5GB for free and now 15GB, still
 not enough for me even when I use the email that my university provided
@@ -17,7 +17,7 @@ not enough for me even when I use the email that my university provided
 
 Today, while I was browsing my
 Google Drive, I suddenly thought that it would be very nice if I can
-combine all my Google accounts’ storage capacity because I have 4 daily
+combine all my Google accounts' storage capacity because I have 4 daily
 used Google accounts. The problem is that Google has restricted the
 Google Drive desktop app to be able to run one single instance with one
 profile at one time. That led to the inconvience when I have to
@@ -41,7 +41,7 @@ Google Drive accounts on my Mac.
 Let me briefly explain how my solution work. Actually, each user account
 on MacOS can only run one instance of Google Drive at one time. However,
 I realized that if I run it as another account user (this user can be
-hidden so that it won’t affect you), it will have to create another
+hidden so that it won't affect you), it will have to create another
 profile since the Unix system has separate home folder for each account.
 The problem now is just how to run all of those instances simutaneously.
 By applying some simple shell commands and apple script, we can force
@@ -53,7 +53,7 @@ As I mentioned before, you need Google Drive desktop app installed in
 `/Applications`. This is just to make sure that every user account can
 have sufficient access to the application. For ease of multiple accounts
 management, I advised you to create a folder where you will store all of
-your GDrive accounts’s folders. In this article, I’ll call that folder
+your GDrive accounts's folders. In this article, I'll call that folder
 `Google Drive Shared`, located in my home directory. After finishing
 installing Google Drive, you can open it and login with one of your
 Google account, create a new folder inside that `Google Drive Shared`
@@ -67,7 +67,7 @@ account.
 You have finished adding the first account. There is nothing new as you
 just follow the normal steps when you want to use GDrive. Now, move to
 the trickier part, where you have to create another user for extra
-accounts. Don’t worry, you only have to do this once. Open up **System
+accounts. Don't worry, you only have to do this once. Open up **System
 Preferences**, go to **User & Groups**, click the **+** button to add
 one more user account.
 
@@ -122,9 +122,9 @@ you to reset to default keychain, just select **Reset To Defaults**.
 
 [![askreset](http://rmitc.org/wp-content/uploads/2013/07/askreset.png)](http://rmitc.org/wp-content/uploads/2013/07/askreset.png)
 
-Everything’s done now and Google Drive is ready to run with multiple
-accounts. If you find it’s too complicated and you feel lazy typing
-these commands again and again, head to the next section where I’ll show
+Everything's done now and Google Drive is ready to run with multiple
+accounts. If you find it's too complicated and you feel lazy typing
+these commands again and again, head to the next section where I'll show
 you how to automate everything.
 
 ## Automate Everything
@@ -162,11 +162,11 @@ do shell script sh password "sudopassword" with administrator privileges
 ```
 
 Replace **path/to/run\_google\_drive.sh** with the path to the
-run\_google\_drive.sh file you’ve just created. Replace **sudopassword**
+run\_google\_drive.sh file you've just created. Replace **sudopassword**
 with your sudo password. Save the workflow as an application. Now what
 you have to do is to run that application and your Google Drive instance
 will start. You can also select that application to start with the OS so
-that you don’t have to do anything, all Gdrive will be in synced
+that you don't have to do anything, all Gdrive will be in synced
 whenever you start your computer. Later, when you want to add more
 GDrive account, just create a new user and then create 2 file as above.
 

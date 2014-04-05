@@ -29,13 +29,13 @@ Now that Canonical has ditched Kubuntu in favour of Ubuntu Touch, Mir, Ubuntu TV
 Blue System has adopted Kubuntu and forked it as Netrunner, I hope Kubuntu would given the
 attention is deserves.
 
-That's all for the moaning. Here’s a small howto for getting IBus to run properly on Kubuntu.
+That's all for the moaning. Here's a small howto for getting IBus to run properly on Kubuntu.
 
 ## Installation
 
 ![outcome2](http://rmitc.org/wp-content/uploads/2013/10/outcome2.png)
 
-Install these following packages, with any package manager - Synaptic or Muon: *ibus, ibus-gtk,
+Install these following packages, with any package manager - Synaptic or Muon: *ibus, ibus-gtk,
 ibus-qt4*... Otherwise, hit:
 
 ```bash
@@ -99,7 +99,7 @@ Box, click on tab *Application*. Input the following
 ```
 Name: ibus-daemon
 Description: Goddamn IBus
-Command: /usr/bin/ibus-daemon –desktop=kde –panel=/usr/lib/ibus/ibus-ui-kde
+Command: /usr/bin/ibus-daemon -desktop=kde -panel=/usr/lib/ibus/ibus-ui-kde
 ```
 
 Save everything. Now logout and login again.

@@ -7,12 +7,12 @@ categories: [career, tutorials]
 
 [Last week]({% post_url 2013-04-11-tech-entrepreneurship %}), I have covered the very general
 concept of startup & investment definition and type of startup investment in Vietnam.  This
-article’s main purpose is to show you key peoples, events and resources that I think you need to
+article's main purpose is to show you key peoples, events and resources that I think you need to
 know in Vietnamese market.
 
 ## Key investors:
 
-### [Henry Nguyen – Managing General Partner of IDG Ventures Vietnam](http://idgvv.com.vn/en/team/henry-nguyen)
+### [Henry Nguyen - Managing General Partner of IDG Ventures Vietnam](http://idgvv.com.vn/en/team/henry-nguyen)
 
 Henry (Hoang) Nguyen currently serves as the Managing General Partner of IDG Ventures Vietnam.
 Prior to joining IDG Ventures, Henry was an Associate at Goldman Sachs in the Technology group in
@@ -29,7 +29,7 @@ Society, Asia 21 Leader. Henry also is an advisory board member of Operation Smi
 Henry is an avid fan of music and you can often find him listening to rock and jazz favorites. In
 addition to music, he is also a big fan or sports, including lacrosse, football, and golf.
 
-### [Nguyen Manh Dung – Head of Vietnam office of CyberAgent Ventures](http://www.cyberagentventures.com/en/memberinfo-en/link-nguyen-manh-dung/)
+### [Nguyen Manh Dung - Head of Vietnam office of CyberAgent Ventures](http://www.cyberagentventures.com/en/memberinfo-en/link-nguyen-manh-dung/)
 
 Mr. Nguyen Manh Dung worked in a Japanese manufacturing company, in charge of import & export
 department. Also he worked in the biggest software company in Vietnam, experienced several projects
@@ -81,16 +81,16 @@ Vietnam as well as building connections between Vietnam and the global entrepren
 
 ## Key tech-blogger
 
-### [Anh-Minh Do – Blogger of TechInAsia](http://www.techinasia.com/author/anh-minh-do/)
+### [Anh-Minh Do - Blogger of TechInAsia](http://www.techinasia.com/author/anh-minh-do/)
 
-Minh juggles keeping his pulse on Vietnam’s start-up, social media and technology scenes while
+Minh juggles keeping his pulse on Vietnam's start-up, social media and technology scenes while
 keeping his eye on the budding Southeast Asian web-influenced cultures. His main areas of research
-include social media, apps, start-up, online marketing, web culture and events. He’s currently
+include social media, apps, start-up, online marketing, web culture and events. He's currently
 based in Ho Chi Minh city, Vietnam. He has more than 144 posts about Vietnamese start-up market and
 also doing MC & event organizing like Tech Tuesday, Web Wednesday and Barcamp Saigon. He is also an
 active user on Quora and have broad range of knowledge related to Zen, Buddhism and Neuroscience.
 
-### [Ngân Sâu – Founder of Action.vn](http://www.action.vn)
+### [Ngân Sâu - Founder of Action.vn](http://www.action.vn)
 
 [Action.vn](http://www.action.vn/ "Action.vn") acts like a liaison between startup company and key
 events. If you want to know most updated tech event in SaiGon, [Action.vn](http://www.action.vn/
@@ -102,7 +102,7 @@ events. If you want to know most updated tech event in SaiGon, [Action.vn](http:
 
 The Startup Vietnam Conference (SVC) is an annual event that helps to inspire action within the
 Vietnam Startup Community. Last year, their featured speakers are from all over the world such as
-Chuck Eesley – Professor of Entrepreneurship from Stanford, Ray Wu- ambassador of JFDI Singapore,
+Chuck Eesley - Professor of Entrepreneurship from Stanford, Ray Wu- ambassador of JFDI Singapore,
 Rodrigo Martinez-serial entrepreneurs.
 
 ### [Tech Tuesday & Web Wednesday](https://www.facebook.com/WebWednesdayVietnam/info)

@@ -12,12 +12,12 @@ ill-fated predecessor of
 iBus-Unikey](http://rmitc.org/wp-content/uploads/2013/07/scim-unikey-1.jpg)](http://rmitc.org/wp-content/uploads/2013/07/scim-unikey-1.jpg)
 
 To any Vietnamese computer users, the ability to use Vietnamese input is immensely crucial,
-regardless the operating system they are using. gõ tiếng việt trên Ubuntu For Windows, the leading
-market position ensures it to receive the best support, as a result you have Unikey, or Kỳ Nam’s
+regardless the operating system they are using. gõ tiếng việt trên Ubuntu For Windows, the leading
+market position ensures it to receive the best support, as a result you have Unikey, or Kỳ Nam's
 GoTiengViet... Mac OS X even does a better job with a Vietnamese input comes by default. For Linux,
 this process has been lagged behind. There used to be XVKB and X-Unikey around, but their
 development have ceased a decade ago. Scim-Unikey, the predecessor of iBus-Unikey, was the greatest
-IME I’d ever experienced, until Ubuntu dropped support for Scim.
+IME I'd ever experienced, until Ubuntu dropped support for Scim.
 
 ## iBus-Unikey - the official IME of Ubuntu
 
@@ -26,11 +26,11 @@ IME I’d ever experienced, until Ubuntu dropped support for Scim.
 iBus-Unikey, developed by Le Quoc Tuan from the Ubuntu-vn forum, has been the most widely used
 input method for Vietnamese users. Based on Unikey processing engine, it maintains and preserve
 most functions of Unikey, that Windows users are certainly familiar with. In fact iBus-Unikey was
-integrated into Ubuntu repository in 2010, signifies its “legit” stamp the approval, by the
+integrated into Ubuntu repository in 2010, signifies its "legit" stamp the approval, by the
 upstream. However, being a long time Ubuntu user, I am not utterly happy with iBus-Unikey. For some
-reason, the input method comes with the nuisance “feature” Pre-edit. It sometimes cause
+reason, the input method comes with the nuisance "feature" Pre-edit. It sometimes cause
 unpredictable behaviours, such as words jumping among textboxes, which I particularly loathe...
-Furthermore, with the current version 0.6.1 last released February 2013, it’s unlikely that
+Furthermore, with the current version 0.6.1 last released February 2013, it's unlikely that
 iBus-Unikey is going to receive any major upgrades, let alone the removal of Pre-edit.
 
 ![](http://ibus-bogo.readthedocs.org/en/latest/_images/settings.png)

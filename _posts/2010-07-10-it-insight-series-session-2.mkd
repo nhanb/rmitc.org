@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IT Insights Series – Session 2
+title: IT Insights Series - Session 2
 author: khangnguyen
 categories: [activities]
 ---

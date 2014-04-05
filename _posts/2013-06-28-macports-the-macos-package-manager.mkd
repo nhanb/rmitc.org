@@ -9,7 +9,7 @@ categories: [tutorials]
 
 For Ubuntu Linux, we have a powerful package manager called **apt**
 which makes the installation, uninstallation and management of package
-much easier. Sadly, for MacOS users, we don’t have that powerful tool.
+much easier. Sadly, for MacOS users, we don't have that powerful tool.
 The appearance of **MacPorts**, an open source package manager for
 MacOS, has changed the way we install and manage our packages. With the
 help of **MacPorts**, MacOS users can now quickly install, keep track of
@@ -90,13 +90,13 @@ $ sudo port list installed
 So those are some basic commands for MacPorts, actually, the most
 inportant is **install**, **uninstall** and **upgrade**. Now you can use
 **MacPorts** to install many open source application like VLC, Emacs,
-Handbrake, iTerm, VirtualBox, Qt,…
+Handbrake, iTerm, VirtualBox, Qt,...
 
 ## Migration
 
 Since **Macports** is a package manager, it has the built-in support to
-make the migration process become easier. You don’t have to remember
-which packages you’ve installed. Everything you need is to export the
+make the migration process become easier. You don't have to remember
+which packages you've installed. Everything you need is to export the
 installed packages list and bring it to the destination system where you
 want them to be reinstalled. To export the list of installed ports,
 type:
@@ -105,7 +105,7 @@ type:
 $ port -qv installed > myports.txt
 ```
 
-The command above will write all the ports that you’ve have installed to
+The command above will write all the ports that you've have installed to
 myports.txt. On the destination computer, you need to uninstall all
 packages to avoid conflict.
 
@@ -128,7 +128,7 @@ $ chmod +x restore_ports.tcl
 $ sudo ./restore_ports.tcl myports.txt
 ```
 
-It’s possible to have conflict during the installation process. If it
+It's possible to have conflict during the installation process. If it
 happens, just delete the conflicting ports from myports.txt and run the
 script again. You may have to do this several times.
 

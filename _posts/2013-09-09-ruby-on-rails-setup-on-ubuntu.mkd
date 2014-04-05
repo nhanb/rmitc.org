@@ -31,7 +31,7 @@ Rails. To start, you need to open a terminal (gnome-terminal, shortcut: Ctrl+Alt
 to download the script and then **bash** to install it, all in 1 command:
 
 ```bash
-$ \curl –L https://get.rvm.io | bash –s stable –auto
+$ \curl -L https://get.rvm.io | bash -s stable -auto
 ```
 
 The RVM environment is now added into .bash\_profile file in your home directory, you need to load
@@ -43,16 +43,16 @@ $ . ~/.bash_profile
 
 Last step is to install all system requirements for RVM to use, with only 1 command: `rvm
 requirements` If you are prompted for a password, just enter your account password and everything
-will be done automatically. That’s easy, right?
+will be done automatically. That's easy, right?
 
 ## Installing Ruby and Rails
 
 With RVM installed, you are ready to install Ruby on Rails. Now, this is the best part. Guess what?
-You only need 1 command for installing Ruby and 1 command for installing Rails. “Thank you very
-much Mr. Wayne!” On a terminal, enter this command to install Ruby (of version 1.9.3, latest of
+You only need 1 command for installing Ruby and 1 command for installing Rails. "Thank you very
+much Mr. Wayne!" On a terminal, enter this command to install Ruby (of version 1.9.3, latest of
 1.x.x): `rvm install 1.9.3` Want to check if installation is successful or not? Use this to see
-current version of Ruby: `ruby –v` Now for Rails (version 3.2.13, latest of 3.x.x), we do: `gem
-install rails –v 3.2.13` As mysql2 and pg (for MySQL and PostgreSQL databases), are 2 most common
+current version of Ruby: `ruby -v` Now for Rails (version 3.2.13, latest of 3.x.x), we do: `gem
+install rails -v 3.2.13` As mysql2 and pg (for MySQL and PostgreSQL databases), are 2 most common
 used database gems, you may want to install it at this early stage. If so, enter these 2 commands
 in terminal: `gem install mysql2` `gem install pg` Congratulations! You are now cool to begin
 developing you very first Ruby on Rails applications.
@@ -70,9 +70,9 @@ commands: `sudo apt-get install postgresql` `sudo apt-get install postgresql-con
 [pgAdmin III](http://www.pgadmin.org/) (a GUI management tool) to easily manage your server and
 databases: `sudo apt-get install pgadmin3` Now, you need to setup a password for your server. Use
 the following command to access *psql* interface for *postgres* database with *postgres* account
-(default username for your server): `sudo –u postgres psql postgres` Enter this command and provide
+(default username for your server): `sudo -u postgres psql postgres` Enter this command and provide
 your password of choice: `\password postgres` Now, exit *psql* interface with command **\\q** and
-re-enter it: `sudo –u postgres psql` Then install *adminpack* extension: `CREATE EXTENSION
+re-enter it: `sudo -u postgres psql` Then install *adminpack* extension: `CREATE EXTENSION
 adminpack;` And your PostgreSQL is ready for service.  Please use the postgres username with the
 password you chose for your Rails applications!
 
@@ -88,8 +88,8 @@ Workbench](http://www.mysql.com/products/workbench/).
 
 ## Beyond the scope
 
-All basic stuff has been installed. “Now what?” You may pick a favorite editor and start developing
-some Rails projects. “But what types of editor can I use?” It depends on your interest and
+All basic stuff has been installed. "Now what?" You may pick a favorite editor and start developing
+some Rails projects. "But what types of editor can I use?" It depends on your interest and
 professional level:
 
 -   For ease of development, you can use an IDE, such as Eclipse with a Ruby/Rails plugin or Aptana
@@ -101,7 +101,7 @@ professional level:
 
 For modeling PostgreSQL database, you can use [pgModeler](http://www.pgmodeler.com.br/). There are
 a ton of great tools out there in the real world. You can always search for a collection of them
-that best fit your style and the projects you work on. That’s all we want to show you for your very
+that best fit your style and the projects you work on. That's all we want to show you for your very
 first steps. Good luck on your Ruby on Rails journey and gem adventure!
 
 ## External Links
@@ -110,21 +110,21 @@ As we cannot bring the whole world to you in just one single document, you have 
 out-of-the-doc in case you are stuck or in need of information. Here is the links to resources that
 we have used to conduct and provide you this short and condensed installing guide:
 
--   Blog of Ryan Bigg – Ubuntu, Ruby, RVM, Rails, and You:
+-   Blog of Ryan Bigg - Ubuntu, Ruby, RVM, Rails, and You:
     [http://ryanbigg.com/2010/12/ubuntu-ruby-rvm-rails-and-you/](http://ryanbigg.com/2010/12/ubuntu-ruby-rvm-rails-and-you/)
--   How-To Geek – How to Install Programs in Ubuntu in the Command-Line:
+-   How-To Geek - How to Install Programs in Ubuntu in the Command-Line:
     [http://www.howtogeek.com/63997/how-to-install-programs-in-ubuntu-in-the-command-line/"](http://www.howtogeek.com/63997/how-to-install-programs-in-ubuntu-in-the-command-line/)
 -   RVM: Ruby Version Manager: [https://rvm.io/](https://rvm.io/)
--   PostgreSQL – Community Ubuntu Documentation:
+-   PostgreSQL - Community Ubuntu Documentation:
     [https://help.ubuntu.com/community/PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)
--   MySQL – Ubuntu Documentation:
+-   MySQL - Ubuntu Documentation:
     [https://help.ubuntu.com/lts/serverguide/mysql.html](https://help.ubuntu.com/lts/serverguide/mysql.html)
 -   pgAdmin: PostgreSQL administration and management tools:
     [http://www.pgadmin.org/](http://www.pgadmin.org/)
 -   MySQL :: MySQL Workbench 6.0:
     [http://www.mysql.com/products/workbench/](http://www.mysql.com/products/workbench/)
--   Ubuntu Tweak – Let’s rock with Ubuntu: [http://ubuntu-tweak.com/](http://ubuntu-tweak.com/)
--   Sublime Text: The text editor you’ll fall in love with:
+-   Ubuntu Tweak - Let's rock with Ubuntu: [http://ubuntu-tweak.com/](http://ubuntu-tweak.com/)
+-   Sublime Text: The text editor you'll fall in love with:
     [http://www.sublimetext.com/](http://www.sublimetext.com/)
--   pgModeler – PostgreSQL Database Modeler:
+-   pgModeler - PostgreSQL Database Modeler:
     [http://www.pgmodeler.com.br/](http://www.pgmodeler.com.br/)

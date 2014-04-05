@@ -7,22 +7,22 @@ categories: [tutorials]
 
 So you have your own domain. What's next?
 
-## part 1: an email with your own domain? that’s easy!
+## part 1: an email with your own domain? that's easy!
 
 Suddenly you have to exchange contact information with someone in the
 industry. Then when it comes to email...
 
-> My God! How could I give them this nickname “cuteboy...”? So embarrassing!
+> My God! How could I give them this nickname "cuteboy..."? So embarrassing!
 
 Okay this scenario is weird. How about another case: you give them an email of
 *john.doe@techaction.com*. I personally think your thought would be like:
 
-> Hehe! Couldn’t they realize that’s my name and my personal website on it? \*evil grin\*
+> Hehe! Couldn't they realize that's my name and my personal website on it? \*evil grin\*
 
-Yes it’s true! An email with your own domain is something that you **do** be proud of! But how do
+Yes it's true! An email with your own domain is something that you **do** be proud of! But how do
 you have one?
 
-### Try Google Apps for Business, it’s free!
+### Try Google Apps for Business, it's free!
 
 For only one email address, yes, **only** **one**! But what you will have are priceless:
 @your-domain.com email address, calendar, drives, sites, Google+ profile, and many awesome apps
@@ -32,16 +32,16 @@ that are **free** on Google Apps marketplace! If those amazing features are not 
 -   25GB of inbox,
 -   5GB Drive storage,
 -   24/7 customer support for any issues,
--   So much more…
+-   So much more...
 
-I’m using Google Apps to host my professional email
+I'm using Google Apps to host my professional email
 [luan@tklarryonline.me](mailto:luan@tklarryonline.me) and trust me, the value is greatly awesome
-for just one free package! Nuff said, let’s get started shall we?
+for just one free package! Nuff said, let's get started shall we?
 
 ### Signing up Google Apps for free
 
 **Step 1**: Sign up for a personal Google account (a @gmail.com one). *I
-don’t have to guide you through this, right? Yet if you already have
+don't have to guide you through this, right? Yet if you already have
 one, skip to Step 2*
 
 **Step 2**: Follow this link [https://appengine.google.com/](https://appengine.google.com/) with
@@ -57,24 +57,24 @@ just click on **Create Application**.
 
 [![02](http://tklarryonline.me/wp-content/uploads/2013/04/02.png)](http://tklarryonline.me/wp-content/uploads/2013/04/02.png)
 
-**Step 5**: Successful! Now click on the **dashboard** link…
+**Step 5**: Successful! Now click on the **dashboard** link...
 
 [![03](http://tklarryonline.me/wp-content/uploads/2013/04/03.png)](http://tklarryonline.me/wp-content/uploads/2013/04/03.png)
 
-... look for **Application Settings **and click on it. It’s on the left!
+... look for **Application Settings **and click on it. It's on the left!
 
 [![04](http://tklarryonline.me/wp-content/uploads/2013/04/04.png)](http://tklarryonline.me/wp-content/uploads/2013/04/04.png)
 
-**Step 6**: Scroll down until you see **Domain Setup **section, click on the **Add Domain…**.
+**Step 6**: Scroll down until you see **Domain Setup **section, click on the **Add Domain...**.
 
 [![05](http://tklarryonline.me/wp-content/uploads/2013/04/05.png)](http://tklarryonline.me/wp-content/uploads/2013/04/05.png)
 
-Step 7: You will see this screen appear! Don’t mind the text-box! Click on the **Sign up for Google
-Apps Standard » **link…
+Step 7: You will see this screen appear! Don't mind the text-box! Click on the **Sign up for Google
+Apps Standard » **link...
 
 [![06](http://tklarryonline.me/wp-content/uploads/2013/04/06.png)](http://tklarryonline.me/wp-content/uploads/2013/04/06.png)
 
-…will open this new page, fill in **your exact (desired) information** and click on **I accept!**
+...will open this new page, fill in **your exact (desired) information** and click on **I accept!**
 button.
 
 [![07](http://tklarryonline.me/wp-content/uploads/2013/04/07.png)](http://tklarryonline.me/wp-content/uploads/2013/04/07.png)

@@ -11,7 +11,7 @@ categories: activities
 mobile phones developed by Google. This operation system is supported by
 many mobile phone manufacturers like HTC, Samsung, Motorola and Sony
 Ericsson. Android is designed to help developers build applications
-easily using Java and XML. When getting to know about Android, we – IT
+easily using Java and XML. When getting to know about Android, we - IT
 students in RMIT will learn and improve our skills about Java, XML as
 well as Software Engineering skills. That is one of many reasons that IT
 club held the Android seminar in the last semester.
@@ -21,7 +21,7 @@ club held the Android seminar in the last semester.
 Apart from the reasons above, the seminar gave IT students some ideas
 about the new mobile platform (Android) and helped them extend their
 relationship within the IT community in RMIT. After this seminar, some
-students “fell in love” with Android and decided to discover the Android
+students "fell in love" with Android and decided to discover the Android
 world deeper.
 
 ## How was the seminar?
@@ -30,9 +30,9 @@ The seminar was from 9 am to 11 am on April 17th, 2010. There were about
 30 participants, mostly IT students in RMIT. There were 3 guest speakers
 at the seminar:
 
--   Mr Tran Vu Tat Binh – Android Technical Leader - FPT Software R&D.
--   Mr Antoine Deroche – Manager - Evivo Vietnam
--   Mr Nguyen Cao Phuc - Senior developer – MultiNC
+-   Mr Tran Vu Tat Binh - Android Technical Leader - FPT Software R&D.
+-   Mr Antoine Deroche - Manager - Evivo Vietnam
+-   Mr Nguyen Cao Phuc - Senior developer - MultiNC
 
 Some topic that were covered in the seminar:
 
@@ -42,4 +42,4 @@ Some topic that were covered in the seminar:
 -   How to write simple Android application and deploy it on the Android
     platform.
 -   Finally, Mr Phuc helped participants to create their very first
-    Android application which is called “Little Spammer”.
+    Android application which is called "Little Spammer".

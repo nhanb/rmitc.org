@@ -10,7 +10,7 @@ categories: [tutorials]
 
 Dafuq is this?
 
-It’s been said that there are two types of people: those who manage time
+It's been said that there are two types of people: those who manage time
 effectively, and those absent-minded letting the grass grow under their
 feet. I belong the the latter group, so ultimately to-do lists are
 godsend.
@@ -23,7 +23,7 @@ frustrated with chains of menus and boxes, just to create a new
 reminder.
 
 What I want is simplicity and efficiently. Easy to create, easy to view.
-That’s when Notable comes along.
+That's when Notable comes along.
 
 ## NOTABLE - Simple concept & design, huge practicality
 
@@ -58,7 +58,7 @@ To remove the reminder, either tapping on them, or swiping them away.
 Fast and simple. With Notable, I am well-inform everywhere I go. I can
 remind myself to sent a mail while brushing teeth. I can remind myself
 to get a pack of Fugacar while eating hủ tiếu gõ. I will remind myself
-to buy a pack of condom while praying in the church (kidding, I won’t do
+to buy a pack of condom while praying in the church (kidding, I won't do
 that - at least, not in the church). [Get Notable from Play
 Store.](https://play.google.com/store/apps/details?id=com.icechen1.notable)
 

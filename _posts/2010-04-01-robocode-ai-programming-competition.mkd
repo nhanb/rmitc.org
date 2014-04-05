@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robocode – AI Programming Competition
+title: Robocode - AI Programming Competition
 author: phunehehe
 categories: [activity, competition]
 ---

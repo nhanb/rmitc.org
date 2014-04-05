@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Startup jobs – the incredible experience
+title: Startup jobs - the incredible experience
 author: tommyly
 categories: [career]
 ---
 
-So... today is my last day officially working for Keewi – a very cool startup in Saigon. It’s
+So... today is my last day officially working for Keewi - a very cool startup in Saigon. It's
 almost 1 year since the first time I knew about this awesome team and its famous event Start Me Up
-– the only monthly entrepreneurship event in Saigon. Looking back, it was an amazing journey that
+- the only monthly entrepreneurship event in Saigon. Looking back, it was an amazing journey that
 brought me to the technology world and expose to a new way of thinking about this world, which is
-totally different from what I’ve believed before. Listening to the song Humanity in Motion inspires
+totally different from what I've believed before. Listening to the song Humanity in Motion inspires
 me to write a short post for youngsters who want to tip a toe in a startup world. These are all the
 awesome experiences I want to share with you:
 
@@ -19,8 +19,8 @@ Usually, a job in a corporate will need a specific skill-set and the skill you a
 very focused. At a startup, one skill is never enough, start-ups never have enough people to do
 the work. As a business student, I knew nothing about design & coding. When people talked about
 landing page, UX design, Google analytics, CSS, HTML5, JavaScript, object-oriented, etc. I felt
-like it was in some alien language. But don’t be afraid, take time and dig deeper into technical
-skills, it will make your communication much easier. Looking back, I believe I’ve learned a lot
+like it was in some alien language. But don't be afraid, take time and dig deeper into technical
+skills, it will make your communication much easier. Looking back, I believe I've learned a lot
 from programmers and designers in Keewi. Thanks to them I now know how to do basic Java programming
 and acquired some basic Photoshop skills.
 
@@ -52,12 +52,12 @@ how to live a life?
 
 ## Resilience:
 
-You try, you fail and you try again. Sometimes you win, sometimes you screw things up, and that’s
+You try, you fail and you try again. Sometimes you win, sometimes you screw things up, and that's
 normal. Get used to being punched many times in a day will make you stronger and more resilient to
-things out of your control. Remember, it’s not about the things that happen to you, it’s how you
-response. There’s nothing wrong with failure, but it's never right to give up.
+things out of your control. Remember, it's not about the things that happen to you, it's how you
+response. There's nothing wrong with failure, but it's never right to give up.
 
-For me, at the end of the day, it’s all about what value we are adding to the society and people
+For me, at the end of the day, it's all about what value we are adding to the society and people
 around you. With a startup, I have a sense of belonging, the feeling of being part of a team, a
-part of something bigger than myself and create products that solve society’s problems. And that’s
+part of something bigger than myself and create products that solve society's problems. And that's
 made all the differences.

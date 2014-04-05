@@ -77,7 +77,7 @@ Of course there's much more to it:
 
 Again, Vim is good not just because of its plugins, but also thanks to
 its interesting way of editting. You can combine several commands to
-make it do a lot of cool stuff. For example: "**gg**" (pressing g twice)
+make it do a lot of cool stuff. For example: "**gg**" (pressing g twice)
 moves the cursor to the beginning of a file. "**=**" indents a specified
 piece of code. "**G**" jumps to the last line of the file. What does
 "**gg=G**" do then? It indents the whole file! You see, the scope of

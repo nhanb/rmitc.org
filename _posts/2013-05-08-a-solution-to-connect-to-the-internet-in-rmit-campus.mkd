@@ -21,7 +21,7 @@ and Chrome on Fedora
 ### Requirement
 
 Make sure that you turn on wifi and YOUR computer can RECOGNIZE
-“RMIT-WPA” or “rmitvnnet”, which are two official wireless spots of RMIT
+"RMIT-WPA" or "rmitvnnet", which are two official wireless spots of RMIT
 campus in RMIT Hanoi and Saigon.
 
 ### Steps
@@ -30,7 +30,7 @@ campus in RMIT Hanoi and Saigon.
 but you can make sure that your system CAN connect to the Internet).
 
 2. Look at top-right bar, there is a dual-connected computers symbol.
-Right-click on that symbol and choose **“Edit connections...”**.
+Right-click on that symbol and choose **"Edit connections..."**.
 
 3. Now there is a table which has many tabs. Your task is choosing Wireless
 tab.
@@ -44,9 +44,9 @@ tab.
 
   [![Edit](http://farm8.staticflickr.com/7326/8719760228_c3c2177b01.jpg)](http://www.flickr.com/photos/89174690@N07/8719760228/ "Edit by LinkBall2012, on Flickr")
 
-5. Now a new window appears and there are four tabs “Wireless”, “IPv4
-  setting”, “IPv6 setting”, and “Wireless security”. Please choose
-  “Wireless Security”
+5. Now a new window appears and there are four tabs "Wireless", "IPv4
+  setting", "IPv6 setting", and "Wireless security". Please choose
+  "Wireless Security"
 
 6. Your task is changing all information like in
 the image below.
@@ -64,7 +64,7 @@ the image below.
   internet connection in one computer. When I USE MY account, that
   computer connected to the Internet successfully. However, it connects to
   the internet using its owner's account, it did not work at all. This
-  problem is very weird and I don’t know if it happened on Fedora. In my
+  problem is very weird and I don't know if it happened on Fedora. In my
   case, I did not see any obstacle on connecting to the Internet with
   Fedora, but you guy if you have this problem, please see IT service for
   checking account's details.
@@ -73,8 +73,8 @@ the image below.
   security](http://farm8.staticflickr.com/7391/8718641027_b08a5e3e88.jpg)](http://www.flickr.com/photos/89174690@N07/8718641027/ "change Wireless security by LinkBall2012, on Flickr")
 
 7. You might think that is all, but in fact it is not. Now open your
-  Firefox, look at top bar, then click on “Preference”. Now Clicking on
-  “Advanced” and follow steps in image below.
+  Firefox, look at top bar, then click on "Preference". Now Clicking on
+  "Advanced" and follow steps in image below.
 
   [![Edit
   Firefox](http://farm8.staticflickr.com/7425/8718640637_c836227927.jpg)](http://www.flickr.com/photos/89174690@N07/8718640637/ "Edit Firefox by LinkBall2012, on Flickr")
@@ -93,7 +93,7 @@ connect to the Internet.
 
 ### Steps
 
-1. Going to “Application” ----- “System tools” ------- “System setting”
+1. Going to "Application" ----- "System tools" ------- "System setting"
   and choose network
 
   [![choose

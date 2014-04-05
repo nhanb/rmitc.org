@@ -22,7 +22,7 @@ practice some programming and, most important of all, to **HAVE FUN AND
 MAKE NEW FRIENDS** at the beginning of this semester.
 
 If you are asking
-yourself “*What the heck is Robocode?*”, please keep calm and go on
+yourself "*What the heck is Robocode?*", please keep calm and go on
 until the end of this post. Everything will be fine!
 
 ## What are the Prizes?
@@ -38,8 +38,8 @@ We offer prizes to the best *three robots* in the tournament.
 
 Beside the above prizes, did I mention that
 **our lectures are also in this tournament**? This is a great chance for you to
-“beat up” your
-lecturers. Show them what you’re made of!
+"beat up" your
+lecturers. Show them what you're made of!
 
 *Can you resist such prizes?*
 
@@ -62,7 +62,7 @@ hours before match time. (see below)
 Just
 like any other competitions, there are some rules that you have to
 follow to ensure the fairness of the tournament and to make our lives,
-the organizers, a bit easier. Don’t worry though, the rules are very
+the organizers, a bit easier. Don't worry though, the rules are very
 simple!
 
 *1. Procedure:*
@@ -79,16 +79,16 @@ Death-match day.
 **a**. We encourage you to do some research to learn and come up with
 your own algorithm for your robot.
 
-**b**. It is ok to use some or modify other robots’ source code, but
+**b**. It is ok to use some or modify other robots' source code, but
 remember to give reference to the code that you use (reference can be
 just as simple as a URL link to where to get the code).
 
-**c.** It is NOT COOL to use other people’s work without acknowledging
+**c.** It is NOT COOL to use other people's work without acknowledging
 them and we consider this as CHEATING. Cheaters will be immediately
 kicked out of the tournament.
 
 **d.** You must include a readme.txt file when submitting your robot to
-give reference if you use someone’s code in your robot. Feel free to add
+give reference if you use someone's code in your robot. Feel free to add
 in any other information that you think necessary.
 
 *3. Match:*
@@ -107,10 +107,10 @@ in any other information that you think necessary.
 **d.** Crashed robots will be disqualified.
 
 **e.** Game speed will be set at 30 (default speed). If a match exceeds
-1.5 minutes, have to speed up (won’t affect the final results at all).
+1.5 minutes, have to speed up (won't affect the final results at all).
 
 **f.** Robocode will automatically determine the winner at the end of
-each match (If you’re interested to see how Robocode scores your robot,
+each match (If you're interested to see how Robocode scores your robot,
 click [here](http://robowiki.net/wiki/Robocode/Scoring)).
 
 **g.** All disputes are resolved by the judges.
@@ -149,4 +149,4 @@ you in the battles.
 Good luck and have fun,  
 2012C RMIT Robocode Tournament Organizers
 
-“Build the best, destroy the rest !!!”
+"Build the best, destroy the rest !!!"

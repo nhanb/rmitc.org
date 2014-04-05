@@ -46,8 +46,8 @@ I break the procedure down into 6 steps:
 
 ## Step 1:  Install PlayOnLinux
 
-In brief, Office runs from Wine. For those who don’t know, Wine is not a
-Windows emulator, although it is. Haha, I’ll stop bullshiting. You can
+In brief, Office runs from Wine. For those who don't know, Wine is not a
+Windows emulator, although it is. Haha, I'll stop bullshiting. You can
 read more from [the
 Wiki](http://en.wikipedia.org/wiki/Wine_%28software%29 "Wine - Wikipedia.org").
 
@@ -70,24 +70,24 @@ After the installation, this is how PlayOnLinux looks like:
 
 ![](http://rmitc.org/wp-content/uploads/2013/04/01-Play-on-linux.png)
 
-Click on “Install”. With the Install window now pops up, search for
-Microsoft Office. After the selection, hit “Install”.
+Click on "Install". With the Install window now pops up, search for
+Microsoft Office. After the selection, hit "Install".
 
 ![](http://rmitc.org/wp-content/uploads/2013/04/02-Install-ms-office.png)
 
-When the installation wizard emerges, hit ‘Next’.
+When the installation wizard emerges, hit 'Next'.
 
 ![](http://rmitc.org/wp-content/uploads/2013/04/03-select-installation.png)
 
 The wizards will ask you to select the installation file. Do what it
-says. Once you have located the ‘setup.exe’, and see a screen like
-below, click ‘Next’.
+says. Once you have located the 'setup.exe', and see a screen like
+below, click 'Next'.
 
 ![](http://rmitc.org/wp-content/uploads/2013/04/04-select-setup-file.png)
 
-The wizard then proceeds and downloads Wine 1.5.16. I don’t like this
-step, but it’s part of the PlayOnLinux script and you have to accept it.
-I’ll explain why I don’t like this version below.
+The wizard then proceeds and downloads Wine 1.5.16. I don't like this
+step, but it's part of the PlayOnLinux script and you have to accept it.
+I'll explain why I don't like this version below.
 
 ![](http://rmitc.org/wp-content/uploads/2013/04/05-download.png)
 
@@ -149,12 +149,12 @@ Update: new links to download the fonts:
 
 ## Step 3: Cosmetic surgery - font anti-aliasing.
 
-Microsoft Office installation has completed, but it ain’t ready yet.
+Microsoft Office installation has completed, but it ain't ready yet.
 Well, if you possess clear bright eyes and happy with the current state
 of Office, the underneath stuff is redundant. Otherwise, proceed. Being
-a perfectionist myself, I can’t stand blurry font, retro Windows classic
+a perfectionist myself, I can't stand blurry font, retro Windows classic
 look and the dodgy performance, those teeny-tiny issues drive me nuts. I
-won’t rest till I overcome them.
+won't rest till I overcome them.
 
 The first thing to do is upgrading Wine. Remember the script installed
 Wine 1.5.16. Select Tools - \> Manage Wine Version. Install version
@@ -168,14 +168,14 @@ General, at Wine version, alter it to WIne 1.5.28.
 
 ![](http://rmitc.org/wp-content/uploads/2013/04/12-play-on-linux-config.png)
 
-Under tab ‘Install Components’, install the following option in
+Under tab 'Install Components', install the following option in
 respective order:
 
--   ‘Microsoft Core Fonts’
--   ‘Disable Crash Dialog’ -\> my personal favorite.
--   ‘FontSmoothRGB’ -\> this one is exceptionally crucial.
--   LunaTheme -\> it’s actually Royal Theme
--   ‘Tahoma’
+-   'Microsoft Core Fonts'
+-   'Disable Crash Dialog' -\> my personal favorite.
+-   'FontSmoothRGB' -\> this one is exceptionally crucial.
+-   LunaTheme -\> it's actually Royal Theme
+-   'Tahoma'
 
 After this, you can simulate a Windows reboot. Select tab Wine -\>
 Windows reboot. Give it a moment, then you can test it by clicking at
@@ -188,7 +188,7 @@ Do not mess around much with the configuration, you are on own risk.
 However, I did switch the theme, tab Desktop Integration, theme Royal,
 colour Royal Noir.
 
-At this step, you can see we’ve been a long way. Explicit comparison is
+At this step, you can see we've been a long way. Explicit comparison is
 shown underneath, on the left is the default Wine configuration, on the
 right is what we did so far with PlayOnLinux.
 
@@ -205,20 +205,20 @@ download from here:
 [http://wittswallpapers.com/Oldies/displayset.zip](http://wittswallpapers.com/Oldies/displayset.zip)
 
 After you have extracted the compression package, open the the Configure
-window, under the tab Miscellaneous, click at ‘Run a .exe file... ’.
+window, under the tab Miscellaneous, click at 'Run a .exe file... '.
 Locate the install.exe
 ![](http://rmitc.org/wp-content/uploads/2013/04/15.png) Install
 DisplaySet like any other Windows application.
 ![](http://rmitc.org/wp-content/uploads/2013/04/16-Display-set.png)
 
 Once the installation of DisplaySet is done, open the Configure window,
-under the tab Miscellaneous, click at ‘Run a .exe file...’ again. This
+under the tab Miscellaneous, click at 'Run a .exe file...' again. This
 time, the location is
-‘\~/.PlayOnLinux/wineprefix/Office2010/drive\_c/Program
-Files/DisplaySet/DisplaySet.exe’.
+'\~/.PlayOnLinux/wineprefix/Office2010/drive\_c/Program
+Files/DisplaySet/DisplaySet.exe'.
 
 As DisplaySet is open, config it the way you like, below is my
-recommendation, for a seamless Ubuntu look and feel. Don’t forget to
+recommendation, for a seamless Ubuntu look and feel. Don't forget to
 apply the setting before quitting.
 
 ![](http://rmitc.org/wp-content/uploads/2013/04/17.png)
@@ -235,10 +235,10 @@ For even greater theming and look change, you can read from this link:
 
 ### Office in the Dash
 
-By default, PlayOnLinux creates shortcuts on the desktop. That’s all it
+By default, PlayOnLinux creates shortcuts on the desktop. That's all it
 does, no more, no less.
 
-Let’s have Word, Excel and Powerpoint to show up in the dash. To achieve
+Let's have Word, Excel and Powerpoint to show up in the dash. To achieve
 this, move the shortcuts to \~/.local/share/applications.
 
 Now you can look them up in the Dash.
@@ -259,7 +259,7 @@ Log-out and log-in to see the effect.
 
 *The thorough approach:*
 
-I’m sleepy and start yawning alot, so I’ll keep it straightforward:
+I'm sleepy and start yawning alot, so I'll keep it straightforward:
 [http://ubuntuforums.org/showthread.php?t=1940522](http://ubuntuforums.org/showthread.php?t=1940522)
 
 ### Drives
@@ -268,7 +268,7 @@ This step is my personal favorite: with Wine Configuration, you assign a
 certain folder to a drive. To access this, from the main window, click
 at Configure -\> tab Wine -\> Configure Wine -\> tab Drives.
 
-A picture says 1000 words, I’d like to present how I can access RMIT
+A picture says 1000 words, I'd like to present how I can access RMIT
 folder straight from Office.
 
 ![](http://rmitc.org/wp-content/uploads/2013/04/20.png)
@@ -282,13 +282,13 @@ arounds for this problem.
 
 ### The offical PlayOnLinux approach - which fail to work for me:
 
-In PlayOnLinux’s Installation wizard, search for Microsoft Office 2010
+In PlayOnLinux's Installation wizard, search for Microsoft Office 2010
 Activation. ![](http://rmitc.org/wp-content/uploads/2013/04/21.png)
 
-### The ‘xài chùa' approach:
+### The 'xài chùa' approach:
 
 This way, the trial period remains, but it can be extended. I have yet
-test this method (TBH I’ve only been using Office for less than a week),
+test this method (TBH I've only been using Office for less than a week),
 so you can test it at your own risk.
 
 Read here for more detail:
