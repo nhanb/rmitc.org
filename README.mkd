@@ -1,15 +1,27 @@
-[![Build Status](https://travis-ci.org/rmitc/rmitc.org.svg?branch=master)](https://travis-ci.org/rmitc/rmitc.org)
+# rmitc.org [![Build Status](https://travis-ci.org/rmitc/rmitc.org.svg?branch=master)](https://travis-ci.org/rmitc/rmitc.org)
 
-# TODO list:
+Source files for RMIT Vietnam IT Club's [official website][1] (we haven't migrated yet).
 
-- Clean up weird HTML from exported Wordpress posts
-- Set up travis-ci to automatically push to rmitc.github.io when master is updated
-- Migrate images from wp-content - **NOTE**: `2013-04-23-an-email-with-your-own-domain.mkd` uses
-  images from tklarryonline.me too
-- Design Jekyll theme for ITC
-- Point rmitc.org to GitHub Pages
-- Get a life
+# What the hell is this?
 
-# Dead links:
+We use [jekyll][2] to generate HTML from markdown files. New commits in the **mater** branch will
+be built by [travis-ci][3]. If nothing goes wrong, the generated HTML will be pushed to our
+deployment repo at [https://github.com/rmitc/rmitc.github.io][4], where GitHub Pages will host our
+website at **rmitc.org**.
 
-- `2013-04-23-an-email-with-your-own-domain.mkd`: Dead images from tklarryonline.me
+Basically everything is open source and free... except for the domain.
+
+# Whoa, what a bunch of cheapskates!
+
+Not really. Although running all on free services is a huge plus, our main goal is to demonstrate
+that great things can be done based on software and infrastructure powered by the open source
+community.
+
+# Wait, isn't your site running on Wordpress?
+
+We haven't finished migrating yet. Stay tuned!
+
+[1]: http://rmitc.org
+[2]: http://jekyllrb.com
+[3]: https://travis-ci.org/rmitc/rmitc.org
+[4]: https://github.com/rmitc/rmitc.github.io
