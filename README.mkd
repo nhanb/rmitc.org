@@ -4,7 +4,7 @@ Source files for RMIT Vietnam IT Club's [official website][1] (we haven't migrat
 
 # What the hell is this?
 
-We use [jekyll][2] to generate HTML from markdown files. New commits in the **mater** branch will
+We use [jekyll][2] to generate HTML from markdown files. New commits in the **master** branch will
 be built by [travis-ci][3]. If nothing goes wrong, the generated HTML will be pushed to our
 deployment repo at [https://github.com/rmitc/rmitc.github.io][4], where GitHub Pages will host our
 website at **rmitc.org**.
@@ -16,10 +16,6 @@ Basically everything is open source and free... except for the domain.
 Not really. Although running all on free services is a huge plus, our main goal is to demonstrate
 that great things can be done based on software and infrastructure powered by the open source
 community.
-
-# Wait, isn't your site running on Wordpress?
-
-We haven't finished migrating yet. Stay tuned!
 
 [1]: http://rmitc.org
 [2]: http://jekyllrb.com
