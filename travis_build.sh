@@ -8,6 +8,7 @@ jekyll build
 if [ $? != 0 ]; then exit $?; fi
 
 echo "TRAVIS BRANCH IS $TRAVIS_BRANCH"
+echo "BALLS!"
 
 # Only proceed to deployment if this is the master branch
 if [ "$TRAVIS_BRANCH" != master ]; then exit 0; fi
