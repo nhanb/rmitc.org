@@ -47,7 +47,7 @@ one, skip to Step 2*
 **Step 2**: Follow this link [https://appengine.google.com/](https://appengine.google.com/) with
 your Google account and click on **Create Application**
 
-[![01](http://tklarryonline.me/wp-content/uploads/2013/04/01.png)](http://tklarryonline.me/wp-content/uploads/2013/04/01.png)
+[![01](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/an-email-with-your-own-domain-01.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/an-email-with-your-own-domain-01.png)
 
 **Step 3**: It will probably ask you for phone verification. Just type in your mobile phone number
 in Vietnam, wait for the code and fill in the text-box to get this verification step done. Step 4:
@@ -55,29 +55,29 @@ You will be taken to this **Create an Application **form. Just fill in any rando
 fields, you may want to try some funky data to make it unique to pass the uniqueness test. Then
 just click on **Create Application**.
 
-[![02](http://tklarryonline.me/wp-content/uploads/2013/04/02.png)](http://tklarryonline.me/wp-content/uploads/2013/04/02.png)
+[![02](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/an-email-with-your-own-domain-02.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/an-email-with-your-own-domain-02.png)
 
 **Step 5**: Successful! Now click on the **dashboard** link...
 
-[![03](http://tklarryonline.me/wp-content/uploads/2013/04/03.png)](http://tklarryonline.me/wp-content/uploads/2013/04/03.png)
+[![03](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/an-email-with-your-own-domain-03.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/an-email-with-your-own-domain-03.png)
 
 ... look for **Application Settings **and click on it. It's on the left!
 
-[![04](http://tklarryonline.me/wp-content/uploads/2013/04/04.png)](http://tklarryonline.me/wp-content/uploads/2013/04/04.png)
+[![04](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/an-email-with-your-own-domain-04.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/an-email-with-your-own-domain-04.png)
 
 **Step 6**: Scroll down until you see **Domain Setup **section, click on the **Add Domain...**.
 
-[![05](http://tklarryonline.me/wp-content/uploads/2013/04/05.png)](http://tklarryonline.me/wp-content/uploads/2013/04/05.png)
+[![05](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/an-email-with-your-own-domain-05.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/an-email-with-your-own-domain-05.png)
 
 Step 7: You will see this screen appear! Don't mind the text-box! Click on the **Sign up for Google
 Apps Standard » **link...
 
-[![06](http://tklarryonline.me/wp-content/uploads/2013/04/06.png)](http://tklarryonline.me/wp-content/uploads/2013/04/06.png)
+[![06](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/an-email-with-your-own-domain-06.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/an-email-with-your-own-domain-06.png)
 
 ...will open this new page, fill in **your exact (desired) information** and click on **I accept!**
 button.
 
-[![07](http://tklarryonline.me/wp-content/uploads/2013/04/07.png)](http://tklarryonline.me/wp-content/uploads/2013/04/07.png)
+[![07](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/an-email-with-your-own-domain-07.png)](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/04/an-email-with-your-own-domain-07.png)
 
 **Congratulations**! You have basically finished everything needed to give you a **professional
 email address with personal cool-looking domain**! But for now, your login URL for the Google Apps
