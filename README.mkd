@@ -17,6 +17,14 @@ Not really. Although running all on free services is a huge plus, our main goal 
 that great things can be done based on software and infrastructure powered by the open source
 community.
 
+# License
+
+This whole repository is released under the MIT license. See `LICENSE.txt`.
+
+We are using **dbyll** jekyll theme, developed by İsmail Demirbilek. The theme itself is released
+under the MIT license too. Its original license can be found in `_includes/LICENSE`.
+
+
 [1]: http://rmitc.org
 [2]: http://jekyllrb.com
 [3]: https://travis-ci.org/rmitc/rmitc.org
