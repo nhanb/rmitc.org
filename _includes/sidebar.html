@@ -1,0 +1,65 @@
+<! -- sidebar.html -->
+<header class="sidebar-header" role="banner">
+  <a href="{{ site.BASE_PATH }}/">
+    <img src="http://www.gravatar.com/avatar/{{site.info.email_md5}}?s=150" class="img-circle" />
+  </a>
+  <h3 class="title">
+    <a href="{{ site.BASE_PATH }}/">{{ page.title }}</a>
+  </h3>
+</header>
+
+{% if site.info.bio %}
+<div id="bio" class="text-center">
+  {{ site.info.bio }}
+</div>
+{% endif %}
+
+<div id="contact-list" class="text-center">
+  <ul class="list-unstyled list-inline">
+    {% if site.info.github %}
+    <li>
+      <a class="btn btn-default btn-sm" href="https://github.com/{{ site.info.github }}">
+        <i class="fa fa-github-alt fa-lg"></i>
+      </a>
+    </li>
+    {% endif %}
+    {% if site.info.facebook %}
+    <li>
+      <a class="btn btn-default btn-sm" href="https://facebook.com/{{ site.info.facebook }}">
+        <i class="fa fa-facebook-square fa-lg"></i>
+      </a>
+    </li>
+    {% endif %}
+    {% if site.info.twitter %}
+    <li>
+      <a class="btn btn-default btn-sm" href="https://twitter.com/{{ site.info.twitter }}">
+        <i class="fa fa-twitter fa-lg"></i>
+      </a>
+    </li>
+    {% endif %}
+    {% if site.info.email %}
+    <li>
+      <a class="btn btn-default btn-sm" href="mailto:{{ site.info.email }}">
+        <i class="fa fa-envelope fa-lg"></i>
+      </a>
+    </li>
+    {% endif %}
+  </ul>
+  <ul id="contact-list-secondary" class="list-unstyled list-inline">
+    {% if site.info.pinterest %}
+    <li>
+      <a class="btn btn-default btn-sm" href="https://pinterest.com/{{ site.info.pinterest }}">
+        <i class="fa fa-pinterest fa-lg"></i>
+      </a>
+    </li>
+    {% endif %}
+    {% if site.info.linkedin %}
+    <li>
+      <a class="btn btn-default btn-sm" href="https://linkedin.com/pub/{{ site.info.linkedin }}">
+        <i class="fa fa-linkedin fa-lg"></i>
+      </a>
+    </li>
+    {% endif %}
+  </ul>
+</div>
+<! -- sidebar.html end -->
