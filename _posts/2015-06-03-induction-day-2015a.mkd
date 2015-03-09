@@ -5,29 +5,41 @@ author: DienBui
 categories: [activity]
 ---
 
-> In the Induction Day, we will give you detailed information about
-> the upcoming events and the IT Club's executive election
+> In the Induction Day, we will give you detailed information
+> about the upcoming events and the IT Club's executive election.
 
-In this semester, IT Club will organize the following events    
+**Every Saturday from Week 3 to Week 11: Tech talk** 
+An event for IT Students to learn from each other, even 
+from IT Alumni who are now working in IT Industries.
 
-**Wednesday Week 3:** Induction Day (on this day we will introduce the upcoming
-events of IT Club to all members to know in details, you will have a chance to
-make friends with everyone and participate in interesting activities we have
-planned for you. We will also inform you about the upcoming IT Club’s executive
-election for 2015B - 2016A.  
+**Wednesday of Week 8 and Week 9: Ruby on Rails (RoR) workshop** 
+Ruby on Rails is a very powerful web framework, for more information about RoR 
+you can check out this [website](http://rubyonrails.org/). This event will focus on testing with Rails, 
+which can be very useful for students who are taking Software Engineering 
+Process and Tool this semester.
 
-**Every Saturday from Week 3 to Week 11:** Tech talk (An event for IT Students to
-learn from each other, even from IT Alumni who are now working in IT Industries.
-)  
+**Saturday Week 10: Team-building party** 
+In this party you will have a chance to relax before the tough upcoming final exam, 
+make friends and on that day we will announce the new executives  IT Club.   
 
-**Wednesday of Week 8 and Week 9:** Ruby on Rails workshop (This event will focus on
-testing with Rails, which can be very useful for students who are taking
-Software Engineering Process and Tool this semester)  
+**Optional** 
+We intent to organize a GIT workshop for students in Process and Tool course. 
+This event will be established depending on the students’ demand. For more 
+information on Git, you can check out this [website](http://www.git-scm.com/).   
 
-**Saturday Week 10:** Team-building party (in this party you will have a chance to
-relax before the tough upcoming final exam, make friends and on that day we will
-announce the new executives for IT Club)   
 
-**Optional** We intent to organize a GIT workshop for students in Process and Tool
-course. This event will be established depending on the students’ demand.   
+## Executive Election (2015B - 2016A period)
+The executive election has **3** states. 
 
+In the first state, you will need to tell us the position(s) you would like to 
+nominate for in this [form](http://goo.gl/gYvnUa). 
+
+In the second state, after submitting the form you will have to submit your nomination 
+letter (please remember to put your name in the letter's title) and your picture to this 
+email address: **s3445846@rmit.edu.vn**.
+
+**Remember: The deadline for the first 2 states is Sunday Week 9.**
+
+The final state is the voting. This will last from **Monday Week 10 to Friday Week 10**, 
+every member in the club can vote for their favorite candidates. On **Saturday week 10**, 
+we will inform everyone about the next executives of IT Club.
