@@ -1,4 +1,5 @@
-yout: post
+---
+layout: post
 title: Induction Day 2015A
 author: DienBui
 categories: [activity]
