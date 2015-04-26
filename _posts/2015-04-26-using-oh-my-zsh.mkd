@@ -1,0 +1,96 @@
+---
+layout: post
+title: Using oh-my-zsh
+author: Dien-Bui
+categories: [tutorials]
+---
+
+> Oh-my-zsh is an open source, community-driven framework for managing zsh and it is FREE. It has
+> more than 180 optional plugin (rails, git, ...) and more than 120 theme for your Terminal
+> and an auto-update tool to keep oh-my-zsh up-to-date.
+
+In this tutorial, I will guide you to install it on your PC/laptop. The great thing about this is 
+that you can customize your Terminal, add plugins. Unlike the bashrc, which does not look attractive 
+and can make it difficult for you to use when working on large IT projects. 
+
+## Pre-requisites
+
+-   Linux or Mac OSX because Oh-my-zsh works best on Unix-based OS
+-   zsh must be pre-installed. In Mac OSX, it is already pre-installed. On Linux, you will need to type command in the Terminal to install:
+
+For **Debian/Ubuntu**
+```
+$ sudo apt-get install zsh
+```
+For **Fedora**
+```
+$ sudo yum install zsh
+```
+
+-   **curl** or **wget** should be installed.
+
+## Install oh-my-zsh
+
+-   via **curl**
+
+```
+$ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+```
+
+-   via **wget**
+
+```
+$ wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - | sh
+```
+
+## Change default shell
+
+```
+$ chsh -s /bin/zsh
+```
+
+For some OS, you may need to restart your computer for this to take effect.
+
+## Changing Terminal theme
+
+Now you have successfully installed oh-my-zsh. You will need to change the theme that is suitable for you, 
+instead of using the default one. To change it, you will need to modify the file **.zshrc**:
+
+```
+$ cd
+$ vim .zshrc
+```
+
+In this tutorial, I use vim text editor, you can use other text editor if you like. Next, locate this line in
+the file:
+
+```
+ZSH_THEME="robbyrussell"
+```
+
+Change the name "robbyrussell" to another name of another theme. You can have a look of all the available themes 
+on this [website](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes).
+
+Finally, just restart the Terminal and you will see the difference.
+
+## Adding plugins
+
+In the **.zshrc**, you add this line to it to enable the plugins
+
+```
+plugins=(git bundler osx rake ruby)
+```
+
+You can add more or remove plugins if you like. To use the plugins, most of them have README file, which documents how
+to use them.
+
+## Updating oh-my-zsh
+
+It will update automatically, but if you want to do so manually just simply type this command in Terminal:
+
+```
+$ upgrade_oh_my_zsh
+```
+
+For more information about oh-my-zsh, you can have a look at this [website](http://ohmyz.sh/).
+
