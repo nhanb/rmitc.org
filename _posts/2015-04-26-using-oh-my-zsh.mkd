@@ -18,11 +18,14 @@ and can make it difficult for you to use when working on large IT projects.
 -   Linux or Mac OSX because Oh-my-zsh works best on Unix-based OS
 -   zsh must be pre-installed. In Mac OSX, it is already pre-installed. On Linux, you will need to type command in the Terminal to install:
 
-For **Debian/Ubuntu**
+For **Debian/Ubuntu**:
+
 ```
 $ sudo apt-get install zsh
 ```
-For **Fedora**
+
+For **Fedora**:
+
 ```
 $ sudo yum install zsh
 ```
@@ -51,7 +54,7 @@ $ chsh -s /bin/zsh
 
 For some OS, you may need to restart your computer for this to take effect.
 
-## Changing Terminal theme
+## Change Terminal theme
 
 Now you have successfully installed oh-my-zsh. You will need to change the theme that is suitable for you, 
 instead of using the default one. To change it, you will need to modify the file **.zshrc**:
@@ -73,7 +76,7 @@ on this [website](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes).
 
 Finally, just restart the Terminal and you will see the difference.
 
-## Adding plugins
+## Add plugins
 
 In the **.zshrc**, you add this line to it to enable the plugins
 
