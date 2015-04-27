@@ -5,13 +5,13 @@ author: hadobac
 categories: [tutorials]
 ---
 
-Smartphones technology is all about the next big thing, you know it, with the Galaxy Note 3 and
-iPhone 5S coming and everybody is getting frenzy. It's an annual thing that phone manufacturers
-release new flagships with leading edge specs,  in order to drive customer demands. However, beside
-those tech reviewers from sites like Engadget, most of us don't have the budget to purchase every
-phones. Besides, most of the improvement associated with these new devices are incremental, such as
-a bit faster CPU, a bit more RAM, a bit more fancy camera... Yet, as soon as these badboys appear
-on shelves, people buying them like hotcakes, with rdiiculously high price.
+> Smartphones technology is all about the next big thing, you know it, with the Galaxy Note 3 and
+> iPhone 5S coming and everybody is getting frenzy. It's an annual thing that phone manufacturers
+> release new flagships with leading edge specs,  in order to drive customer demands. However, beside
+> those tech reviewers from sites like Engadget, most of us don't have the budget to purchase every
+> phones. Besides, most of the improvement associated with these new devices are incremental, such as
+> a bit faster CPU, a bit more RAM, a bit more fancy camera... Yet, as soon as these badboys appear
+> on shelves, people buying them like hotcakes, with ridiculously high price.
 
 [First week of iPhone 5 sales, Apple sold 5 millions in the USA
 alone](http://usatoday30.usatoday.com/tech/story/2012/09/24/first-week-of-iphone-5-sales/57834504/1)
