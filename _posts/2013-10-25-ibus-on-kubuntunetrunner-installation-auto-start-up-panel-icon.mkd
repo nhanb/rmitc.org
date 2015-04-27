@@ -5,9 +5,9 @@ author: hadobac
 categories: [tutorials]
 ---
 
-*This tutorial is for Kubuntu/Netrunner users. If you are with Ubuntu 13.10 and having trouble
-spotting the good old indicator, click*
-[here](http://www.localizingjapan.com/blog/2013/10/20/japanese-input-on-ubuntu-linux-13-10-saucy-salamander/).
+> This tutorial is for Kubuntu/Netrunner users. If you are with Ubuntu 13.10 and having trouble
+> spotting the good old indicator, click
+> [here](http://www.localizingjapan.com/blog/2013/10/20/japanese-input-on-ubuntu-linux-13-10-saucy-salamander/).
 
 ![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2013/10/outcome1-1024x575.png "Netrunner 5
 'Enigma' running IBus succesfully")
