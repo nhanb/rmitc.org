@@ -5,7 +5,7 @@ author: truongtx
 categories: [activities]
 ---
 
-Here is the summary of what we have covered in the Git Workshop
+> Here is the summary of what we have covered in the Git Workshop
 
 -   Overview of Version Control System
 -   Overview of Git
