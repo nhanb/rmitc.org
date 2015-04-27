@@ -5,18 +5,16 @@ author: tklarryonline
 categories: [tutorials]
 ---
 
-## Requirements
-
-Before proceeding, we assume you already have Ubuntu installed on your machine and provided with a
-valid administrator account (or an account with sudo capability). Here is the list of requirements
-for Ubuntu to install all of the following parts of Ruby on Rails:
-
--   Internet connection: to download and install necessary libraries and applications.
--   Sufficient system software: **curl**, **nodejs**, **libmysqlclient-dev** (required to use
-    mysql2 gem), **libpq-dev** (required for pg gem). You can
-    [install](http://www.howtogeek.com/63997/how-to-install-programs-in-ubuntu-in-the-command-line/)
-    those with command: **sudo apt-get install app1 app2** ... (e.g.: **sudo apt-get install curl
-    nodejs** and provide your password).
+> Before proceeding, we assume you already have Ubuntu installed on your machine and provided with a
+> valid administrator account (or an account with sudo capability). Here is the list of requirements
+> for Ubuntu to install all of the following parts of Ruby on Rails:
+>
+> -   Internet connection: to download and install necessary libraries and applications.
+> -   Sufficient system software: **curl**, **nodejs**, **libmysqlclient-dev** (required to use
+>     mysql2 gem), **libpq-dev** (required for pg gem). You can
+>     [install](http://www.howtogeek.com/63997/how-to-install-programs-in-ubuntu-in-the-command-line/)
+>    those with command: **sudo apt-get install app1 app2** ... (e.g.: **sudo apt-get install curl
+>    nodejs** and provide your password).
 
 ## Installing RVM
 
