@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Announcement about Robocode 2011A
-categories: [activity, competition, robocode]
+categories: [Activities, competition, robocode]
 tags: [2011a, delay, robocode]
 status: publish
 type: post

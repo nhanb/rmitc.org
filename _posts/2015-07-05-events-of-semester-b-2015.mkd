@@ -7,8 +7,9 @@ categories: [announcements]
 
 > In this semester, IT Club has had new executives and they are about to bring you
 > the awesome workshops/events for everyone (including non-IT students) to enjoy and
-> learn more about technology. We will organize 3 main events: WordPress workshop, Unity
-> game engine workshop and Silicon Straits Saigon industrial tour.
+> learn more about technology. We will organize 2 main events: WordPress workshop
+> and Silicon Straits Saigon industrial tour. Also, this semester, Center of Technology
+> will organize 3 events with collaboration from IT Club.
 
 ## WordPress workshop
 You will have a chance to create your own website/blog without having to **type any complicated HTML/CSS code**. There is no pre-requisite in order to join the workshop, the speaker will instruct you step-by-step on how to construct and decorate a simple website with speed and ease. For more information about WordPress, you can check out this [website](https://en.wikipedia.org/wiki/WordPress).
@@ -17,12 +18,23 @@ You will have a chance to create your own website/blog without having to **type 
 - **Time**: 12h30pm - 2h00pm
 - **Room**: 1.2.26
 
-## Unity game engine workshop
-In this workshop, you will learn to create a very simple mobile/desktop game (Space Invader) with Unity. We suggest that you should have some basic knowledge about object-oriented programming in Intro to Programming course to help you easily understand the "magic" of the game engine. To have a good preparation before the workshop, you should bring your own laptop to be able to practice with us and install [Unity game engine](http://unity3d.com/get-unity) in advance.
+## Events from Center of Technology (in collaboration with IT Club)
+In this semester, the Center of Technology will organize 3 workshops for everyone to join.
 
-- **Date**: Wednesday of Week 4,5 (15 and 22/7/2015)
-- **Time**: *to be announced soon*
-- **Room**: *to be announced soon*
+**MOBILE GAME WORKSHOP**
+- **Date**: Wednesday of Week 4 (15/7/2015)
+- **Time**: 9h00am - 11h00am
+- **Room**: SGS 2.3.05
+
+**MOBILE START-UP**
+- **Date**: Wednesday of Week 5 (22/7/2015)
+- **Time**: 9h00am - 11h00am
+- **Room**: SGS Sydney Theater (2.1.04)
+
+**BUS E-TICKET AND UBER EXPERIENCE**
+- **Date**: Wednesday of Week 6 (29/7/2015)
+- **Time**: 9h00am - 11h00am
+- **Room**: SGS Sydney Theater (2.1.04)
 
 ## Silicon Straits Saigon (SSS) Industrial tour
 Have you ever wondered what an IT industry is like and do you want to see the life of the "pirates" in SSS? This industrial tour will be the chance for you to explore the office in Sai Gon that is similar to Google's office. Some of the ex-members of IT Club are working there and they highly appreciate the workplace's quality. For more information about SSS, please check out the company's [website](http://siliconstraits.vn/).

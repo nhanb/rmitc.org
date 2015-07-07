@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conkeror and How it changed the way I surf the web"
-categories: [activity, IT Insight Series, Tutorial]
+categories: [Activities, IT Insight Series, Tutorials]
 tags: [conkeror, emacs, web browser]
 author: truongtx
 ---

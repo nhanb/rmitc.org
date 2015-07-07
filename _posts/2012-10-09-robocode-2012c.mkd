@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robocode is back this semester 2012C!!! (Updated)
-categories: [Activity, Competition, News, Robocode]
+categories: [Activities, Competition, News, Robocode]
 tags: []
 status: publish
 type: post

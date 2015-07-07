@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KMS Experience July 2012
-categories: [activity, Business, Industrial Tours - Partnership]
+categories: [Activities, Business, Industrial Tours - Partnership]
 tags: []
 status: publish
 type: post
@@ -9,7 +9,7 @@ published: true
 author: minhdao
 ---
 
-> 
+>
 
 What's up RMITC boys and girls?!
 

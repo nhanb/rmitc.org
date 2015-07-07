@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BBQ Party - 15h-18h Sun 13-03-2011 (Sem 2011A)
-categories: [activity, gallery, Hippie & Fun Stuff, Party]
+categories: [Activities, gallery, Hippie & Fun Stuff, Party]
 tags: [bbq, party]
 status: publish
 type: post
@@ -9,7 +9,7 @@ published: true
 author: locvu
 ---
 
-> 
+>
 
 <p><strong>BBQ Party<br>
   15h-18h Sunday, 13-03-2011 (Semester 2011A)</strong></p>

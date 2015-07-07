@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prezi Workshop Semester C - 2010
-categories: [activity, IT Insight Series, workshops]
+categories: [Activities, IT Insight Series, workshops]
 tags: [IT Club, ITC, prezi, RMIT]
 status: publish
 type: post

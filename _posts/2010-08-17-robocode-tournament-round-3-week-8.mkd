@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robocode Tournament Round 3 (Week 8)
-categories: [activity, competition, robocode]
+categories: [Activities, competition, robocode]
 tags: []
 status: publish
 type: post

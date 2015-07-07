@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vim''s Awesomeness #1: The basic stuff'
-categories: [Activity, IT Insight Series, Tutorial]
+categories: [Activities, IT Insight Series, Tutorials]
 tags: [gvim, programming techniques, tutorial, vim]
 status: publish
 type: post

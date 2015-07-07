@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robocode 2010B Is Near
-categories: [activity, competition, robocode]
+categories: [Activities, competition, robocode]
 tags: [2010B, competition, robocode]
 status: publish
 type: post

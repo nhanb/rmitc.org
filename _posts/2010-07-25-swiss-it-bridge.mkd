@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Swiss IT Bridge
-categories: [activity]
+categories: [Activities]
 tags: [2010B]
 status: publish
 type: post

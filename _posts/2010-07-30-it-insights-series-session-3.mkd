@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IT Insights Series - Session 3
-categories: [activity, IT Insight Series]
+categories: [Activities, IT Insight Series]
 tags: [2010B, insight]
 status: publish
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Day Sem 2011A
-categories: [activity, For RMIT, Gallery, Open Day]
+categories: [Activities, For RMIT, Gallery, Open Day]
 tags: [2011a]
 status: publish
 type: post
@@ -9,7 +9,7 @@ published: true
 author: locvu
 ---
 
-> 
+>
 
 <p><a href="http://img3.imageshack.us/g/img0816wv.jpg/" target="_blank"><strong>Link photo album</strong></a></p>
 <p><a href="http://i2.wp.com/img31.imageshack.us/i/img0815wv.jpg/" target="_blank"><img src="http://i1.wp.com/img31.imageshack.us/img31/607/img0815wv.th.jpg?w=940" border="0" width="150" height="113"></a> <a href="http://i1.wp.com/img3.imageshack.us/i/img0816wv.jpg/" target="_blank"><img src="http://i2.wp.com/img3.imageshack.us/img3/4199/img0816wv.th.jpg?w=940" border="0" width="150" height="113"></a> <a href="http://i1.wp.com/img215.imageshack.us/i/img0817a.jpg/" target="_blank"><img src="http://i1.wp.com/img215.imageshack.us/img215/2714/img0817a.th.jpg?w=940" border="0" width="150" height="113"></a></p>

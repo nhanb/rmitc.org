@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Update 1 - Tournament Dates Delay] 2012C Robocode Tournament"
-categories: [Activity, Competitions, News, Robocode]
+categories: [Activities, Competitions, News, Robocode]
 tags: [2012c, robocode, tournament, update 1]
 status: publish
 type: post
@@ -9,7 +9,7 @@ published: true
 author: minhdao
 ---
 
-> 
+>
 
 What's up boys and girls,
 

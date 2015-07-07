@@ -2,7 +2,7 @@
 layout: post
 title: Information Day 2010A
 author: phunehehe
-categories: [activity]
+categories: [Activities]
 ---
 
 > Hello guys, These are photos from our club's booth on Information Day

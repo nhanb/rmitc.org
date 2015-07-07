@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free Pizza Lunch - Tue 22-03-2011
-categories: [activity, gallery, Hippie & Fun Stuff]
+categories: [Activities, gallery, Hippie & Fun Stuff]
 tags: [2011a, free pizza]
 status: publish
 type: post
@@ -9,7 +9,7 @@ published: true
 author: locvu
 ---
 
-> 
+>
 
 <p><a href="http://img135.imageshack.us/g/img0882o.jpg/" target="_blank"><strong>Link photo album</strong></a></p>
 <p><a href="http://rmitc.org/?p=460" target="_blank"><strong>Open Day – Sun 20-03-2011 (Sem 2011A)</strong></a></p>

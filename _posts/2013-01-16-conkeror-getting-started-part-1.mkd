@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conkeror - Getting Started - Part 1"
-categories: [activity, IT Insight Series, Tutorial]
+categories: [Activities, IT Insight Series, Tutorials]
 tags: [conkeror, emacs, web browser]
 author: truongtx
 ---

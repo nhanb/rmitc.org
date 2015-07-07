@@ -2,7 +2,7 @@
 layout: post
 title: Robocode - AI Programming Competition
 author: phunehehe
-categories: [activity, competition]
+categories: [Activities, competition]
 ---
 
 > This semester RMITC

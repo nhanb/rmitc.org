@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mobile Guest Lecture
-categories: [activity, IT Insight Series, Seminars]
+categories: [Activities, IT Insight Series, Seminars]
 tags: []
 status: publish
 type: post

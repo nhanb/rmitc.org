@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[RMIT] SGS and Hanoi campuses raise more than 60 million VND for Japan victims"
-categories: [activity, charity, News, RMIT Spirit]
+categories: [Activities, charity, News, RMIT Spirit]
 tags: [donate, japan]
 status: publish
 type: post
