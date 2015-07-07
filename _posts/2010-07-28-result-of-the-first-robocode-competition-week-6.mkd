@@ -13,17 +13,15 @@ author: duynguyen
   held on Monday week 6 (26 July 2010), in Bowen room. This is the results
   of all matches in the first session. KFC, which was made by Thai Ly
   Cuong, has been the champion of our tournament until now.
-  
+
 <p>
-  <!-- Artiss Code Embed v2.0.2 | http://www.artiss.co.uk/code-embed -->
   <object width="600" height="520">
     <param name="result" value="http://spreadsheets.google.com/pub?key=teowTjljdTZ3oxcr4ken-kg&amp;output=html">
 
     <param name="allowFullScreen" value="true">
     <param name="allowscriptaccess" value="always">
     <embed src="http://spreadsheets.google.com/pub?key=teowTjljdTZ3oxcr4ken-kg&amp;output=html" allowscriptaccess="always" allowfullscreen="true" width="600" height="520">
-  </object>
-  <!-- End of Artiss Code Embed code -->
+  </object>  
     </p>
 
     <p>
