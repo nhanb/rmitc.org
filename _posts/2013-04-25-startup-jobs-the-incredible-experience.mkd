@@ -5,13 +5,13 @@ author: tommyly
 categories: [career]
 ---
 
-So... today is my last day officially working for Keewi - a very cool startup in Saigon. It's
+> So... today is my last day officially working for Keewi - a very cool startup in Saigon. It's
 almost 1 year since the first time I knew about this awesome team and its famous event Start Me Up
 - the only monthly entrepreneurship event in Saigon. Looking back, it was an amazing journey that
 brought me to the technology world and expose to a new way of thinking about this world, which is
 totally different from what I've believed before. Listening to the song Humanity in Motion inspires
 me to write a short post for youngsters who want to tip a toe in a startup world. These are all the
-awesome experiences I want to share with you:
+awesome experiences I want to share with you.
 
 ## Diversity of skills
 

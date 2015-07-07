@@ -9,12 +9,11 @@ published: true
 author: duynguyen
 ---
 
-<p>The first round of our Robocode tournament was
+> The first round of our Robocode tournament was
   held on Monday week 6 (26 July 2010), in Bowen room. This is the results
   of all matches in the first session. KFC, which was made by Thai Ly
   Cuong, has been the champion of our tournament until now.
-</p>
-
+  
 <p>
   <!-- Artiss Code Embed v2.0.2 | http://www.artiss.co.uk/code-embed -->
   <object width="600" height="520">

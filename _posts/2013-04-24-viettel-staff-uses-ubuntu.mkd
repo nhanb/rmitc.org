@@ -5,7 +5,7 @@ author: hadobac
 categories: [news]
 ---
 
-Ever since I was introduced to Ubuntu 5 years ago, I have sticked with
+> Ever since I was introduced to Ubuntu 5 years ago, I have sticked with
 it and never go back. I guess I was lucky, as my first impression with
 Ubuntu was flawless, it was so fresh that it blew me away.
 

@@ -1,13 +1,10 @@
 ---
 layout: post
-title: 'Ultimate tutorial: Install Microsoft Office
-2010 on Ubuntu with font smoothing using PlayOnLinux/WINE'
+title: 'Ultimate tutorial: Install Microsoft Office 2010 on Ubuntu with font smoothing using PlayOnLinux/WINE'
 categories: [tutorials]
 ---
 
-## Ultimate Microsoft Office 2010 installation on Ubuntu
-
-In this post, contributor Do Bac Ha presents a thorough instruction on
+> In this post, contributor Do Bac Ha presents a thorough instruction on
 how to install Microsoft Office 2010 on Ubuntu, while giving tips on how
 to optimize the installation procedure, for a seamless user experience.
 

@@ -5,9 +5,7 @@ author: truongtx
 categories: [tutorials]
 ---
 
-## Introduction
-
-Nowadays, with the development of technology, you probably own more then
+> Nowadays, with the development of technology, you probably own more then
 one technological devices. You can have a Windows PC for playing games
 at home, a MacOS computer for working purpose and a Windows Phone one
 for on-the-go entertainment. One popular problem for people who have

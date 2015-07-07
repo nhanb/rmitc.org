@@ -9,7 +9,7 @@ published: true
 author: anhnguyen
 ---
 
-Just a reminder. Robocode registration deadline
+> Just a reminder. Robocode registration deadline
 is Saturday (24/7) midnight. Robot submission deadline is Sunday
 midnight. The first session will be at 4PM Monday (26/7) in Bowen room.
 

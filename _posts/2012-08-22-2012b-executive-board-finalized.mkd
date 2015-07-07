@@ -9,7 +9,7 @@ published: true
 author: nhanb
 ---
 
-The vote for our next executive board members has ended. To
+> The vote for our next executive board members has ended. To
 be frank, it wasn't that exciting since there are no newcomers apart
 from Bach. Everything turned out to be a race for vice-president
 position between him and Nhan. Here is the final result taken from

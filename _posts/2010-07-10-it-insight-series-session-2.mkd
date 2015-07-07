@@ -5,7 +5,7 @@ author: khangnguyen
 categories: [activities]
 ---
 
-[IT Career Pathways Research
+> [IT Career Pathways Research
 Opportunities](http://vimeo.com/13567695) from [Hoang Xuan
 Phu](http://vimeo.com/phunehehe) on [Vimeo](http://vimeo.com).
 
@@ -21,4 +21,3 @@ development**. The speeches were carried out by Mr. Anthony De Souza-Daw
 -   IT Career pathways - by **Anthony DeSouza-Daw**
 -   Research Opportunities - by **Anthony DeSouza-Daw**
 -   Employers' criteria in IT industry - by **Bui The Hoa**
-

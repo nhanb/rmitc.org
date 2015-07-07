@@ -9,13 +9,11 @@ published: true
 author: anhnguyen
 ---
 
-<p>
-The last Robocode session was held at 4PM on Monday in Bowen room. It
+> The last Robocode session was held at 4PM on Monday in Bowen room. It
 was much more exciting than last week's session. Besides the improved
 quality of robots, the new activity - betting - played an important role
 in stirring up the atmosphere. Spectators took bets on their beloved
 robots, accumulating points to exchange for sweet rewards at the end.
-</p>
 
 <p>
 Some interesting facts:
@@ -46,6 +44,3 @@ were
 Competitors can use them to test their new strategies. Hopefully this
 will make the ultimate showdown even more thrilling.
 </p>
-
-
-

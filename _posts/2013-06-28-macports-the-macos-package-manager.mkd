@@ -5,9 +5,7 @@ author: truongtx
 categories: [tutorials]
 ---
 
-## Introduction
-
-For Ubuntu Linux, we have a powerful package manager called **apt**
+> For Ubuntu Linux, we have a powerful package manager called **apt**
 which makes the installation, uninstallation and management of package
 much easier. Sadly, for MacOS users, we don't have that powerful tool.
 The appearance of **MacPorts**, an open source package manager for

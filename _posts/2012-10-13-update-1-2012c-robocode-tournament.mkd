@@ -9,8 +9,9 @@ published: true
 author: minhdao
 ---
 
-What's
-up boys and girls,
+> 
+
+What's up boys and girls,
 
 Due to some issues during the room-booking process,
 we are terribly sorry to inform you that the tournament  must be moved

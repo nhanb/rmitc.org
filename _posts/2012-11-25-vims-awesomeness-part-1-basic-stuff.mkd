@@ -9,7 +9,7 @@ published: true
 author: nhanb
 ---
 
-![vim logo](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2012/11/vim-editor_logo-300x300.png)
+> ![vim logo](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2012/11/vim-editor_logo-300x300.png)
 
 For RMIT guys who have studied Programming Techniques, you must have
 been introduced to the famous (and somewhat intimidating) text editor

@@ -5,8 +5,7 @@ author: linh
 categories: [tutorials]
 ---
 
-There are many
-students who are now very excited in taking part in Fedora and other
+> There are many students who are now very excited in taking part in Fedora and other
 Linux Operating Systems (or only me in this campus). So in order to help
 you guys connect to the Internet on campus, I am very happy to give you
 some solutions. The first solution is for Firefox and the second one is

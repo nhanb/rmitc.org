@@ -10,7 +10,8 @@ author: duynguyen
 ---
 
 
-<p><img title="Prezi workshop" src="http://i1.wp.com/img543.imageshack.us/img543/8347/flyer2z.jpg?resize=594%2C840" alt=""></p>
+> <img title="Prezi workshop" src="http://i1.wp.com/img543.imageshack.us/img543/8347/flyer2z.jpg?resize=594%2C840" alt="">
+
 <p>Presentation has become an  indispensible part of most courses at RMIT. In order to support those &nbsp;presentations, you usually use Microsoft Power Point (PP) to make  slides. The repetition of PP slides has become more and more boring for  every student at the university. As a result, you need a new tool to  replace this product of Microsoft.</p>
 <p>Prezi presents itself as a perfect  alternative in this case. It is automated, free, portable, easy and  more importantly fun to use. Three semesters ago, one group in PCP, a  course of IT program, achieved the highest mark when they used Prezi to  support their presentation. Mr. Quang Tran, a lecturer of IT department,  also encourages the use of Prezi in his classes. The automation of  Prezi shows makes presentations more interesting, and of course, removes  the sleepiness of the audience.</p>
 <p>Realizing the need of students for this tool, IT Club will organize a series of Prezi workshop in week 3. There are three sessions, delivering the same content:</p>
@@ -23,4 +24,4 @@ author: duynguyen
 <p>What are you waiting for? Just write a comment for this post to confirm your participation in one of these 3 sessions, or register by 5pm Sunday 31 Oct to:</p>
 <p>Nguyen Thanh Huy<br>
   Email: s3255150@rmit.edu.vn<br>
-  Phone number: 0932184185</p>                                            
+  Phone number: 0932184185</p>

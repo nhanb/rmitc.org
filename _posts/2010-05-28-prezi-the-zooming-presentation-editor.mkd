@@ -5,9 +5,7 @@ author: phunehehe
 categories: [activities]
 ---
 
-## Introduction
-
-[Prezi](http://prezi.com) is a web-based tool to create zooming
+> [Prezi](http://prezi.com) is a web-based tool to create zooming
 presentations. Unlike the traditional way using boring PowerPoint slides
 to show off your message to the audience, Prezi uses a single canvas to
 hold all contents, then we can easily zoom to each part based on a

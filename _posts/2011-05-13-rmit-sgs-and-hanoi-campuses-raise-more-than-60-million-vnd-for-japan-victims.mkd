@@ -9,13 +9,12 @@ published: true
 author: locvu
 ---
 
-**Link:**
-[https://online.rmit.edu.vn/community/news/2883](https://online.rmit.edu.vn/community/news/2883)
-
-Students on both campuses of RMIT Vietnam have raised around 60 million
+> **Link:**
+> [https://online.rmit.edu.vn/community/news/2883](https://online.rmit.edu.vn/community/news/2883).
+> Students on both campuses of RMIT Vietnam have raised around 60 million
 dong to support Japanese earthquake and tsunami victims.
 
-![Japan](https://online.rmit.edu.vn/sites/default/files/styles/201x142/public/japan_0.gif)
+> ![Japan](https://online.rmit.edu.vn/sites/default/files/styles/201x142/public/japan_0.gif)
 
 At Saigon South campus, students from IT Club in cooperation with
 several other student clubs raised around 56 million dong during a

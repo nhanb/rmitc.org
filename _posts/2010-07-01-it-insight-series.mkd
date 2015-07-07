@@ -5,7 +5,7 @@ author: phunehehe
 categories: [activities]
 ---
 
-[IT Insight
+> [IT Insight
 Series](http://prezi.com/r5d1cudxtsb7/it-insight-series/) on
 [Prezi](http://prezi.com)
 

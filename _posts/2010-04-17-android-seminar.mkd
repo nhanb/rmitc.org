@@ -5,9 +5,7 @@ author: anhnguyen
 categories: activities
 ---
 
-## What is Android?
-
-[Android](http://www.android.com/) is an opensource operating system for
+> [Android](http://www.android.com/) is an opensource operating system for
 mobile phones developed by Google. This operation system is supported by
 many mobile phone manufacturers like HTC, Samsung, Motorola and Sony
 Ericsson. Android is designed to help developers build applications

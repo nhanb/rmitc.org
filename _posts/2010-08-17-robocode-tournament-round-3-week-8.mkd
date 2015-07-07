@@ -9,12 +9,11 @@ published: true
 author: anhnguyen
 ---
 
-<p>Last Monday the Robocode tournament concluded with an extremely fun
-  session.</p>
-
-<p>Betting was continued to be featured. However, most "gamblers" lost this
+> Last Monday the Robocode tournament concluded with an extremely fun
+  session.
+> Betting was continued to be featured. However, most "gamblers" lost this
   time due to the surprise brought about by robots that were updated from
-  the last session.</p>
+  the last session.
 
 <p>Some notable facts:
   <ul>

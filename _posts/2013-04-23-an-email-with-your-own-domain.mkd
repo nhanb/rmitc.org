@@ -5,7 +5,7 @@ author: tklarryonline
 categories: [tutorials]
 ---
 
-So you have your own domain. What's next?
+> So you have your own domain. What's next?
 
 ## part 1: an email with your own domain? that's easy!
 

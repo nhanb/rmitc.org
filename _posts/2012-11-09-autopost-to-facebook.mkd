@@ -9,7 +9,7 @@ published: true
 author: nhanb
 ---
 
-It's been a while since we last updated anything here. Don't worry!
+> It's been a while since we last updated anything here. Don't worry!
 We're planning on series of articles about \<censored\> here, and you
 will all see the latest updates on our facebook page automatically. Stay
 tuned!

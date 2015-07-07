@@ -5,9 +5,7 @@ author: hadobac
 categories: [tutorials]
 ---
 
-## About human brainwaves
-
-People keep saying human brain can do truly legendary stuff. Some claim
+> People keep saying human brain can do truly legendary stuff. Some claim
 most individuals only take advantage of 10% of the capacity of the
 brain. But when it comes to the manipulate the humna brain to make the
 most out of it, they never say.

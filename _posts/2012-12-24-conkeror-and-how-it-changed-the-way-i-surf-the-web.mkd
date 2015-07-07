@@ -6,7 +6,7 @@ tags: [conkeror, emacs, web browser]
 author: truongtx
 ---
 
-For those of you who haven't known about Conkeror yet, here is a brief description about it:
+> For those of you who haven't known about Conkeror yet, here is a brief description about it:
 
 > Conkeror is a keyboard-oriented, highly-customizable, highly-extensible web
 > browser based on Mozilla XULRunner, written mainly in JavaScript, and

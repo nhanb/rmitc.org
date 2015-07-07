@@ -9,6 +9,4 @@ published: true
 author: locvu
 ---
 
-**Mobile Guest Lecture**
-
-![Mobile Guest Lecture](http://img88.imageshack.us/img88/7943/posterob.png)
+> ![Mobile Guest Lecture](http://img88.imageshack.us/img88/7943/posterob.png)

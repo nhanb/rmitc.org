@@ -5,15 +5,15 @@ author: truongtx
 categories: [tutorials]
 ---
 
-## Introduction
-
-For several months, I have been using only one Google account for
+> For several months, I have been using only one Google account for
 storing and syncing my files between computers. It is really a great
 tool since it's integrated deeply with many Google services (which I use
 everyday). However, the storage is a problem for most cloud drive
 service. Before that, it offers only 5GB for free and now 15GB, still
 not enough for me even when I use the email that my university provided
 (with the capacity up to 30GB for free).
+
+## Introduction
 
 Today, while I was browsing my
 Google Drive, I suddenly thought that it would be very nice if I can

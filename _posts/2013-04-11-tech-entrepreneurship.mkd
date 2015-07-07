@@ -5,6 +5,8 @@ author: tommyly
 categories: [career]
 ---
 
+> 
+
 ## 1. What is a startup?
 
 In Vietnam, people often misunderstand about the term "startup" and tend to generalize it for all

@@ -9,8 +9,7 @@ published: true
 author: locvu
 ---
 
-**The Robocode Tournament 2011A has been delayed.**
-
+> **The Robocode Tournament 2011A has been delayed.**
 Regarding to the
 Robocode Tournament 2011A, for a number of unwanted reasons, this
 Tournament cannot be organised this semester and has been delayed until

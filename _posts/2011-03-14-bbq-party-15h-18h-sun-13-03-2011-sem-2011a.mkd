@@ -9,6 +9,7 @@ published: true
 author: locvu
 ---
 
+> 
 
 <p><strong>BBQ Party<br>
   15h-18h Sunday, 13-03-2011 (Semester 2011A)</strong></p>
@@ -26,4 +27,3 @@ author: locvu
 <p><a href="http://i2.wp.com/img3.imageshack.us/i/p1060893n.jpg/" target="_blank"><img src="http://i0.wp.com/img3.imageshack.us/img3/9445/p1060893n.th.jpg?w=940" border="0" alt="" width="150" height="100"></a> <a href="http://i1.wp.com/img858.imageshack.us/i/p1060896.jpg/" target="_blank"><img src="http://i1.wp.com/img858.imageshack.us/img858/2051/p1060896.th.jpg?w=940" border="0" alt="" width="150" height="100"></a> <a href="http://i2.wp.com/img824.imageshack.us/i/p1060897r.jpg/" target="_blank"><img src="http://i0.wp.com/img824.imageshack.us/img824/5104/p1060897r.th.jpg?w=940" border="0" alt="" width="150" height="100"></a></p>
 <p><a href="http://i2.wp.com/img140.imageshack.us/i/p1060898e.jpg/" target="_blank"><img src="http://i2.wp.com/img140.imageshack.us/img140/2899/p1060898e.th.jpg?w=940" border="0" alt="" width="150" height="100"></a> <a href="http://i2.wp.com/img155.imageshack.us/i/p1060899b.jpg/" target="_blank"><img src="http://i1.wp.com/img155.imageshack.us/img155/3122/p1060899b.th.jpg?w=940" border="0" alt="" width="150" height="100"></a> <a href="http://i2.wp.com/img862.imageshack.us/i/p1060900.jpg/" target="_blank"><img src="http://i0.wp.com/img862.imageshack.us/img862/2417/p1060900.th.jpg?w=940" border="0" alt="" width="150" height="100"></a></p>
 <p><a href="http://i2.wp.com/img690.imageshack.us/i/p1060903s.jpg/" target="_blank"><img src="http://i1.wp.com/img690.imageshack.us/img690/2519/p1060903s.th.jpg?w=940" border="0" alt="" width="150" height="100"></a> <a href="http://i1.wp.com/img687.imageshack.us/i/p1060907x.jpg/" target="_blank"><img src="http://i2.wp.com/img687.imageshack.us/img687/1123/p1060907x.th.jpg?w=940" border="0" alt="" width="150" height="100"></a> <a href="http://i0.wp.com/img189.imageshack.us/i/p1060913ey.jpg/" target="_blank"><img src="http://i0.wp.com/img189.imageshack.us/img189/3798/p1060913ey.th.jpg?w=940" border="0" alt="" width="100" height="150"></a></p>
-

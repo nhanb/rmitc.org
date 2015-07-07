@@ -9,7 +9,7 @@ published: true
 author: minhdao
 ---
 
-![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2012/10/finalRobocode-poster-web-compatible.jpg)
+> ![](https://googledrive.com/host/0B7i8MgDgsMX3aVNQMUtDbUgzYTQ/uploads/2012/10/finalRobocode-poster-web-compatible.jpg)
 
 You have heard about the rumors. Yes, Robocode is back this semester!
 

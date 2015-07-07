@@ -5,9 +5,7 @@ author: phunehehe
 categories: [activities, competitions]
 ---
 
-## What is Robocode?
-
-[Robocode](http://robocode.sourceforge.net/) is a multi-player game
+> [Robocode](http://robocode.sourceforge.net/) is a multi-player game
 written in Java where instead of directly participating, players write
 code to control simple tanks (robots) provided by the framework. Those
 robots then fight against each other in a rectangular battlefield to
@@ -38,4 +36,3 @@ helping them honing skills they learn in class.
 -   There will be other related activities, which can take place during
     weekly sessions or on [this blog](http://rmitc.org/): voting for
     favourite robot, strategy discussion, framework modification.
-

@@ -4,15 +4,15 @@ title: 'Robocode Tournament 2010B: Tutorial'
 categories: [activities, competitions]
 ---
 
-**[Robocode basics](http://www.slideshare.net/nguyenkhang90/robocode-basics "Robocode")** View more
+> **[Robocode basics](http://www.slideshare.net/nguyenkhang90/robocode-basics "Robocode")** View more
 [presentations](http://www.slideshare.net/) from [Nguyen Nam
 Khang](http://www.slideshare.net/nguyenkhang90).
 
-**[Robocode in netbeans](http://www.slideshare.net/nguyenkhang90/robocode-in-netbeans "Robocode")**
+> **[Robocode in netbeans](http://www.slideshare.net/nguyenkhang90/robocode-in-netbeans "Robocode")**
 View more [presentations](http://www.slideshare.net/) from [Nguyen Nam
 Khang](http://www.slideshare.net/nguyenkhang90).
 
-**[Robocode packaging &
+> **[Robocode packaging &
 submission](http://www.slideshare.net/nguyenkhang90/robocode-packaging-submission "Robocode")**
 View more [presentations](http://www.slideshare.net/) from [Nguyen Nam
 Khang](http://www.slideshare.net/nguyenkhang90).

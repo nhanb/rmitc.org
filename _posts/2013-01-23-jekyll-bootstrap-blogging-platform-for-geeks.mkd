@@ -5,13 +5,11 @@ author: truongtx
 categories: [tutorials]
 ---
 
-## Why we need Jekyll?
-
-Many of you should have known or have used some popular blogging platforms like Wordpress or
+> Many of you should have known or have used some popular blogging platforms like Wordpress or
 Blogspot. They are all great platforms that have been developed for a long time and have a big
 community. However, they also have some disadvantages.
 
--   Have you ever found that Wordpress or Blogspot too complex and too difficult to backup and
+> -   Have you ever found that Wordpress or Blogspot too complex and too difficult to backup and
     restore?
 -   Have you ever encountered the problem when you want to display a piece of programming code in
     Wordpress, Blogspot,...?
@@ -21,7 +19,7 @@ community. However, they also have some disadvantages.
 -   Have you ever noticed that they took a long time to load the pages?
 -   And so on...
 
-If you feel annoyed with those problems, it's time for you to find another better solution.
+> If you feel annoyed with those problems, it's time for you to find another better solution.
 
 ## What is Jekyll?
 

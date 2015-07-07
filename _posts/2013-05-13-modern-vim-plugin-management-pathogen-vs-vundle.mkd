@@ -6,8 +6,7 @@ author: nhanb
 categories: [tutorials]
 ---
 
-For the impatient ones: Vundle is better than pathogen, use it.
-
+> For the impatient ones: Vundle is better than pathogen, use it.
 This post will explain how vim plugins work and how to easily manage your plugins with
 third-party tools: Pathogen or Vundle. I assume you are using a Linux distro and have git
 already installed. If not, consult Dr. Google for more details.
@@ -15,7 +14,7 @@ already installed. If not, consult Dr. Google for more details.
 ## Vim plugins anatomy
 
 A vim plugin is simply a set of files that alter vim's behavior or add new functionalities to it.
-To make this possible, by default vim looks for files in your home folder (which is 
+To make this possible, by default vim looks for files in your home folder (which is
 `/home/username` or `~`):
 
 ## ~/.vimrc (file)
@@ -243,7 +242,7 @@ set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 
 " let Vundle manage Vundle
-" required! 
+" required!
 Bundle 'gmarik/vundle'
 
 " My Bundles here:

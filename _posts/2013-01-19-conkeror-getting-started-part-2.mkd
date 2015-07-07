@@ -7,7 +7,7 @@ tags: [conkeror, emacs, web browser]
 
 > Learn Conkeror by using Conkeror ;)
 
-The first time you open Conkeror, it will show you the tutorial. It is the basic
+> The first time you open Conkeror, it will show you the tutorial. It is the basic
 thing you need to know to use Conkeror. Moreover, in Conkeror, you can even view
 all the lists of functions, key bindings, what this key combination do,... So if
 you get stuck, just open them. Here I will show you how.

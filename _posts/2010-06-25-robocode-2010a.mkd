@@ -5,8 +5,7 @@ author: anhnguyen
 categories: [activities, competitions]
 ---
 
-There was an internal competition during the first semester of year
-2010. Members of RMITC were introduced to the Robocode framework and
+> There was an internal competition during the first semester of year 2010. Members of RMITC were introduced to the Robocode framework and
 started writing robots to pitch them against each other on Wednesday
 morning each week. Some members have a little prior experience with the
 framework, so their robots ruled the battlefield initially. Later weeks

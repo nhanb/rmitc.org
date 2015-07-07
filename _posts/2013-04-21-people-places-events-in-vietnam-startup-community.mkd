@@ -5,7 +5,7 @@ author: tommyly
 categories: [career, tutorials]
 ---
 
-[Last week]({% post_url 2013-04-11-tech-entrepreneurship %}), I have covered the very general
+> [Last week]({% post_url 2013-04-11-tech-entrepreneurship %}), I have covered the very general
 concept of startup & investment definition and type of startup investment in Vietnam.  This
 article's main purpose is to show you key peoples, events and resources that I think you need to
 know in Vietnamese market.

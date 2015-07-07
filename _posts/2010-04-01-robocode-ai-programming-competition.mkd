@@ -5,7 +5,7 @@ author: phunehehe
 categories: [activity, competition]
 ---
 
-This semester RMITC
+> This semester RMITC
 features [Robocode](http://robocode.sourceforge.net/), a competitive
 game for IT students. By running this series we hope to bring students
 new experience on programming (i.e. it can be fun). Khang Vo has written

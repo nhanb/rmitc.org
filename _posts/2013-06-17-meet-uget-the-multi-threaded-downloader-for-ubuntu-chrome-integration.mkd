@@ -5,7 +5,7 @@ author: hadobac
 categories: [tutorials]
 ---
 
-Ubuntu users have a few internet download clients to choose from, but
+> Ubuntu users have a few internet download clients to choose from, but
 none of them are particularly spectacular, like the tremendous Internet
 Download Manager for Windows. Many of downloaders are not user friendly,
 some are way too simple (I rather use the default clients come with

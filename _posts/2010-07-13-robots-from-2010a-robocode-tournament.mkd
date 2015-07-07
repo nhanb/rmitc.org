@@ -5,6 +5,6 @@ author: phunehehe
 categories: [activities, competitions]
 ---
 
-Source code and `.class` files of robots from last semester's competition have been uploaded. You
+> Source code and `.class` files of robots from last semester's competition have been uploaded. You
 can [download](http://dl.dropbox.com/u/7111262/2010A.zip) and put them in the "robots" directory of
 your robocode installation folder to try out.  Feel free to reuse!
