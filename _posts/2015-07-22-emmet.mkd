@@ -1,0 +1,62 @@
+---
+layout: post
+title: Emmet - the essential toolkit for web developers
+author: joebui
+categories: [news]
+---
+
+> Have you ever spent lots of time writing HTML/CSS code line-by-line on
+> a text editor, even though some text editors give you suggestions and have auto-complete
+> functions. Do not worry as with Emmet, you can greatly improve the speed of HTML/CSS workflow.
+
+## Installing Emmet on text editors
+Emmet is a plugins for many text editors, this includes the popular Sublime Text and Atom. There
+are more text editors out there that Emmet supports such as Notepad++ and even Adobe Dreamweaver.
+
+You can follow this [website](http://emmet.io/download/) to install Emmet on the text editor you use.
+
+## Basic "magic" of Emmet
+**Create nested elements by simply typing:**
+
+```
+div>ul>li
+```
+
+then press Tab and you will have this result quickly:
+
+```
+<div>
+    <ul>
+        <li></li>
+    </ul>
+</div>
+```
+
+**Create an element with class name or id name with speed:**
+
+```
+div#header+div.page+div#footer.class1.class2.class3
+```
+
+then press Tab and you will have the following result:
+
+```
+<div id="header"></div>
+<div class="page"></div>
+<div id="footer" class="class1 class2 class3"></div>
+```
+
+**Writing text for an element:**
+
+```
+a{Click me}
+```
+
+then press Tab and you will have:
+
+```
+<a href="">Click me</a>
+```
+
+There are a lot more syntax shortcuts of Emmet. You can discover more "magic" in this
+[documentation](http://docs.emmet.io/).
