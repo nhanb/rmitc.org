@@ -1,0 +1,18 @@
+---
+layout: post
+title: Using Jetbrains products for free
+author: joebui
+categories: [news]
+---
+
+> Have you ever used or heard of the software from Jetbrains?
+> If yes then you can notice that there are some great products that
+> you have to pay to get full version or buy a whole product such as IntelliJ Ultimate
+> or ReSharper plugin. Fortunately, with your student email you can register for a Jetbrains
+> student account that allows you to use the products for free in 1 YEAR.
+
+Follow this [link](https://www.jetbrains.com/student/), scroll down and link "Apply now" and follow the instruction
+to register. These are the products you can use for free with this account: **IntelliJ IDEA Ultimate, PyCharm Professional,
+RubyMine, PhpStorm, WebStorm, AppCode, CLion, ReSharper, dotTrace, dotCover, dotMemory and ReSharper C++**.
+
+After downloading and installing the product(s), you need to login with your Jetbrains student account to activate the license. Enjoy!
