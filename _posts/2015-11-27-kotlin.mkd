@@ -18,14 +18,10 @@ categories: [news]
 
 ## What does it look like?
 ```
-/** create a class */
 data class Product(val name: String, val description: String)
 
-/** main function */
 fun main(args: Array<String>) {
-    /** instantiate Product object */
     val product = Product("kotlin", "new language")
-    /** Print the object's properties and "Hello Kotlin" */
     println(product)
     println("Hello Kotlin")
 }
