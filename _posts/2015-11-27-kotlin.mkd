@@ -1,0 +1,44 @@
+---
+layout: post
+title: Kotlin - A new programming language for JVM, Android and browser
+author: joebui
+categories: [news]
+---
+
+> Have you ever used Java? If yes then you can see that Java's syntax is more complicated and longer than other
+> language such as C#, Python, Ruby,... Also, when writing app for Android, you will need to use Java and it will
+> take a lot of time for you to complete the code. But, with Kotlin creating app for Android can become faster.
+
+## Advantages of using Kotlin
+-   Concise: reduce the amount of code you need to write
+-   Safe: avoid entire classes of errors such as null pointer exception
+-   Versatile: build server-side application, Android apps or web's front-end
+-   Interoperable: 100% Java interoperability
+-   Tooling: you are free to choose command Line compiler or First Class IDE.
+
+## What does it look like?
+```
+/** create a class */
+data class Product(val name: String, val description: String)
+
+/** main function */
+fun main(args: Array<String>) {
+    /** instantiate Product object */
+    val product = Product("kotlin", "new language")
+    /** Print the object's properties and "Hello Kotlin" */
+    println(product)
+    println("Hello Kotlin")
+}
+```
+
+As you can see, the code is significantly shorter in comparison to Java
+
+## How to try Kotlin?
+-   Download the standalone compiler [here](https://kotlinlang.org/docs/tutorials/command-line.html).
+-   Try it with [IntelliJ](https://kotlinlang.org/docs/tutorials/getting-started.html) or [Eclipse](https://kotlinlang.org/docs/tutorials/getting-started-eclipse.html).
+-   or you can try it online [here](http://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt).
+
+## More information
+You can visit this [website](kotlinlang.org) for more information on Kotlin and how to use it.
+
+**WARNING: Kotlin is still in beta version and may not be stable. I suggest you should use it for testing or trying purpose only, not for real project**
