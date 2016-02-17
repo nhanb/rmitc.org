@@ -1,0 +1,15 @@
+---
+layout: post
+title: Boost your WiFi signal
+author: joebui
+categories: [tutorials]
+---
+
+> Have you ever been experienced slow WiFi at your home? Do you want to boost your WiFi signal without
+> spending a lot more money? Don't worry, there is one way to boost the signal by using BEER CAN. I've found
+> a YouTube video showing you how to do so. Enjoy faster WiFi signal!
+
+[![Beer Can WiFi Booster!][1]][2]
+
+ [1]: http://img.youtube.com/vi/tonZeKP-Mi4/0.jpg "A Cleveland Heist motorcycle on the roads of Israel"
+ [2]: http://www.youtube.com/watch?v=tonZeKP-Mi4
