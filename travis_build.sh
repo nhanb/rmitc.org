@@ -5,7 +5,8 @@
 set -e
 
 # Generate site from markdown source
-jekyll build
+# http://stackoverflow.com/questions/28611513/travis-build-failing-on-jekyll-project-cannot-find-jekyll
+bundle exec jekyll build
 
 # Only proceed to deployment if this is the master branch
 # and not a pull request

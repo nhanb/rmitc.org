@@ -2,9 +2,15 @@
 
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
-exclude: ["README.mkd"] # files to exclude
+exclude: [
+  README.mkd,
+  vendor
+  # https://github.com/jekyll/jekyll/issues/2938
+  # lol quirky stack is quirky
+]
 highlighter: true
-markdown: redcarpet
+markdown: kramdown
+gems: [jekyll-paginate]
 
 info:
   name: RMITC

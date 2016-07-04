@@ -1,12 +1,14 @@
 language: ruby
 rvm:
-- '2.1'
-install: gem install jekyll
-script: "./travis_build.sh"
+  - '2.2'
+
+script: ./travis_build.sh
+
 notifications:
   hipchat:
     rooms:
       secure: mWlSpRdoI3WoX9RY00uNGpJonoxd3gSMcbBXMAtA0YegdCI7TMrtSzKWuWCCNY4K4U5J6r4trHtRvjOeGGbCHFSnaqzs6rg1ocfs2zxqHHXuVxthrM2njFT8KaSkaNVz+V/Vg6+iDe8pIO3hf83xr+i0exRvujkSfTKsFDx7d/M=
+
 env:
   global:
     secure: rnc9foBzboDEBkSHN4HuPMPyAcBXfS1OuS93QrIhp6hN7tDCE5zA6MY/ehJara2DCeETIlODoa97g1MaDSMHWrj8N3yKvl7zypVuke3YyeAsGmZ45MCKi/uhYhQQmMBt4cGyKis0Q7k503fbIfjkFpQkyIwYCI4m+FYWmNkXPDI=

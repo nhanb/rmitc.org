@@ -17,6 +17,17 @@ Not really. Although running all on free services is a huge plus, our main goal 
 that great things can be done based on software and infrastructure powered by the open source
 community.
 
+# Build locally
+
+While we already have a CI build pipeline in place, you should obviously be able to run your own
+local instance as you compose your posts. Simply:
+
+- [Install ruby][5] (2.2 recommended).
+- `gem install bundler`
+- `bundle install`
+- `jekyll s`
+- Marvel at your own creation at http://localhost:4000
+
 # License
 
 This whole repository is released under the MIT license. See `LICENSE.txt`.
@@ -29,3 +40,4 @@ under the MIT license too. Its original license can be found in `_includes/LICEN
 [2]: http://jekyllrb.com
 [3]: https://travis-ci.org/rmitc/rmitc.org
 [4]: https://github.com/rmitc/rmitc.github.io
+[5]: https://rvm.io/
